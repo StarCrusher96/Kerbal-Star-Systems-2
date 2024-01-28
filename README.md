@@ -46,13 +46,14 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
  * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases) KSS2 is known to work against release 197
  
 ### 3. Visuals  
-   * [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): For clouds, aurorae, lightning, etc...
-       - [NEW EVE Volumetrics](https://github.com/ProximaCentauri-star/Galaxies-Unbound-EVE-Volumetric/releases): For the new volumetric clouds, aurorae, geysers, etc. (WIP)
-   * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): For atmospheric shaders.
+   * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc.
+       - [Environmental Visual Enhancements Redux](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): For those that are unable to purchase the new EVE Volumetrics.
+       - [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): For those that are unable to purchase the new EVE volumetrics.
    * [**Singularity**](https://github.com/LGhassen/Singularity/releases): For gravitational lensing around black holes, neutron star, etc ...
    * [**Instantiator**](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/) - ! remove the exampleconfig.cfg. : For neutron star beams.
+   * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
    
-### 4. GU General Settings file 
+### 4. KSS2 General Settings file 
    - GravityFix = True/False : Lowers Black holes', neutron stars' gravity.
    - GroundScatterDistance = x : Choose between 2 - 4 - 6 - 8 - 10 - 12 (groundscatters rendered over x distance in km)
    - RemoveLenseDirt = True/False : Removes lense dirt from all stars.
