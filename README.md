@@ -88,15 +88,12 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 ### Not compatible
    - Principia
-   - Do not install other stock centered visual mods (AVP, SVE, ...) when you have KSS2's Stock Visuals installed. Remove the `_Stock` from `KSS2/EVE` if you did by accident or want other visuals in stock.
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
 
 
 ## After launching the game (!important!)
 ### Checklist
   * You need Texture quality at its highest setting. Otherwise a few worlds will spawn as black orbs. 
-  * (only for GU 1.3.1 and 1.4.x) To use parallax with GU, you will need to set Terrain Detail to "GU_High" instead of "High" when setting up the parallax settings. A game restart will be needed as well.  If you do not have Parallax, this step is not needed.
-  * If you uninstall GU after using parallax, the "GU_High" preset needs to be removed from the KSP general settings.cfg, found in the game files. Scroll to the bottom of the settings.cfg and remove the terrain preset for "GU_High".
 
 ### Maneuver Tool Bug
    * Source: [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/) 
@@ -111,14 +108,11 @@ The KSP 1.12 maneuver planner tool might cause issues. It can cause stutter and 
 
 ## Chart of the Stars
 
-This map shows approximately the correct locations of all the stars that you can find in GU. 
-Keep in mind that declination is not visually represented in this 2D map. To achieve this setup for your game, you install each component and you must not use the galaxy mode.
-
-  ![screenshot1](https://cdn.discordapp.com/attachments/609407811277029406/790561074230460436/GU_Star_Map1.1.png)
+TBA
 
 
 ## Support and Socials
-  - [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/198895-111x-112x-galaxies-unbound-a-stellar-odyssey%E2%84%A2-14-04-jan-2023/)  
+  - [KSP Forum](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev/#comment-4358988)  
   - [Discord Server](https://discord.gg/acUttYPXd5)
   - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
 
