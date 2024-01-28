@@ -1,6 +1,6 @@
 # Kerbal-Star-Systems-2
 
-Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly upon the work in GU.  KSS2 takes KSP to yet another new level by bringing you a stunning interpretation of the stellar neighbourhood near Kerbol.
+Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly upon the work in Galaxies Unbound.  KSS2 takes KSP to yet another new level by bringing you a stunning interpretation of the stellar neighbourhood near Kerbol.
 
 
 ## Overview
