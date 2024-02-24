@@ -32,10 +32,10 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    
 ## Installation 
 ### 1. Download KSS2    
+  - Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.
   - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases) 
-       - KSS2_Core `+` at least one system or expansion.
-  * Make sure you deleted previous versions. Merging with old files will not ensure the mod to work properly.
-  * Open the zip file and put the `KSS2`-folder in `/GameData`.
+       - Download KSS2_Core.  Unzip and drop the contents of the zip package onto GameData
+       - Download the desired KSS2 system.  Unzip and drop the contents of the zip package onto GameData
   * The `KSS2`-folder should look like this.
 
 
@@ -43,17 +43,20 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 
 ### 2. Dependencies
- * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases) KSS2 is known to work against release 197
+ * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases) KSS2 is known to work against Kopernicus release 197
  
 ### 3. Visuals  
-   * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.
-       - [Environmental Visual Enhancements Redux](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): For those that are unable to purchase the new EVE Volumetrics.
+   * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
+       - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
+       - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available.
        - [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): For those that are unable to purchase the new EVE volumetrics.
+   * [**Parallax2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Parallax 1 is not supported
    * [**Singularity**](https://github.com/LGhassen/Singularity/releases): For gravitational lensing around black holes, neutron star, etc ...
    * [**Instantiator**](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/) - ! remove the exampleconfig.cfg. : For neutron star beams.
    * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
    
 ### 4. KSS2 General Settings file 
+   - Advise that you do not change any default settings unless you know what you are doing
    - GravityFix = True/False : Lowers Black holes', neutron stars' gravity.
    - GroundScatterDistance = x : Choose between 2 - 4 - 6 - 8 - 10 - 12 (groundscatters rendered over x distance in km)
    - RemoveLenseDirt = True/False : Removes lense dirt from all stars.
@@ -66,7 +69,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### Support 
    - [Environmental Visual Enhancements Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) 
    - [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/#:~:text=Scatterer%20is%20a%20graphical%20mod,Atmospheric%20scattering)
-   - [Parallax](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (!Needs Parallax Stock Textures)
+   - [Parallax](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
    - [Instantiator](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/)
    - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/) (!NOT compatible with GALAXY-mode)
    - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
@@ -93,7 +96,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 ## After launching the game (!important!)
 ### Checklist
-  * You need Texture quality at its highest setting. Otherwise a few worlds will spawn as black orbs. 
+  * You need Texture quality at its highest setting. Otherwise a few worlds may spawn as black orbs. 
 
 ### Maneuver Tool Bug
    * Source: [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/) 
