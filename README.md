@@ -24,7 +24,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ##
 
 
-## System Requirements
+## Minimum System Requirements
    * Memory: 8 GB RAM
    * Graphics: 1-2 GB VRAM
    * KSP: 1.11.x - 1.12.5
