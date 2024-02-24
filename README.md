@@ -46,7 +46,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
  * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases) KSS2 is known to work against release 197
  
 ### 3. Visuals  
-   * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc.
+   * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.
        - [Environmental Visual Enhancements Redux](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): For those that are unable to purchase the new EVE Volumetrics.
        - [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): For those that are unable to purchase the new EVE volumetrics.
    * [**Singularity**](https://github.com/LGhassen/Singularity/releases): For gravitational lensing around black holes, neutron star, etc ...
