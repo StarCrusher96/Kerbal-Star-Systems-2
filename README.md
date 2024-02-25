@@ -69,28 +69,29 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### Support 
    - [Environmental Visual Enhancements Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) 
    - [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/#:~:text=Scatterer%20is%20a%20graphical%20mod,Atmospheric%20scattering)
-   - [Parallax](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
+   - [Parallax2](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
    - [Instantiator](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/)
-   - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/) (!NOT compatible with GALAXY-mode)
+   - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
    - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
    - [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
    - [Distant Object Enhancement](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-18-112x-distant-object-enhancement-continued-v2031-29-september-2021/)
-   - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/) 
-   - [SpaceDust](https://github.com/Vexxel/SpaceDustUnbound/releases) 
+   - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [Singularity](https://github.com/LGhassen/Singularity/releases)
 
-### Planetmods
+### Planetmods - unless annotated, they are not known to be compatable but may be. Help us by testing and reporting your results.
    - Beyond Home
    - Corelian
    - ExtraSolar
    - GEP
    - GPP
    - Lightlevels 
-   - OPM
-   - KSRSS (should work now)
+   - OPM (Compatable)
+   - KSRSS
 
 ### Not compatible
    - Principia
+   - Galaxies Unbound
+   - Parallax 1
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
 
 
