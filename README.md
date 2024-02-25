@@ -64,6 +64,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - SunAsteroidBelts = True/False : Use this to add asteroidbelts around the Sun.
    - ExtraSolarAsteroids = True/False : Use this to add asteroidbelts around other stars.
    - Scale = x : Rescale * 1 - 2.5 - 10 (!needs [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions/releases))
+   - Homeswitch = x (Homeswitch and Galaxy mode are NOT currently supported)
 
 
 ## Compatibility  
@@ -79,6 +80,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [Singularity](https://github.com/LGhassen/Singularity/releases)
    - [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
+   - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
 
 ### Planetmods - unless annotated, they are not known to be compatable but may be. Help us by testing and reporting your results.
    - Beyond Home
@@ -95,6 +97,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - Galaxies Unbound
    - Parallax 1
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
+   - Homeswitch and Galaxy mode are NOT currently supported
 
 
 ## After launching the game (!important!)
