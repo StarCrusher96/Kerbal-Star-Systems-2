@@ -82,14 +82,14 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
    - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
 
-### Planetmods - unless annotated, they are not known to be compatable but may be. Help us by testing and reporting your results.
+### Planetmods - unless annotated, they are not known to be compatable but **MAY** be. Help us by testing and reporting your results.
    - Beyond Home
    - Corelian
    - ExtraSolar
    - GEP
    - GPP
    - Lightlevels 
-   - OPM (Compatable)
+   - OPM (**Compatable**)
    - KSRSS
 
 ### Not compatible
