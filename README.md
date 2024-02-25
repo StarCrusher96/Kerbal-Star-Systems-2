@@ -36,6 +36,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
   - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases) 
        - Download KSS2_Core.  Unzip and drop the contents of the zip package onto GameData
        - Download the desired KSS2 system.  Unzip and drop the contents of the zip package onto GameData
+       - Volumetric EVE is natively supported.  If you do not have Volumetric EVE, then you will need to download (add download link and add words)
   * The `KSS2`-folder should look like this.
 
 
@@ -43,7 +44,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 
 ### 2. Dependencies
- * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases) KSS2 is known to work against Kopernicus release 197
+ * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases) Kopernicus is required and KSS2 is known to work against Kopernicus release 197
  
 ### 3. Visuals  
    * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
