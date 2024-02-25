@@ -78,6 +78,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [Distant Object Enhancement](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-18-112x-distant-object-enhancement-continued-v2031-29-september-2021/)
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [Singularity](https://github.com/LGhassen/Singularity/releases)
+   - [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
 
 ### Planetmods - unless annotated, they are not known to be compatable but may be. Help us by testing and reporting your results.
    - Beyond Home
