@@ -25,14 +25,14 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 
 ## Minimum System Requirements
-   * Memory: 8 GB RAM
+   * Memory: 8-16 GB RAM
    * Graphics: 1-2 GB VRAM
    * KSP: 1.12.x
    
    
 ## Installation 
 ### 1. Download KSS2    
-  - Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.
+  (- Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.) -> Once there are multiple versions.
   - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases) 
        - Download KSS2_Core.  Unzip and drop the contents of the zip package onto GameData
        - Download the desired KSS2 system.  Unzip and drop the contents of the zip package onto GameData
@@ -107,13 +107,14 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### Maneuver Tool Bug
    * Source: [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/) 
    
-The KSP 1.12 maneuver planner tool might cause issues. It can cause stutter and freezes on scene load, when changing SOI or when editing maneuver nodes, especially with Kopernicus modified systems. To solve this, you better disable it. 
+The KSP 1.12 maneuver planner tool might cause issues. It can cause stutter and freezes on scene load, when changing SOI, when timewarping far from Kerbol or when editing maneuver nodes, especially with Kopernicus modified systems. To solve this, you better disable it. 
+KSS2 provides a patch when Community Fixes are installed to make sure this happens.
 
   ![screenshot2](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
 
 
 ## Home Switch and Galaxy mode
-  ! Home Switch and Galaxy mode are not currently available available in KSS2. 
+  ! Home Switch and Galaxy mode are not currently available in KSS2. 
 
 ## Chart of the Stars
 
