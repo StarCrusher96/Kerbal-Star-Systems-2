@@ -40,7 +40,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
   * The `KSS2`-folder should look like this.
 
 
-![KSS2_folder](https://www.dropbox.com/scl/fi/3wr0u04ebnh0mwk8wfly3/KSS2_folder.PNG?rlkey=lw85y9hv9q1vq914qit0ylor0&dl=0)
+![KSS2_folder](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/assets/55005980/9f773d65-159e-4a20-ba96-8f22e1badbfb)
 
 
 ### 2. Dependencies
