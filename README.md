@@ -81,6 +81,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [Singularity](https://github.com/LGhassen/Singularity/releases)
    - [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
    - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
+   - [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) KSS2 related contracts. V2.1.3 or greater.
 
 ### Planetmods - unless annotated, they are not known to be compatable but MAY be. Help us by testing and reporting your results.
    - Beyond Home
