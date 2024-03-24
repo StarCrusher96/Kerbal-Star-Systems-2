@@ -126,7 +126,7 @@ TBA
 
 
 ## Support and Socials
-  - [KSP Forum](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev/#comment-4358988)  
+  - [KSP Forum](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev)  
   - [Discord Server](https://discord.gg/acUttYPXd5)
   - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
 
