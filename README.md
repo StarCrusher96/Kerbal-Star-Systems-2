@@ -131,4 +131,4 @@ TBA
   - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
 
 
-This mod is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+Kerbal Star Systems 2 © 2024 by StarCrusher96 is licensed under CC BY-NC-ND 4.0 
