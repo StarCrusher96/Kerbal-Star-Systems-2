@@ -86,7 +86,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
    - [Singularity](https://github.com/LGhassen/Singularity/releases)
 
-### Planetmods - unless annotated, they are not known to be compatable but MAY be. Help us by testing and reporting your results.
+### Planetmods - unless annotated, they are not known to be compatible but MAY be. Help us by testing and reporting your results.
    - Beyond Home
    - Corelian
    - ExtraSolar
