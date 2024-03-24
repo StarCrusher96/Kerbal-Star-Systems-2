@@ -58,7 +58,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    
 ### 4. KSS2 General Settings file 
    - Advise that you do not change any default settings unless you know what you are doing
-   - GravityFix = True/False : Lowers Black holes', neutron stars' gravity.
+   - GravityFix = True/False : Lowers Black holes', neutron stars' gravity. (will come in handy later)
    - GroundScatterDistance = x : Choose between 2 - 4 - 6 - 8 - 10 - 12 (groundscatters rendered over x distance in km)
    - RemoveLenseDirt = True/False : Removes lense dirt from all stars.
    - SunAsteroidBelts = True/False : Use this to add asteroidbelts around the Sun.
@@ -74,14 +74,17 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [Parallax2](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
    - [Instantiator](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/)
    - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
-   - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
-   - [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
    - [Distant Object Enhancement](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-18-112x-distant-object-enhancement-continued-v2031-29-september-2021/)
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
-   - [Singularity](https://github.com/LGhassen/Singularity/releases)
    - [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
    - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
    - [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) KSS2 related contracts. V2.1.3 or greater.
+   - [NiftyNebulae](https://github.com/RJVB09/NiftyNebulae/releases)
+
+### Support (future)
+   - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
+   - [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
+   - [Singularity](https://github.com/LGhassen/Singularity/releases)
 
 ### Planetmods - unless annotated, they are not known to be compatable but MAY be. Help us by testing and reporting your results.
    - Beyond Home
@@ -108,7 +111,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### Maneuver Tool Bug
    * Source: [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/) 
    
-The KSP 1.12 maneuver planner tool might cause issues. It can cause stutter and freezes on scene load, when changing SOI, when timewarping far from Kerbol or when editing maneuver nodes, especially with Kopernicus modified systems. To solve this, you better disable it. 
+The KSP 1.12 maneuver planner tool will cause issues. It can cause stutter and freezes on scene load, when changing SOI, when timewarping far from Kerbol or when editing maneuver nodes, especially with Kopernicus modified systems. To solve this, you better disable it. 
 KSS2 provides a patch when Community Fixes are installed to make sure this happens.
 
   ![screenshot2](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
