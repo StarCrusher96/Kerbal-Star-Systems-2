@@ -53,7 +53,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
        - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
        - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available. **SUPPORT COMING SOON.**
-       - [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
+   * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
    * [**Parallax2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Parallax 1 is not supported
    * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
    
