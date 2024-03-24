@@ -104,6 +104,8 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
    - Homeswitch and Galaxy mode are **NOT** currently supported
 
+### Contracts
+   - KSS2 has a custom contract system for Career Mode players.  [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) will need to be installed and you will need minimum v2.1.3. There are early and mid game contracts to help you staff up for the push to Interstellar and the main contracts will start to drop once you have fully upgraded the KSC.
 
 ## After launching the game (!important!)
 ### Checklist
