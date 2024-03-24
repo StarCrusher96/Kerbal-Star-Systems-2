@@ -66,8 +66,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - RemoveLenseDirt = True/False : Removes lense dirt from all stars.
    - SunAsteroidBelts = True/False : Use this to add asteroidbelts around the Sun.
    - ExtraSolarAsteroids = True/False : Use this to add asteroidbelts around other stars.
-   - Scale = x : Rescale * 1 - 2.5 - 10 (!needs [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions/releases))
-   - Homeswitch = x (Homeswitch and Galaxy mode are **NOT** currently supported)
+   - Scale = x : Rescale * 1 - 2.5 - 10 (!needs [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions/releases)) Note: This has not been tested and feedback would be appreciated.
 
 
 ## Compatibility  
@@ -123,7 +122,7 @@ KSS2 provides a patch when Community Fixes are installed to make sure this happe
 
 
 ## Home Switch and Galaxy mode
-  ! Home Switch and Galaxy mode are not currently available in KSS2. 
+  Neither Home Switch nor Galaxy mode are supported in KSS2 at this time. 
 
 ## Chart of the Stars
 
