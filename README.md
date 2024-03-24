@@ -34,10 +34,11 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ## Installation 
 ### 1. Download KSS2    
   (- Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.) -> Once there are multiple versions.
-  - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases) 
-       - Download KSS2_Core.  Unzip and drop the contents of the zip package onto GameData
-       - Download the desired KSS2 system.  Unzip and drop the contents of the zip package onto GameData
-       - Volumetric EVE is natively supported.  If you do not have Volumetric EVE, then you will need to download (add download link for legacy EVE and add words)
+  - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)
+  - GU is not compatable in the same game with KSS2. You will get Kopernicus warnings and it will not complete loading
+       - Download KSS2_Core.  Unzip the file and copy the contents into your GameData directory
+       - Download the desired KSS2 system.  Unzip the file and also copy the contents into your GameData directory.
+       - Volumetric EVE is natively supported by KSS2.  Legacy EVE is not currently supported, but will be soon.
   * The `KSS2`-folder should look like this.
 
 
