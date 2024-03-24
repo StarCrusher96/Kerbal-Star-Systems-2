@@ -14,6 +14,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
       - [Support](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support)
       - [Planetmods](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#planetmods)
       - [Not Compatible](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#not-compatible)
+      - [Contracts](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#contracts)
    - [**After launching the game**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#after-launching-the-game-important)
       - [Checklist](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#checklist)
       - [Maneuver Tool Bug](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#maneuver-tool-bug)
