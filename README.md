@@ -97,7 +97,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - GEP
    - GPP
    - Lightlevels 
-   - OPM (**Compatable**)
+   - OPM (**Compatible**)
    - KSRSS
 
 ### Not compatible
