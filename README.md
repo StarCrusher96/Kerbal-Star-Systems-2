@@ -11,7 +11,8 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
       - [3. Visuals](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#3-visuals)
       - [4. KSS2 General Settings file](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#4-gu-general-settings-file)
    - [**Compatibility**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#compatibility)
-      - [Support](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support)
+      - [Support Visuals](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-visuals)
+      - [Support Parts & Gameplay](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-parts-and-gameplay)
       - [Planetmods](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#planetmods)
       - [Not Compatible](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#not-compatible)
       - [Contracts](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#contracts)
@@ -79,7 +80,6 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
      
 ### Support Parts and Gameplay
    - [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)
-
    - [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) KSS2 related contracts. V2.1.3 or greater.
    - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
