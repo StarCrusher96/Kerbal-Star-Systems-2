@@ -4,7 +4,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 
 ## Overview
-   - [**System Requirements**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#system-requirements)
+   - [**System Requirements**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#minimum-system-requirements)
    - [**Installation**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#installation)
       - [1. Download KSS2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#1-download-gu)
       - [2. Dependencies](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#2-dependencies)
