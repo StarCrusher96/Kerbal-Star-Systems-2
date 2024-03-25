@@ -68,18 +68,22 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 
 ## Compatibility  
-### Support 
+### Support Visuals
    - [Environmental Visual Enhancements Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/) 
    - [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/#:~:text=Scatterer%20is%20a%20graphical%20mod,Atmospheric%20scattering)
    - [Parallax2](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
    - [Instantiator](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/)
-   - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
    - [Distant Object Enhancement](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-18-112x-distant-object-enhancement-continued-v2031-29-september-2021/)
+   - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
+   - [NiftyNebulae](https://github.com/RJVB09/NiftyNebulae/releases)
+     
+### Support Parts and Gameplay
+   - [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)
+
+   - [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) KSS2 related contracts. V2.1.3 or greater.
+   - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/)
-   - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
-   - [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) KSS2 related contracts. V2.1.3 or greater.
-   - [NiftyNebulae](https://github.com/RJVB09/NiftyNebulae/releases)
 
 ### Support (future)
    - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
