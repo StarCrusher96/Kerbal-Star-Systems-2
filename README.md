@@ -6,10 +6,10 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ## Overview
    - [**System Requirements**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#minimum-system-requirements)
    - [**Installation**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#installation)
-      - [1. Download KSS2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#1-download-gu)
+      - [1. Download KSS2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#1-download-kss2)
       - [2. Dependencies](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#2-dependencies)
       - [3. Visuals](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#3-visuals)
-      - [4. KSS2 General Settings file](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#4-gu-general-settings-file)
+      - [4. KSS2 General Settings file](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#4-kss2-general-settings-file)
    - [**Compatibility**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#compatibility)
       - [Support Visuals](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-visuals)
       - [Support Parts & Gameplay](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-parts-and-gameplay)
