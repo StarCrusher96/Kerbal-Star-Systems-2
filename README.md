@@ -96,6 +96,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - ExtraSolar
    - GEP
    - GPP
+   - Kcalbeloh (**Compatible**) default settings only. Remove 000_NiakoUtils directory and set **DisableSkybox = True** in Kcalbeloh System Settings.cfg
    - Lightlevels 
    - OPM (**Compatible**)
    - KSRSS
