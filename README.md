@@ -138,4 +138,4 @@ TBA
   - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
 
 
-Kerbal Star Systems 2 © 2024 by StarCrusher96 is licensed under Some Rights Reserved.
+Kerbal Star Systems 2 © 2024 by StarCrusher96 is licensed under CC BY-NC-ND 4.0.
