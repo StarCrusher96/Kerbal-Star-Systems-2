@@ -34,7 +34,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    
 ## Installation 
 ### 1. Download KSS2    
-  (- Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.)
+  - Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.
   - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)
   - GU is not compatable in the same game with KSS2. You will get Kopernicus warnings and it will not complete loading
        - Download KSS2_Core.  Unzip the file and copy the KSS2 directory into your GameData directory
