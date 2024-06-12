@@ -1,4 +1,4 @@
-# Kerbal-Star-Systems-2
+# Kerbal-Star-Systems-2 [1.0.1]
 
 Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly upon the work in Galaxies Unbound.  KSS2 takes KSP to yet another new level by bringing you a stunning interpretation of the stellar neighbourhood near Kerbol.
 
@@ -34,12 +34,12 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    
 ## Installation 
 ### 1. Download KSS2    
-  (- Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.) -> Once there are multiple versions.
+  (- Delete previous KSS2 versions from GameData before installing. Merging with old files will not ensure the mod to work properly.)
   - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)
   - GU is not compatable in the same game with KSS2. You will get Kopernicus warnings and it will not complete loading
        - Download KSS2_Core.  Unzip the file and copy the KSS2 directory into your GameData directory
        - Download the desired KSS2 system.  Unzip the file and also copy the KSS2 directory into your GameData directory.
-       - Volumetric EVE is natively supported by KSS2.  Legacy EVE is not currently supported, but will be soon.
+       - Volumetric EVE is natively supported by KSS2.  Legacy EVE is not currently supported, but is being worked on.
   * The `KSS2`-folder should look like this.
 
 
@@ -48,7 +48,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 
 ### 2. Dependencies
- * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases): Download and install Kopernicus (Known to work against release 197).
+ * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases): Download and install Kopernicus (v204 or later is required for the latest features in KSS2).
  
 ### 3. Visuals  
    * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
@@ -104,12 +104,14 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### Not compatible
    - Principia
    - Galaxies Unbound
+   - legacy EVE
+   - OPM Parallax mods
    - Parallax 1
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
    - Homeswitch and Galaxy mode are **NOT** currently supported
 
 ### Contracts
-   - KSS2 has a custom contract system for Career Mode players.  [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) will need to be installed and you will need minimum v2.1.3. There are early and mid game contracts to help you staff up for the push to Interstellar and the main contracts will start to drop once you have fully upgraded the KSC.
+   - KSS2 has a custom contract system for Career Mode players.  [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) will need to be installed and you will need minimum v2.1.3. There are early and mid game contracts to help you staff up for the push to Interstellar and the main contracts will start to drop once you have fully upgraded the KSC. The contracts will steer you to the more interesting things.
 
 ## After launching the game (!important!)
 ### Checklist
