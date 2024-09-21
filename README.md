@@ -108,6 +108,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - legacy EVE
    - OPM Parallax mods
    - Parallax 1
+   - Parallax Continued
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
    - Homeswitch and Galaxy mode are **NOT** currently supported
 
