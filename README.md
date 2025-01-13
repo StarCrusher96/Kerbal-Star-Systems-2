@@ -56,7 +56,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
        - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
    * [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available. **SUPPORT COMING SOON.**
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
-   * [**Parallax2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Parallax 1 is not supported
+   * [**Parallax 2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Parallax 1 is not supported, Parallax Continued will be supported in the near future.
    * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
    
 ### 4. KSS2 General Settings file 
@@ -73,13 +73,13 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 ## Compatibility  
 ### Support Visuals
-   -  [**Volumetric EVE**](https://www.patreon.com/posts/true-volumetric-77198227)
+   - [Volumetric EVE](https://www.patreon.com/posts/true-volumetric-77198227)
    - [Environmental Visual Enhancements Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
    - [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/#:~:text=Scatterer%20is%20a%20graphical%20mod,Atmospheric%20scattering)
-   - [Parallax2](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
+   - [Parallax 2](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
    - [Instantiator](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/)
    - [Distant Object Enhancement](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-18-112x-distant-object-enhancement-continued-v2031-29-september-2021/)
-   - [Kopernicus Expansion-er](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
+   - [Kopernicus Expansion Continued](https://forum.kerbalspaceprogram.com/topic/195844-110-112-kopernicus-expansion-continued-er/) Footprints and a few other interesting things
    - [NiftyNebulae](https://github.com/RJVB09/NiftyNebulae/releases)
      
 ### Support Parts and Gameplay
@@ -107,7 +107,6 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 ### Not compatible
    - Principia
-   - Galaxies Unbound
    - legacy EVE
    - OPM Parallax mods
    - Parallax 1
@@ -116,7 +115,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - Homeswitch and Galaxy mode are **NOT** currently supported
 
 ### Contracts
-   - KSS2 has a custom contract system for Career Mode players.  [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) will need to be installed and you will need minimum v2.1.3. There are early and mid game contracts to help you staff up for the push to Interstellar and the main contracts will start to drop once you have fully upgraded the KSC. The contracts will steer you to the more interesting things.
+   - KSS2 has a custom contract system for Career Mode players. [Contract Configurator](https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05/page/208/) will need to be installed and you will need minimum v2.1.3. There are early and mid game contracts to help you staff up for the push to Interstellar and the main contracts will start to drop once you have fully upgraded the KSC. The contracts will steer you to the more interesting things.
 
 ## After launching the game (!important!)
 ### Checklist
@@ -145,4 +144,4 @@ TBA
   - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
 
 
-Kerbal Star Systems 2 © 2024 by StarCrusher96 is licensed under CC BY-NC-ND 4.0.
+Kerbal Star Systems © 2025 by StarCrusher96 is licensed under CC BY-NC-ND 4.0, with all textures, except as indicated, falling under an All Rights Reserved license.
