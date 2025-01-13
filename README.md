@@ -52,7 +52,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
  * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases): Download and install Kopernicus (v204 or later is required for the latest features in KSS2).
  
 ### 3. Visuals  
-   * [**NEW EVE Volumetrics**] (https://www.patreon.com/posts/true-volumetric-77198227): For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
+   * [**NEW EVE Volumetrics**](https://www.patreon.com/posts/true-volumetric-77198227): For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
        - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
        - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available. **SUPPORT COMING SOON.**
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
