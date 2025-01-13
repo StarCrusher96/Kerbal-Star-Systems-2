@@ -54,7 +54,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### 3. Visuals  
    * [**Volumetric EVE**](https://www.patreon.com/posts/true-volumetric-77198227): For volumetric clouds, aurorae, geysers, etc. This is currently not a free download.  Not required but without it, the experience is greatly reduced
        - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
-       - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available. **SUPPORT COMING SOON.**
+   * [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available. **SUPPORT COMING SOON.**
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
    * [**Parallax2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Parallax 1 is not supported
    * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
@@ -74,7 +74,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ## Compatibility  
 ### Support Visuals
    -  [**Volumetric EVE**](https://www.patreon.com/posts/true-volumetric-77198227)
-   (- [Environmental Visual Enhancements Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/))
+   - [Environmental Visual Enhancements Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
    - [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/#:~:text=Scatterer%20is%20a%20graphical%20mod,Atmospheric%20scattering)
    - [Parallax2](https://forum.kerbalspaceprogram.com/index.php?/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/) (Parallax Stock Textures are required)
    - [Instantiator](https://forum.kerbalspaceprogram.com/index.php?/topic/168992-13x-instantiator/)
