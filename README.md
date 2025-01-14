@@ -107,6 +107,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 
 ### Not compatible
    - Principia
+   - Galaxies Unbound (GU)
    - legacy EVE
    - OPM Parallax mods
    - Parallax 1
