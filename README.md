@@ -147,4 +147,4 @@ TBA
 
 Kerbal Star Systems © 2025 by StarCrusher96 is licensed under CC BY-NC-ND 4.0, with all textures, except as indicated, falling under an All Rights Reserved license.
 
-[<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png">](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
+[<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png | width=100)">](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
