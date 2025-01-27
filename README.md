@@ -141,6 +141,7 @@ KSS2 provides a patch when Community Fixes are installed to make sure this happe
 
 ## Support Kerbal Star Systems 2!
 Enjoy the mod? Consider donating to help me keep expanding and improving it. Your support truly makes a difference—thank you!
+
 [<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png" width="20%"/>](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
 
 
