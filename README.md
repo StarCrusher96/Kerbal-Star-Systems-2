@@ -134,17 +134,16 @@ KSS2 provides a patch when Community Fixes are installed to make sure this happe
 ## Home Switch and Galaxy mode
   Neither Home Switch nor Galaxy mode are supported in KSS2 at this time. 
 
-## Chart of the Stars
-
-TBA
-
-
 ## Support and Socials
   - [KSP Forum](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev)  
   - [Discord Server](https://discord.gg/acUttYPXd5)
   - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
 
+## Support Kerbal Star Systems 2!
+Enjoy the mod? Consider donating to help me keep expanding and improving it. Your support truly makes a difference—thank you!
+[<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png" width="20%"/>](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
+
 
 Kerbal Star Systems © 2025 by StarCrusher96 is licensed under CC BY-NC-ND 4.0, with all textures, except as indicated, falling under an All Rights Reserved license.
 
-[<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png | width=100)">](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
+
