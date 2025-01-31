@@ -55,11 +55,11 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
  * [**Kopernicus Expansion-er**](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases): Not strictly required but supports features like wormholes
  
 ### 3. Visuals  
-   * [**NEW EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
+   * [**EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
        - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
-       - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available. **SUPPORT COMING SOON.**
+       - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available.
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
-   * [**Parallax2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Neither Parallax 1 nor Parallax Continued is not supported
+   * [**Parallax 2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Neither Parallax 1 nor Parallax Continued are supported
    * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
    * [**Singularity**](https://github.com/LGhassen/Singularity): For black hole visuals
    * [**INSTANTIATOR**](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR): For other interesting effects like pulsars
