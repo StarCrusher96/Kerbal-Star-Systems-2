@@ -41,12 +41,19 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
   * With Core, SystemAethera, SystemAlphaCentauri, ContractPack, the `KSS2`-folder should look like this.
   
 	|- KSS2
+
 		|- ContractPack
+
 		|- Core
+
 		|- SystemAethera
+
 		|- SystemAlphaCentauri
+
 		|- KSS2_License.md
+
 		|- KSS2Settings.cfg
+
 
 ### 2. Dependencies
  * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases): REQUIRED. Download and install Kopernicus (v217 or later is required for the latest features in KSS2).
