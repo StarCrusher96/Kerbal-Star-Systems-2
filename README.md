@@ -52,8 +52,9 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
 ### 2. Dependencies
  * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases): REQUIRED. Download and install Kopernicus (v217 or later is required for the latest features in KSS2).
  * [**ModuleManager**](https://github.com/sarbian/ModuleManager) : REQUIRED. So many things depend on this.
- * [**NiakoUtils**](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases): REQUIRED: Surface effects. Bundled alongside KSS2.  Put the 000_NiakoUtils directory in GameData
- * [**Kopernicus Expansion-er**](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases): Not strictly required but supports features like wormholes
+ * [**NiakoUtils**](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases): REQUIRED: Surface effects. Bundled alongside KSS2.  Put the 000_NiakoUtils directory in GameData.
+ * [**Kopernicus Expansion-er**](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases): Not strictly required but supports features like wormholes.
+ * [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) Strongly recommended for the enhancements and many fixes it provides.
  
 ### 3. Visuals  
    * [**EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
@@ -90,7 +91,6 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
    - [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) KSS2 related contracts. V2.1.3 or greater.
    - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
-   - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) Strongly recommended for the enhancements it provides
    - [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
    - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies
 
