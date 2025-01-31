@@ -58,7 +58,7 @@ Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly up
  * [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) Strongly recommended for the enhancements and many fixes it provides.
  
 ### 3. Visuals  
-   * [**EVE Volumetrics**]: For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
+   * [**Volumetric EVE**](https://www.patreon.com/c/blackrack/posts/): For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
        - If you choose to not purchase the Volumetric EVE, then the two below downloads will give a reduced - though better than nothing experience
        - [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED** For those that are unable to purchase the new EVE Volumetrics. Many of the more immersive features will not be available.
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
