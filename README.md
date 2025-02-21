@@ -82,7 +82,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - ExtraSolarAsteroids = True/False : Whether to enable or disable asteroid belts around the various KSS2 systems
 
 ### Known Issues
-   - Parallax Continued is not supported and will likely cause issues. However we set up Parallax 2.0 support to prevent game-breaking events in case you want to try mixing KSS2 with Parallax Continued. 
+   - Parallax Continued is not supported and might cause issues. However we set up Parallax 2.0 support to prevent game-breaking events in case you want to try mixing KSS2 with Parallax Continued. 
    - Only Volumetric EVE is supported. legacy EVE is currently not supported. Support is planned. Use of legacy EVE with KSS2 will not cause issues though.
 
 ## Compatibility  
