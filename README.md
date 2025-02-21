@@ -75,14 +75,13 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - Wormholes = True/False : Whether or not to enable to wormhole network that connects the KSS2 systems. Take note that the network will be dynamic depending on which systems are installed.
    - HomeSwitch : Not currently implemented
    - HabitableWorlds : Not currently implemented
-   - DistanceFactor : Whether to change the stellar distances from the Kerbol system.
+   - DistanceFactor : Not currently implemented
    - Rescale : Whether to use a 2.5x or 10x rescale factor. This setting needs Sigma Dimensions installed: https://github.com/Sigma88/Sigma-Dimensions
    - SunAsteroids = True/False : Whether to enable or disable asteroid belts around Kerbol
    - ExtraSolarAsteroids = True/False : Whether to enable or disable asteroid belts around the various KSS2 systems
-   - RemoveLenseDirt = True/False : Removes lense dirt from all stars.
 
 ### Known Issues
-   - Parallax Continued is not supported and will likely cause issues.
+   - Parallax Continued is not supported and will likely cause issues. However we set up Parallax 2.0 support to prevent game-breaking events. 
    - Only Volumetric EVE is supported. legacy EVE is currently not supported. Support is planned. Use of legacy EVE with KSS2 will not cause issues though.
 
 ## Compatibility  
@@ -94,10 +93,9 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
    - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies
-
-### Future Support
    - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
    - [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
+
 
 ### Planetmods - unless annotated, they are not known to be compatible but MAY be. Help us by testing and reporting your results.
    - Beyond Home
@@ -108,7 +106,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - Kcalbeloh (**Compatible**) Probably. Not thoroughly tested. 
    - Lightlevels 
    - OPM (**Compatible**) Any OPM Parallax mod must be for Parallax 2
-   - KSRSS
+   - KSRSS (needs more testing)
 
 ### Not compatible
    - Principia
