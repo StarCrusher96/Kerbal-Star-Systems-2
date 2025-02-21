@@ -150,6 +150,6 @@ Enjoy the mod? Consider donating to help me keep expanding and improving it. You
 [<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png" width="20%"/>](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
 
 
-Kerbal Star Systems © 2025 by StarCrusher96 is licensed under CC BY-NC-ND 4.0, with all textures, except as indicated, falling under an All Rights Reserved license.
+[Kerbal Star Systems 2 ](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev)© 2025 by [StarCrusher96 ](https://forum.kerbalspaceprogram.com/profile/148335-starcrusher96/)is licensed under CC BY-NC-ND 4.0, with all textures, except as indicated, falling under an All Rights Reserved license.
 
 
