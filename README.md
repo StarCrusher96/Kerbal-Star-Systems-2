@@ -70,7 +70,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
 
    
 ### 4. KSS2 General Settings file 
-   - Advise that you do not change any default settings unless you know what you are doing
+It is adviced that you do not change any default settings unless you know what you are doing
    - SpaceAnomalies : Requires Blueshift and that Space Anomalies be enabled. You will need to find and either dock with or klaw the anomaly to make it owned. 
    - Exotics = True/False : Whether or not to enable some truely exotic things. These will be rare and will be challenging. Stock rockets and parts will not do it for you. They will present unique rewards though.
    - Wormholes = True/False : Whether or not to enable to wormhole network that connects the KSS2 systems. Take note that the network will be dynamic depending on which systems are installed.
