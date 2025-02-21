@@ -39,13 +39,14 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
        - Download the desired KSS2 system.  Unzip the file and also copy the KSS2 directory into your GameData directory.
 	   - Download ContractPack.2.0.zip if you wish to use contracts. Unzip the file and copy the KSS2 directory into your GameData directory.
        - Volumetric EVE is natively supported by KSS2.  Legacy EVE is not currently supported, but is being worked on.
-  * With Core, SystemAethera, SystemAlphaCentauri, ContractPack, the `KSS2`-folder should look like this.
+  * With Core, SystemAethera, SystemAlphaCentauri, SystemLuhman16, ContractPack, the `KSS2`-folder should look like this.
 	
 		|- KSS2
 			|- ContractPack
 			|- Core
 			|- SystemAethera
 			|- SystemAlphaCentauri
+			|- SystemLuhman16
 			|- KSS2_License.md
 			|- KSS2Settings.cfg
 
