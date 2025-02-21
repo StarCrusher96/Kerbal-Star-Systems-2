@@ -1,6 +1,6 @@
 # Kerbal-Star-Systems-2 [2.0]
 
-Kerbal Star Systems 2 is the successor to Galaxies Unbound and builds greatly upon the work in Galaxies Unbound.  KSS2 takes KSP to yet another new level by bringing you a stunning interpretation of the stellar neighbourhood near Kerbol.
+Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly expanding on its foundation. This ambitious mod elevates the Kerbal Space Program experience by offering a breathtaking representation of the stellar neighborhood surrounding Kerbol. KSS2 masterfully blends scientifically-based celestial systems with imaginative elements, creating a unique fusion of real-life astronomy and inventive fictional systems. Prepare to embark on an extraordinary journey through the cosmos!
 
 
 ## Overview
