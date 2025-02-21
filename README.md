@@ -62,10 +62,11 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    * [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED**
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
    * [**Parallax 2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Neither Parallax 1 nor Parallax Continued are supported
-   * [**NiftyNebulae**](https://github.com/RJVB09/NiftyNebulae/releases): For dust rings, nebulae, etc.
    * [**Singularity**](https://github.com/LGhassen/Singularity): For black hole visuals
-   * [**INSTANTIATOR**](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR): For other interesting effects like pulsars
+   * [**INSTANTIATOR**](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR): For other interesting effects like pulsars. 
    * [**Distant Object Enhancement**](https://github.com/net-lisias-ksp/DistantObject): Makes objects realistically visible over large distances.
+   * [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
+
    
 ### 4. KSS2 General Settings file 
    - Advise that you do not change any default settings unless you know what you are doing
@@ -80,7 +81,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - ExtraSolarAsteroids = True/False : Whether to enable or disable asteroid belts around the various KSS2 systems
 
 ### Known Issues
-   - Parallax Continued is not supported and will likely cause issues. However we set up Parallax 2.0 support to prevent game-breaking events. 
+   - Parallax Continued is not supported and will likely cause issues. However we set up Parallax 2.0 support to prevent game-breaking events in case you want to try mixing KSS2 with Parallax Continued. 
    - Only Volumetric EVE is supported. legacy EVE is currently not supported. Support is planned. Use of legacy EVE with KSS2 will not cause issues though.
 
 ## Compatibility  
@@ -93,7 +94,6 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
    - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies
    - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
-   - [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
 
 
 ### Planetmods - unless annotated, they are not known to be compatible but MAY be. Help us by testing and reporting your results.
