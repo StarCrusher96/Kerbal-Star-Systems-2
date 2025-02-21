@@ -68,6 +68,8 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    * [**Distant Object Enhancement**](https://github.com/net-lisias-ksp/DistantObject): Makes objects realistically visible over large distances.
    * [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
 
+   * [Deferred Rendering](https://github.com/LGhassen/Deferred) - We recommend using this mod, but please be aware that Parallax 2.0 objects with ratings under 2 stars may appear significantly brighter when deferred lighting is enabled. You might want to adjust the settings to mitigate this issue.
+
    
 ### 4. KSS2 General Settings file 
 It is adviced that you do not change any default settings unless you know what you are doing
