@@ -104,7 +104,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - ExtraSolar
    - GEP
    - GPP
-   - Kcalbeloh (**Compatible**) Probably. Not thoroughly tested. 
+   - Kcalbeloh
    - Lightlevels 
    - OPM (**Compatible**) Any OPM Parallax mod must be for Parallax 2
    - KSRSS (needs more testing)
