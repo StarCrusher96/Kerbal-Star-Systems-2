@@ -91,10 +91,11 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)
    - [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) KSS2 related contracts. V2.1.3 or greater.
    - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
+   - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
+   - [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases)
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
    - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies
-   - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
 
 
 ### Planetmods - unless annotated, they are not known to be compatible but MAY be. Help us by testing and reporting your results.
