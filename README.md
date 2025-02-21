@@ -76,7 +76,7 @@ It is adviced that you do not change any default settings unless you know what y
    - Exotics = True/False : Whether or not to enable some truely exotic things. These will be rare and will be challenging. Stock rockets and parts will not do it for you. They will present unique rewards though.
    - Wormholes = True/False : Whether or not to enable to wormhole network that connects the KSS2 systems. Take note that the network will be dynamic depending on which systems are installed.
    - HomeSwitch : Not currently implemented
-   - HabitableWorlds : In order to get Pandor around Novin, you must set the HabitableWorlds-setting to **true** in the KSS2Settings.cfg.
+   - HabitableWorlds : True/False : Whether or not to get Pandor around Novin, you must set the HabitableWorlds-setting to **True** in the KSS2Settings.cfg.
    - DistanceFactor : Not currently implemented
    - Rescale : Whether to use a 2.5x or 10x rescale factor. This setting needs Sigma Dimensions installed: https://github.com/Sigma88/Sigma-Dimensions
    - SunAsteroids = True/False : Whether to enable or disable asteroid belts around Kerbol
