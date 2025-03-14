@@ -59,7 +59,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
  * [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) Strongly recommended for the enhancements and many fixes it provides.
  
 ### 3. Visuals  
-   * [**Volumetric EVE**](https://www.patreon.com/c/blackrack/posts/): For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced
+   * [**Volumetric EVE**](https://www.patreon.com/c/blackrack/posts/): For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced. Note: The first release of Volumetric EVE (14_01_23) is known to have issues. You should use the latest version if at all possible.
    * [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED**
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
    * [**Parallax 2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Neither Parallax 1 nor Parallax Continued are supported
