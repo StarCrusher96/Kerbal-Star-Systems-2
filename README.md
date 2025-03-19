@@ -83,7 +83,7 @@ It is adviced that you do not change any default settings unless you know what y
    - ExtraSolarAsteroids = True/False : Whether to enable or disable asteroid belts around the various KSS2 systems
 
 ### Known Issues
-   - Parallax Continued is not supported and might cause issues. However we set up Parallax 2.0 support to prevent game-breaking events in case you want to try mixing KSS2 with Parallax Continued. 
+   - Parallax Continued is not supported and its presence will disable all Parallax support. Full Parallax Continued support is being worked. 
    - Only Volumetric EVE is supported. legacy EVE is currently not supported. Support is planned. Use of legacy EVE with KSS2 will not cause issues though.
 
 ## Compatibility  
@@ -116,7 +116,7 @@ It is adviced that you do not change any default settings unless you know what y
    - Galaxies Unbound (GU)
    - Previous versions of KSS2
    - Parallax 1
-   - Parallax Continued
+   - Parallax Continued. Should not break the game but will disable all Parallax support in KSS2
    - Komplexity (not compatible with the KSS2 contract system)
    - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
    - Homeswitch and Galaxy mode are **NOT** currently supported
