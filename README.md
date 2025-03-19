@@ -97,6 +97,7 @@ It is adviced that you do not change any default settings unless you know what y
    - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
    - [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
    - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies
+   - [Space Dust Next](https://github.com/NerdyBoy709/SpaceDustNext/releases) Adds a wider range of harvestable resources for both stock and modded planets.
 
 
 ### Planetmods - unless annotated, they are not known to be compatible but MAY be. Help us by testing and reporting your results.
