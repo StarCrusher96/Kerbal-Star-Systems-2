@@ -109,12 +109,12 @@ It is adviced that you do not change any default settings unless you know what y
    - Kcalbeloh
    - Lightlevels 
    - OPM (**Compatible**) Any OPM Parallax mod must be for Parallax 2
-   - KSRSS (needs more testing)
 
 ### Not compatible
    - Principia
    - Galaxies Unbound (GU)
    - Previous versions of KSS2
+   - KSRSS (in general, it does not appear to play well with other planet packs)
    - Parallax 1
    - Parallax Continued. Should not break the game but will disable all Parallax support in KSS2
    - Komplexity (not compatible with the KSS2 contract system)
