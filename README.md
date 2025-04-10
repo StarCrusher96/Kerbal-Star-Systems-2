@@ -63,7 +63,7 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    * [**Environmental Visual Enhancements Redux**](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/): **NOT CURRENTLY SUPPORTED**
    * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
    * [**Parallax 2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Neither Parallax 1 nor Parallax Continued are supported
-   * [**Singularity**](https://github.com/LGhassen/Singularity): For black hole visuals
+   * [**Singularity**](https://github.com/LGhassen/Singularity): For black hole and wormhole visuals
    * [**INSTANTIATOR**](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR): For other interesting effects like pulsars. 
    * [**Distant Object Enhancement**](https://github.com/net-lisias-ksp/DistantObject): Makes objects realistically visible over large distances.
    * [**PlanetShine**](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
