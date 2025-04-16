@@ -1,4 +1,4 @@
-# Kerbal-Star-Systems-2 [2.0.3]
+# Kerbal-Star-Systems-2 [2.0.5]
 
 Kerbal Star Systems 2 (KSS2) is an expansive and ambitious mod designed as the successor to Galaxies Unbound, offering a breathtakingly detailed experience of the stellar neighborhood surrounding Kerbol. This mod enhances the Kerbal Space Program (KSP) gameplay by blending scientifically accurate celestial systems with creative, imaginative fictional ones, providing players with an exciting journey across the cosmos.
 
@@ -7,29 +7,14 @@ Kerbal Star Systems 2 (KSS2) is an expansive and ambitious mod designed as the s
 - **Increased Scale**: Expands on previous planetary packs, giving players more environments to explore.
 - **Dynamic Gameplay**: With its extensive system additions, the mod transforms the KSP experience into a more complex and immersive space simulation.
 
-## Overview:
-   - [**System Requirements**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#minimum-system-requirements)
-   - [**Installation**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#installation)
-      - [1. Download KSS2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#1-download-kss2)
-      - [2. Dependencies](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#2-dependencies)
-      - [3. Visuals](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#3-visuals)
-      - [4. KSS2 General Settings file](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#4-kss2-general-settings-file)
-   - [**Compatibility**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#compatibility)
-      - [Support Visuals](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-visuals)
-      - [Support Parts & Gameplay](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-parts-and-gameplay)
-      - [Planetmods](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#planetmods)
-      - [Not Compatible](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#not-compatible)
-      - [Contracts](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#contracts)
-   - [**After launching the game**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#after-launching-the-game-important)
-      - [Checklist](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#checklist)
-      - [Maneuver Tool Bug](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#maneuver-tool-bug)
-   - [**Home Switch and Galaxy mode**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#home-switch-and-galaxy-mode)
-   - [**Support and Socials**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-and-socials)
+---
 
 ## System Requirements:
 - **Memory**: 16 GB RAM
 - **Graphics**: 1-2 GB VRAM
 - **KSP Version**: 1.12.x
+
+---
      
 ## Installation Guide:
 ### 1. Downloading KSS2:
