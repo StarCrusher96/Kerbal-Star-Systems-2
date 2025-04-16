@@ -2,12 +2,12 @@
 
 Kerbal Star Systems 2 (KSS2) is an expansive and ambitious mod designed as the successor to Galaxies Unbound, offering a breathtakingly detailed experience of the stellar neighborhood surrounding Kerbol. This mod enhances the Kerbal Space Program (KSP) gameplay by blending scientifically accurate celestial systems with creative, imaginative fictional ones, providing players with an exciting journey across the cosmos.
 
-## Key Features
+## Key Features:
 - **Realistic Stellar Systems**: Features a mixture of real-life astronomy and fictional systems.
 - **Increased Scale**: Expands on previous planetary packs, giving players more environments to explore.
 - **Dynamic Gameplay**: With its extensive system additions, the mod transforms the KSP experience into a more complex and immersive space simulation.
 
-## Overview
+## Overview:
    - [**System Requirements**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#minimum-system-requirements)
    - [**Installation**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#installation)
       - [1. Download KSS2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#1-download-kss2)
@@ -31,16 +31,19 @@ Kerbal Star Systems 2 (KSS2) is an expansive and ambitious mod designed as the s
 - **Graphics**: 1-2 GB VRAM
 - **KSP Version**: 1.12.x
      
-## Installation 
-### 1. Download KSS2    
-Before installing KSS2 v2.0, ensure that previous versions of KSS2 are removed from your GameData directory. This version is incompatible with Galaxies Unbound (GU) and older KSS2 versions (1.x), and may cause the game to crash or fail to load.
-    
-  - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)
-       - Download KSS2_Core.2.0.zip  Unzip the file into your GameData directory
-       - Download the desired KSS2 system(s).  Unzip the file into your GameData directory.
-	   - Download ContractPack.2.0.zip if you wish to use contracts. Unzip the file into your GameData directory.
-       - Volumetric EVE is natively supported by KSS2.  Legacy EVE is not currently supported, but is being worked on.
-  * With Core, SystemAethera, SystemAlphaCentauri, SystemLuhman16, ContractPack, the `KSS2`-folder should look like this.
+## Installation Guide:
+### 1. Downloading KSS2:
+Before installing **KSS2 v2.0**, ensure that previous versions of KSS2 are removed from your GameData directory. This version is **incompatible** with *Galaxies Unbound* (GU) and older KSS2 versions (1.x), and may cause the game to crash or fail to load.
+
+**Steps to Install**:
+1. **Download KSS2** from [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases).
+2. Extract the following into your **GameData** directory:
+   - KSS2_Core.2.0.zip
+   - Desired KSS2 system(s) (e.g., SystemAethera, SystemAlphaCentauri, SystemLuhman16)
+   - **Optional**: If you want to use contracts, download and extract *ContractPack.2.0.zip*.
+3. **Volumetric EVE** is supported by KSS2 for enhanced visuals (Legacy EVE is not compatible).
+
+Your **KSS2** folder should look like this:
 	
 		|- KSS2
 			|- ContractPack
@@ -52,104 +55,79 @@ Before installing KSS2 v2.0, ensure that previous versions of KSS2 are removed f
 			|- KSS2Settings.cfg
 
 
-### 2. Dependencies
- * [**Kopernicus**](https://github.com/kopernicus/kopernicus/releases): REQUIRED. Download and install Kopernicus (v217 or later is required for the latest features in KSS2).
- * [**ModuleManager**](https://github.com/sarbian/ModuleManager) : REQUIRED. So many things depend on this.
- * [**NiakoUtils**](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases): REQUIRED: Surface effects. Bundled alongside KSS2.  Put the 000_NiakoUtils directory in GameData.
- * [**Kopernicus Expansion-er**](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases): Not strictly required but supports features like wormholes.
- * [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) Strongly recommended for the enhancements and many fixes it provides.
+### 2. Required Dependencies:
+For full functionality, install the following:
+- **Kopernicus** (v217 or later): Essential for planet modifications. [Download Kopernicus](https://github.com/kopernicus/kopernicus/releases).
+- **ModuleManager**: A must-have mod for KSS2. [Download ModuleManager](https://github.com/sarbian/ModuleManager).
+- **NiakoUtils**: Required for surface effects. [Download NiakoUtils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases).
+- **Kopernicus Expansion-er**: Adds extra features like wormholes (optional but recommended). [Download Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases).
+- **KSP Community Fixes**: Enhances game stability and fixes bugs. [Download Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases).
  
-### 3. Visuals  
-   * [**Volumetric EVE**](https://www.patreon.com/c/blackrack/posts/): For the new volumetric clouds, aurorae, geysers, etc. This is the Blackrack EVE and is currently not a free download.  Not required but without it, the experience is greatly reduced. Note: The first release of Volumetric EVE (14_01_23) is known to have issues. You should use the latest version if at all possible.
-   * [**Scatterer**](https://github.com/LGhassen/Scatterer/releases): Atmospheric shaders for those that are unable to purchase the new EVE Volumetrics.
-   * [**Parallax 2**](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/): For the interesting ground scatter.  Note: Neither Parallax 1 nor Parallax Continued are supported
-   * [**Singularity**](https://github.com/LGhassen/Singularity): For black hole and wormhole visuals
-   * [**INSTANTIATOR**](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR): For other interesting effects like pulsars. 
-   * [**Distant Object Enhancement**](https://github.com/net-lisias-ksp/DistantObject): Makes objects realistically visible over large distances.
-   * [**PlanetShine**](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
-   * [**Deferred Rendering**](https://github.com/LGhassen/Deferred) - We recommend using this mod, but please be aware that Parallax 2.0 objects under 2 stars may appear significantly brighter when deferred lighting is enabled. You might want to adjust the settings to mitigate this issue.
+### 3. Visual Enhancements (Optional but Recommended):
+- **Volumetric EVE** (for clouds, auroras, and geysers). **Note**: This is a paid mod by Blackrack. [Download Volumetric EVE](https://www.patreon.com/c/blackrack/posts).
+- **Scatterer** (for atmospheric effects). [Download Scatterer](https://github.com/LGhassen/Scatterer/releases).
+- **Parallax 2** (for enhanced terrain and surface details). [Download Parallax 2](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/).
+- **Singularity** (for black holes and wormhole visuals). [Download Singularity](https://github.com/LGhassen/Singularity).
+- **INSTANTIATOR** (for additional space effects like pulsars). [Download INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR).
+- **Distant Object Enhancement** (for improved long-distance visibility). [Download Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject).
+- **PlanetShine** (for better planetary lighting). [Download PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/).
 
-   
-### 4. KSS2 General Settings file 
-It is adviced that you do not change any default settings unless you know what you are doing.  The KSS2 General Settings are located in the KSS2Settings.cfg file located in KSS2
-   - SpaceAnomalies : NO setting change required. Requires Blueshift be installed and that Space Anomalies be enabled in Blueshift. You will need to find and either dock with or klaw the anomaly to make it owned. 
-   - Exotics = True/False : Whether or not to enable some truely exotic things. These will be rare and will be challenging. Stock rockets and parts will not do it for you. They will present unique rewards though.
-   - Wormholes = True/False : Whether or not to enable to wormhole network that connects the KSS2 systems. Take note that the network will be dynamic depending on which systems are installed.
-   - HomeSwitch : Not currently implemented
-   - HabitableWorlds : True/False : Whether or not to get Pandor around Novin, you must set the HabitableWorlds-setting to **True** in the KSS2Settings.cfg.
-   - DistanceFactor : Not currently implemented
-   - Rescale : Whether to use a 2.5x or 10x rescale factor. This setting needs Sigma Dimensions installed: https://github.com/Sigma88/Sigma-Dimensions
-   - SunAsteroids = True/False : Whether to enable or disable asteroid belts around Kerbol
-   - ExtraSolarAsteroids = True/False : Whether to enable or disable asteroid belts around the various KSS2 systems
+### 4. General Settings File:
+The **KSS2Settings.cfg** file contains several options you may want to configure (located in the **KSS2** folder):
+- **SpaceAnomalies**: Enabled by default with Blueshift mod. Enables exploration of space anomalies.
+- **Exotics**: Enable for rare and challenging celestial phenomena.
+- **Wormholes**: Toggle the wormhole network connecting KSS2 systems.
+- **HabitableWorlds**: Set to **True** to enable the habitable moon Pandor.
+- **Rescale**: Choose between a 2.5x or 10x scale, requires **Sigma Dimensions** mod.
+- **Asteroid Belts**: Enable/disable asteroid belts around Kerbol and other systems.
 
-### Known Issues
-   - Parallax Continued is not supported and its presence will disable all Parallax support. Full Parallax Continued support is being worked. 
-   - Only Volumetric EVE is supported. legacy EVE is currently not supported. Support is planned. Use of legacy EVE with KSS2 will not cause issues though.
+---
 
-## Compatibility  
-     
-### Support Parts and Gameplay
-   - [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)
-   - [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) KSS2 related contracts. V2.1.3 or greater.
-   - [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
-   - [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
-   - [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases)
-   - [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
-   - [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
-   - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies
-   - [Space Dust Next](https://github.com/NerdyBoy709/SpaceDustNext/releases) Adds a wider range of harvestable resources for both stock and modded planets.
+## Compatibility:
 
+### Supported Mods:
+- **Sterling Systems**: Adds more parts for KSS2.
+- **Contract Configurator**: For career mode players, supports custom KSS2 contracts.
+- **Kerbalism** and **Kerbal Health**: For advanced life support and health mechanics.
+- **Blueshift**: Required for space anomalies. [Download Blueshift](https://github.com/Angel-125/Blueshift/releases).
+- **WildBlueTools**: Adds functionality for space anomalies.
+- **Community Resource Pack**: Required for various resource management mods.
 
-### Planetmods - unless annotated, they are not known to be compatible but MAY be. Help us by testing and reporting your results.
-   - Beyond Home
-   - Corelian
-   - ExtraSolar
-   - GEP
-   - GPP
-   - Kcalbeloh
-   - Lightlevels 
-   - OPM (**Compatible**) Any OPM Parallax mod must be for Parallax 2
+### Planet Mod Compatibility:
+- **Compatible**: *Outer Planets Mod* (OPM).
+- **Not Compatible**: *Principia*, *Galaxies Unbound (GU)*, *KSRSS* (generally incompatible with other planet packs).
 
-### Not compatible
-   - Principia
-   - Galaxies Unbound (GU)
-   - Previous versions of KSS2
-   - KSRSS (in general, it does not appear to play well with other planet packs)
-   - Parallax 1
-   - Parallax Continued. Should not break the game but will disable all Parallax support in KSS2
-   - Komplexity (not compatible with the KSS2 contract system)
-   - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
-   - Homeswitch and Galaxy mode are **NOT** currently supported
+### Known Issues:
+- **Parallax 1** and **Parallax Continued**: These are not fully supported. They will disable all Parallax effects in KSS2.
+- **Legacy EVE** is incompatible, but **Volumetric EVE** is supported.
+
+---
+
+## Gameplay and Features:
+### Contracts System:
+KSS2 features a custom contract system for **Career Mode** players. Once the KSC is upgraded, mid- and late-game contracts will become available, guiding players to explore more exciting aspects of KSS2.
 
 
-### Contracts
-   - KSS2 has a custom contract system for Career Mode players.  [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) will need to be installed and you will need minimum v2.1.3. There are early and mid game contracts to help you staff up for the push to Interstellar and the main contracts will start to drop once you have fully upgraded the KSC. The contracts will steer you to the more interesting things.  The KSS2 contract system is not compatible with Komplexity.
-
-## After launching the game (!important!)
-### Checklist
-  * You need Texture quality at its highest setting. Otherwise a few worlds may spawn as black orbs. 
-
-### Maneuver Tool Bug
-   * Source: [KSP Community Fixes](https://forum.kerbalspaceprogram.com/index.php?/topic/204002-18-112-kspcommunityfixes-bugfixes-and-qol-tweaks/) 
-   
-The KSP 1.12 maneuver planner tool will cause issues. It can cause stutter and freezes on scene load, when changing SOI, when timewarping far from Kerbol or when editing maneuver nodes, especially with Kopernicus modified systems. To solve this, you better disable it. 
-KSS2 provides a patch when Community Fixes are installed to make sure this happens.
-
+### Visual and Performance Tips:
+- Set **Texture Quality** to the highest setting to avoid graphical issues like black orbs for some planets.
+- **Maneuver Tool Bug**: The KSP 1.12 maneuver planner may cause issues with scene loads or timewarp in modified systems. It's recommended to disable the tool or use the **Community Fixes** mod, which addresses these problems.
+  
   ![screenshot2](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
 
-## Support and Socials
-  - [KSP Forum](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev)  
+## Support & Community:
+- **Official Support Channels**:
+  - [KSP Forum](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev)
   - [Discord Server](https://discord.gg/acUttYPXd5)
-  - [Youtube](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)  
+  - [YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA)
 
-### Obtaining Support
-  - [Discord Server] (https://discord.com/channels/609404909464453120/609411550771675136/1123689293316112434) Remember: No GameData screenshot, no support
+---
 
-## Support Kerbal Star Systems 2!
-Enjoy the mod? Consider donating to help me keep expanding and improving it. Your support truly makes a difference—thank you!
+## Help Us Improve KSS2:
+Enjoying the mod? You can help support further development through donations. Every contribution helps us expand and improve the KSS2 universe!
 
-[<img src="https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png" width="20%"/>](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
+[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
 
+---
 
 [Kerbal Star Systems 2 ](https://forum.kerbalspaceprogram.com/topic/220876-111x-112x-kerbal-star-systems-2%E2%84%A2-dev)© 2025 by [StarCrusher96 ](https://forum.kerbalspaceprogram.com/profile/148335-starcrusher96/)is licensed under CC BY-NC-ND 4.0, with all textures, except as indicated, falling under an All Rights Reserved license.
 
