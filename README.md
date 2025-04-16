@@ -71,16 +71,27 @@ The **KSS2Settings.cfg** file contains several options you may want to configure
 ## Compatibility:
 
 ### Supported Mods:
-- **Sterling Systems**: Adds more parts for KSS2.
-- **Contract Configurator**: For career mode players, supports custom KSS2 contracts.
-- **Kerbalism** and **Kerbal Health**: For advanced life support and health mechanics.
-- **Blueshift**: Required for space anomalies. [Download Blueshift](https://github.com/Angel-125/Blueshift/releases).
-- **WildBlueTools**: Adds functionality for space anomalies.
-- **Community Resource Pack**: Required for various resource management mods.
+- [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)
+- [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) KSS2 related contracts. V2.1.3 or greater.
+- [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
+- [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
+- [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases)
+- [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
+- [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
+- [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies.
+- [Space Dust Next](https://github.com/NerdyBoy709/SpaceDustNext/releases) Adds a wider range of harvestable resources for both stock and modded planets.
 
 ### Planet Mod Compatibility:
-- **Compatible**: *Outer Planets Mod* (OPM).
-- **Not Compatible**: *Principia*, *Galaxies Unbound (GU)*, *KSRSS* (generally incompatible with other planet packs).
+## Not Compatible:
+   - Principia
+   - Galaxies Unbound (GU)
+   - Previous versions of KSS2
+   - KSRSS (in general, it does not appear to play well with other planet packs)
+   - Parallax 1
+   - Parallax Continued. Should not break the game but will disable all Parallax support in KSS2
+   - Komplexity (not compatible with the KSS2 contract system)
+   - Mods not mentioned in this list have not been verified and might or might not work. Install at your own risk, there's no support for these.
+   - Homeswitch and Galaxy mode are **NOT** currently supported.
 
 ### Known Issues:
 - **Parallax 1** and **Parallax Continued**: These are not fully supported. They will disable all Parallax effects in KSS2.
