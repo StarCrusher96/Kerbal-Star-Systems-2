@@ -1,7 +1,11 @@
 # Kerbal-Star-Systems-2 [2.0.3]
 
-Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly expanding on its foundation. This ambitious mod elevates the Kerbal Space Program experience by offering a breathtaking representation of the stellar neighborhood surrounding Kerbol. KSS2 masterfully blends scientifically-based celestial systems with imaginative elements, creating a unique fusion of real-life astronomy and inventive fictional systems. Prepare to embark on an extraordinary journey through the cosmos!
+Kerbal Star Systems 2 (KSS2) is an expansive and ambitious mod designed as the successor to Galaxies Unbound, offering a breathtakingly detailed experience of the stellar neighborhood surrounding Kerbol. This mod enhances the Kerbal Space Program (KSP) gameplay by blending scientifically accurate celestial systems with creative, imaginative fictional ones, providing players with an exciting journey across the cosmos.
 
+## Key Features
+- **Realistic Stellar Systems**: Features a mixture of real-life astronomy and fictional systems.
+- **Increased Scale**: Expands on previous planetary packs, giving players more environments to explore.
+- **Dynamic Gameplay**: With its extensive system additions, the mod transforms the KSP experience into a more complex and immersive space simulation.
 
 ## Overview
    - [**System Requirements**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#minimum-system-requirements)
@@ -22,17 +26,14 @@ Kerbal Star Systems 2 serves as the successor to Galaxies Unbound, significantly
    - [**Home Switch and Galaxy mode**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#home-switch-and-galaxy-mode)
    - [**Support and Socials**](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/blob/main/README.md#support-and-socials)
 
-## Minimum System Requirements
-   * Memory: 16 GB RAM
-   * Graphics: 1-2 GB VRAM
-   * KSP: 1.12.x
-   
-   
+## System Requirements:
+- **Memory**: 16 GB RAM
+- **Graphics**: 1-2 GB VRAM
+- **KSP Version**: 1.12.x
+     
 ## Installation 
 ### 1. Download KSS2    
-  - You MUST delete previous KSS2 versions from GameData before installing KSS2 v2.0
-  - GU is not compatable in the same game with KSS2. You will get Kopernicus warnings and it will not complete loading
-  - Previous KSS2 versions (1.x) are not compatable in the same game with this version.  It will crash your game.
+Before installing KSS2 v2.0, ensure that previous versions of KSS2 are removed from your GameData directory. This version is incompatible with Galaxies Unbound (GU) and older KSS2 versions (1.x), and may cause the game to crash or fail to load.
     
   - [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)
        - Download KSS2_Core.2.0.zip  Unzip the file into your GameData directory
