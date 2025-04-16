@@ -81,8 +81,7 @@ The **KSS2Settings.cfg** file contains several options you may want to configure
 - [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies.
 - [Space Dust Next](https://github.com/NerdyBoy709/SpaceDustNext/releases) Adds a wider range of harvestable resources for both stock and modded planets.
 
-### Planet Mod Compatibility:
-## Not Compatible:
+### Not Compatible:
    - Principia
    - Galaxies Unbound (GU)
    - Previous versions of KSS2
