@@ -1,6 +1,6 @@
 # Kerbal-Star-Systems-2 [3.0.1]
 
-Kerbal Star Systems 2 (KSS2) is a large-scale interstellar mod for Kerbal Space Program, expanding the game far beyond the Kerbol system with a collection of detailed star systems—ranging from realistic exoplanets to fully fictional cosmic wonders.
+Kerbal Star Systems 2 (KSS2) is a large-scale interstellar mod for Kerbal Space Program, expanding the game far beyond the Kerbol system with a collection of detailed star systems, ranging from realistic exoplanets to fully fictional cosmic wonders.
 
 As the spiritual successor to Galaxies Unbound, KSS2 brings both scientific grounding and creative worldbuilding together in one of the most ambitious projects the KSP modding scene has seen. Its reputation has sparked plenty of discussion, but few deny the scale and depth it brings to the game.
 
