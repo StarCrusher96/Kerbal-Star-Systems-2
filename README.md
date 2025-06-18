@@ -91,16 +91,22 @@ GameData/
 ### 3. Visual Enhancements *(Optional but Recommended)*
 
 > ⚠️ **Important:** Only **Volumetric EVE** is supported.
-> **Standard EVE** or **EVE Redux** will **not work** and will cause **visual bugs or missing clouds**.
+> Do **not** use **Legacy EVE** or **EVE Redux** — these are **incompatible** and will cause visual bugs.
 
-* ☁️ **[Volumetric EVE](https://www.patreon.com/c/blackrack/posts)** – Clouds, auroras, geysers *(paid mod)*
+#### 🔱 Core Visual Mods *(Recommended for full KSS2 experience)*
+
+* ☁️ **[Volumetric EVE](https://www.patreon.com/c/blackrack/posts)** – Volumetric clouds, auroras, and geysers *(paid mod)*
 * 🌅 **[Scatterer](https://github.com/LGhassen/Scatterer/releases)** – Atmospheric scattering and ocean shaders
-* 🪨 **[Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1)** – High-detail terrain and tessellation
-* 🌌 **[Singularity](https://github.com/LGhassen/Singularity)** – Visuals for black holes, wormholes, and other exotics
+* 🪨 **[Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1)** – High-detail terrain with tessellation and scatters *(strongly recommended)*
+
+#### ✨ Additional Visual Effects *(Polish & immersion)*
+
+* 🌌 **[Singularity](https://github.com/LGhassen/Singularity)** – Visuals for black holes and wormholes
+* 🔥 **[Firefly](https://spacedock.info/mod/3813/Firefly)** – Realistic re-entry visual effects
 * 🌠 **[INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR)** – Pulsar effects
-* 🔭 **[Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject)** – Long-range object visibility *(not needed with Scatterer)*
-* ✨ **[PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138)** – Planetary glow and ambient lighting
-* 💡 **[Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0)** – Improves lighting and shader performance for modern visual mods
+* 🔭 **[Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject)** – Visibility of distant planets/moons *(redundant if using Scatterer)*
+* ✨ **[PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138)** – Ambient light and glow from nearby bodies
+* 💡 **[Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0)** – Improves shader performance and lighting *(optional)*
 
 ---
 
