@@ -144,8 +144,11 @@ Mods not listed are untested, install at your own risk.
 
 * **Legacy EVE is not supported**. Use **Volumetric EVE** only.
 * **Maneuver Tool Bug** – KSP 1.12’s stock planner can cause scene/timewarp issues.
+
   → Use [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)
+
   ![screenshot](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
+
 * **Visual Tip** – Set *Texture Quality* to **Full** to avoid black planet bugs.
 
 ---
