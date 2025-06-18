@@ -4,7 +4,7 @@ Kerbal Star Systems 2 (KSS2) is a large-scale interstellar mod for Kerbal Space 
 
 As the spiritual successor to kerbal Star Systems 1 and Galaxies Unbound, KSS2 brings both scientific grounding and creative worldbuilding together in one of the most ambitious projects the KSP modding scene has seen. Its reputation has sparked plenty of discussion, but few deny the scale and depth it brings to the game.
 
-KSS2 is not compatible with other system replacers and includes its own visual configs tailored for mods like EVE, Scatterer, and Parallax. Compatibility information and installation instructions can be found below.
+Compatibility information and installation instructions can be found below.
 
 ## Key Features:
 - **Realistic Stellar Systems**: Features a mixture of real-life astronomy and fictional systems.
@@ -22,13 +22,13 @@ KSS2 is not compatible with other system replacers and includes its own visual c
      
 ## Installation Guide:
 ### 1. Downloading KSS2:
-Before installing **KSS2 v2.0**, ensure that previous versions of KSS2 are removed from your GameData directory. This version is **incompatible** with *Galaxies Unbound* (GU) and older KSS2 versions (1.x), and may cause the game to crash or fail to load.
+Before installing **KSS2 v3.0**, ensure that previous versions of KSS2 are removed from your GameData directory. This version is **incompatible** with *Galaxies Unbound* (GU) and older KSS2 versions (1.x), and may cause the game to crash or fail to load.
 
 **Steps to Install**:
 1. **Download KSS2** from [GitHub](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases).
 2. Extract the following into your **GameData** directory:
    - KSS2_Core.2.0.zip
-   - Desired KSS2 system(s) (e.g., SystemAethera, SystemAlphaCentauri, SystemLuhman16)
+   - Desired KSS2 system(s) (e.g., SystemAethera, SystemAlphaCentauri, SystemLuhman16, )
    - **Optional**: If you want to use contracts, download and extract *ContractPack.2.0.zip*.
 3. **Volumetric EVE** is supported by KSS2 for enhanced visuals (Legacy EVE is not compatible).
 
@@ -44,24 +44,31 @@ Your **KSS2** folder should look like this:
 			|- KSS2Settings.cfg
 
 
-### 2. Required Dependencies:
-For full functionality, install the following:
-- **Kopernicus** (v217 or later): Essential for planet modifications. [Download Kopernicus](https://github.com/kopernicus/kopernicus/releases).
-- **ModuleManager**: A must-have mod for KSS2. [Download ModuleManager](https://github.com/sarbian/ModuleManager).
-- **NiakoUtils**: Required for surface effects. [Download NiakoUtils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases).
-- **Kopernicus Expansion-er**: Adds extra features like wormholes (optional but recommended). [Download Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases).
-- **KSP Community Fixes**: Enhances game stability and fixes bugs. [Download Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases).
+### 2. Required Dependencies
+
+For full functionality, install:
+
+* **[Kopernicus](https://github.com/kopernicus/kopernicus/releases)** (v217+): Required for planet mods
+* **[NiakoUtils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)**: Enables surface features
+* **[Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases)**: Optional but recommended (adds wormholes, effects)
+* **[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)**: Improves stability
+* **[VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4)** *(bundled)*: Adds better oblate planet shaping
+
  
-### 3. Visual Enhancements (Optional but Recommended):
-- **Volumetric EVE** (for clouds, auroras, and geysers). **Note**: This is a paid mod by Blackrack. [Download Volumetric EVE](https://www.patreon.com/c/blackrack/posts).
-- **Scatterer** (for atmospheric effects). [Download Scatterer](https://github.com/LGhassen/Scatterer/releases).
-- **Parallax 2** (for enhanced terrain and surface details). [Download Parallax 2](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/).
-- **Singularity** (for black holes and wormhole visuals). [Download Singularity](https://github.com/LGhassen/Singularity).
-- **INSTANTIATOR** (for additional space effects like pulsars). [Download INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR).
-- **Distant Object Enhancement** (for improved long-distance visibility). [Download Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject).
-- **PlanetShine** (for better planetary lighting). [Download PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/).
+### 3. Visual Enhancements *(Optional but Recommended)*
+
+* **[Volumetric EVE](https://www.patreon.com/c/blackrack/posts)** – Clouds, auroras, geysers *(paid mod by Blackrack)*
+* **[Scatterer](https://github.com/LGhassen/Scatterer/releases)** – Atmospheric scattering and shaders
+* **[Parallax 2](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-202/)** – High-detail terrain and surface objects
+* **[Singularity](https://github.com/LGhassen/Singularity)** – Visuals for black holes and wormholes
+* **[INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR)** – Visuals for pulsars
+* **[Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject)** – Distant planet visibility *(not needed if using Scatterer)*
+* **[PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)** – Planetary glow and ambient lighting
+
+
 
 ### 4. General Settings File:
+
 The **KSS2Settings.cfg** file contains several options you may want to configure (located in the **KSS2** folder):
 - **SpaceAnomalies**: Enabled by default with Blueshift mod. Enables exploration of space anomalies.
 - **Exotics**: Enable for rare and challenging celestial phenomena.
