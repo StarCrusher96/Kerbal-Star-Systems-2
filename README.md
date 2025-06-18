@@ -1,4 +1,4 @@
-![KSS2 Banner](https://www.dropbox.com/scl/fi/oc3mffivymet1upkriwmo/logoForumNK.png?rlkey=zy5z3dmhgkimn4hkzx8iucqvj&st=k2cnipi0&dl=1)
+![KSS2 Banner](https://www.dropbox.com/scl/fi/oc3mffivymet1upkriwmo/logoForumNK.png?rlkey=zy5z3dmhgkimn4hkzx8iucqvj&st=k2cnipi0&raw=1)
 
 # 🌌 Kerbal Star Systems 2 \[v3.0.1]
 
