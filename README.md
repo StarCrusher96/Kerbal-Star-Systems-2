@@ -44,15 +44,16 @@ Your **KSS2** folder should look like this:
 			|- KSS2Settings.cfg
 
 
-### 2. Required Dependencies
+### 2. Required Dependencies *(Must Be Installed)*
 
-For full functionality, install:
+For KSS2 to work properly, install:
 
-* **[Kopernicus](https://github.com/kopernicus/kopernicus/releases)** (v217+): Required for planet mods
-* **[NiakoUtils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)**: Enables surface features
-* **[Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases)**: Optional but recommended (adds wormholes, effects)
-* **[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)**: Improves stability
-* **[VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4)** *(bundled)*: Adds better oblate planet shaping
+* **[Kopernicus](https://github.com/kopernicus/kopernicus/releases)** (v217+) – Core planet modding framework
+* **[Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases)** – Adds wormholes and special effects *(strongly recommended)*
+* **[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)** – Boosts stability and fixes game bugs
+* **[NiakoUtils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)** – Enables detailed surface features *(bundled with KSS2 Core)*
+* **[VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4)** – Oblate object shaping *(bundled with KSS2 Core)*
+
 
  
 ### 3. Visual Enhancements *(Optional but Recommended)*
