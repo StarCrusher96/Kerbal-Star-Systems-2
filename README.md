@@ -172,7 +172,7 @@ Your contributions help cover time, tools, and continued development.
 
 [**🎁 Become a Patron**](https://www.patreon.com/c/StarCrusher96)
 
-> 🔒 **Note:** KSS2 is **not being sold**. All support is voluntary. The mod remains free and public — Patreon simply helps keep the project alive.
+> 🔒 **Note:** KSS2 is **not being sold**. All support is voluntary. The mod remains free and public. Patreon simply helps keep the project alive.
 
 ---
 
