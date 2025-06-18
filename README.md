@@ -217,4 +217,4 @@ This allows:
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
 > 🛠️ KSS2 is a passion-driven hobby project, built on over a decade of experience in the KSP modding community. Mistakes can happen in any long-term creative effort. But what matters is how we handle them.
-> We welcome respectful feedback and are always open to addressing concerns privately or constructively. However, **public name-calling, witch-hunting, or spreading false narratives is unproductive and childish**. But let’s not pretend we’re running a company here. This is a game, a community, and a shared passion. KSP should stay **fun**.
+> We welcome respectful feedback and are always open to addressing concerns privately or constructively. However, **public name-calling, witch-hunting, blackmail, or spreading false narratives is unproductive and childish**. But let’s not pretend we’re running a company here. This is a game, a community, and a shared passion. KSP should stay **fun**.
