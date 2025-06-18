@@ -66,8 +66,8 @@ GameData/
 * ☁️ [Volumetric EVE](https://www.patreon.com/c/blackrack/posts) – Clouds, auroras, geysers *(paid mod)*
 * 🌅 [Scatterer](https://github.com/LGhassen/Scatterer/releases) – Atmospheric scattering and ocean shaders
 * 🪨 [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1) – High-detail terrain and tessellation
-* 🌌 [Singularity](https://github.com/LGhassen/Singularity) – Visuals for black holes and wormholes
-* 🌠 [INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR) – Deep space effects like pulsars
+* 🌌 [Singularity](https://github.com/LGhassen/Singularity) – Visuals for black holes, wormholes and other exotics
+* 🌠 [INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR) – Pulsar Effects
 * 🔭 [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) – Long-range object visibility *(not needed with Scatterer)*
 * ✨ [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) – Planetary glow and ambient lighting
 
@@ -80,7 +80,7 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 #### 🔧 Core Options
 
 * `KerbolRevamp = False` – *(upcoming)* revamp of stock system
-* `HomeSwitch = True` – set **Alva** as homeworld instead of Kerbin
+* `HomeSwitch = True` – *(upcoming)* set **Alva** as homeworld instead of Kerbin
 * `DistanceFactor = 1` – adjust system spacing (0.5, 1, 10, 100)
 * `Rescale = 1` – scale all systems *(requires Sigma Dimensions)*
 
@@ -200,6 +200,4 @@ This allows:
 * ✅ Non-commercial redistribution
 * ✅ Sharing with proper credit
 * ❌ No modifications
-* ❌ No asset reuse or redistribution
-
-> ⚠️ **All textures** (unless stated otherwise) are **All Rights Reserved**. Reuse or redistribution is not allowed without written permission.
+* ❌ No asset reuse or redistribution (without written permission)
