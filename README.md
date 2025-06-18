@@ -149,7 +149,7 @@ Mods not listed are untested, install at your own risk.
 
   ![screenshot](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
 
-* **Visual Tip** – Set *Texture Quality* to **Full** to avoid black planet bugs.
+* **Visual Tip** – Set *Texture Quality* to **Full** to avoid the 'dark planet' bug.
 
 ---
 
