@@ -135,7 +135,7 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 * Parallax 1 & 2
 * Komplexity
 
-Mods not listed are untested — install at your own risk.
+Mods not listed are untested, install at your own risk.
 
 ---
 
