@@ -206,8 +206,6 @@ This allows:
 * ❌ No modifications
 * ❌ No asset reuse or redistribution (without written permission)
 
-Thank you — here’s the updated and fully professional **License & Legal Notice** section, including references to the *Techo* situation and the resolved *Kcalbeloh comet tails* issue:
-
 ---
 
 > ⚠️ Following concerns from *Techo*, the creator of [**Techo’s Stock Planet Revamp**](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), **every planet texture in KSS2 has been carefully reviewed and either fully remade or substantially adjusted** to ensure full originality.
