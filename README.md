@@ -212,7 +212,7 @@ This allows:
 > While the situation was escalated with hostility, I acknowledge the oversight and also recognize that I made mistakes in how I initially responded. I sincerely regret the confusion this caused. The issue has since been fully addressed and resolved.
 > In response, and as a way to reaffirm my dedication and capabilities as a planet modder, I chose to remake or redesign over 90% of all planets in KSS2. What followed was not just a fix, but a complete creative overhaul that strengthened the mod and its artistic identity.
 
-> 🔹 Similarly, the use of comet tails from *Kcalbeloh System* was resolved immediately after it was brought to my attention, even though it continues to be mentioned. These assets have been replaced in accordance with the original mod’s licensing.
+> 🔹 Similarly, the use of a comet tail texture from Kcalbeloh System as a base for KSS2 was addressed immediately once brought to my attention, even though it continues to be mentioned. The assets were promptly replaced in full accordance with the original mod’s licensing.
 
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
