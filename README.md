@@ -14,7 +14,7 @@ As the spiritual successor to **KSS1** and **Galaxies Unbound**, KSS2 blends sci
 
 KSS2 currently includes a growing collection of custom star systems:
 
-* **Aethera System** – A nearby **M5.5 red dwarf**, closest to Kerbol, with a compact planetary system
+* **Aethera** – A nearby **M5.5 red dwarf**, closest to Kerbol, with a compact planetary system
 * **Alpha Centauri** – A full system for **A, B, and Proxima**, including a whole roster of planet and moons
 * **Kerr** – A massive **black hole** surrounded by bizarre, exotic, and dangerous celestial objects
 * **Luhman 16** – A dual brown dwarf system, featuring **Tide**, a fan-favorite planet
