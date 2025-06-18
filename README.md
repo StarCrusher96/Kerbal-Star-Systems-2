@@ -1,4 +1,4 @@
-![Screenshot](https://www.dropbox.com/scl/fi/85bdzltkx1iqkglutzohu/logoForumYT3.png?rlkey=deo5iohk8hnyxa3z3acs47nqv&st=clyg0b0m&dl=1)
+![KSS-Banner]([https://www.dropbox.com/scl/fi/85bdzltkx1iqkglutzohu/logoForumYT3.png?rlkey=deo5iohk8hnyxa3z3acs47nqv&st=clyg0b0m&dl=1](https://previews.dropbox.com/p/thumb/ACp5cabH4Pekv5RZ7UL-mTcpWN1IX4n8ZFyW9Ydlx9yurs1ictNPp230_WPNZDESG81bB-rRbSnYbWYNDhrjdIUUlvqxDF_6BGrdnn-eezJTX9rEjKnuW32MoxzztjpW_fnXJIpAvV0PvoI_M_7h_zOS9LOZJ_LegxQMTRx-wT_L49RGEO6SuDZzwPP9mYSYVk6E3B92YdZDAYqIlDDwdBXJsZh0Jej1_Fi3vIcZ8l76GhB9Pnokah6MFF3M5te-b0SOPzUw7DJeg_hUPztwg2YBqAFlKiYH505K1_SNh6ouhCJ5Jup3S73UXd4HNxIdf6k/p.png))
 
 # 🌌 Kerbal Star Systems 2 \[v3.0.1]
 
