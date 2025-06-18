@@ -216,3 +216,6 @@ Thank you — here’s the updated and fully professional **License & Legal Noti
 > 🔹 Similarly, the use of comet tails from *Kcalbeloh System* was resolved immediately after it was brought to my attention — even though it continues to be mentioned. These assets have been removed or replaced in accordance with the original mod’s licensing.
 
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
+
+> 🛠️ KSS2 is a passion-driven hobby project, built on over a decade of experience in the KSP modding community. Mistakes can happen in any long-term creative effort — what matters is how we handle them.
+> We welcome respectful feedback and are always open to addressing concerns privately or constructively. However, **public name-calling, witch-hunting, or spreading false narratives is unproductive and childish**. Let’s keep the focus on creativity, learning, and collaboration.
