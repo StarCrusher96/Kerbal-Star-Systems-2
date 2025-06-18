@@ -152,7 +152,7 @@ Mods not listed are untested — install at your own risk.
 ## 🎯 Career Integration
 
 KSS2 features a **custom contract system** designed for Career Mode.
-Unlock mid-to-late game contracts as your space program evolves — guiding you toward new systems, mysteries, and anomalies.
+Unlock mid-to-late game contracts as your space program evolves, guiding you toward new systems, mysteries, and anomalies.
 
 ---
 
@@ -186,7 +186,7 @@ This project wouldn’t be what it is without the dedication of contributors and
 * **Caden**
 * **Chaotic Protocol**
 * **CiaraRayneCloud**
-* ...and **everyone who has supported KSS2 over the years** — whether by testing, feedback, encouragement, or just exploring the stars with us. 🖤
+* ...and **everyone who has supported KSS2 over the years** whether by testing, feedback, encouragement, or just exploring the stars with us. 🖤
 
 ---
 
