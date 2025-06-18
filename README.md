@@ -80,18 +80,28 @@ The **KSS2Settings.cfg** file contains several options you may want to configure
 
 ---
 
-## Compatibility:
+## Compatibility
 
-### Supported Mods:
-- [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)
-- [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) KSS2 related contracts. V2.1.3 or greater.
-- [Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)
-- [Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)
-- [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases)
-- [Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)
-- [Blueshift](https://github.com/Angel-125/Blueshift/releases) This is primarily a FTL mod, but it also provides Space Anomaly support. This is needed if you would like the various interesting space anomalies in KSS2 to be available. Enable Space Anomalies in the Blueshift in-game settings.
-- [WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases) Primarily a collection of tools for the WildBlue mods, this provides interesting functionality for the space anomalies.
-- Space Dust Next Adds a wider range of harvestable resources for both stock and modded planets.
+#### ✅ Supported Mods
+
+* **[Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609-1125-sterling-systems-v0371-mar-02-2024/)** – Advanced part modules and mechanics
+* **[Contract Configurator](https://github.com/KSP-RO/ContractConfigurator)** – Enables KSS2 contracts *(v2.1.3+ required)*
+* **[Kerbalism](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-15-110-kerbalism-311/)** – Life support, radiation, science systems
+* **[Kerbal Health](https://forum.kerbalspaceprogram.com/index.php?/topic/155313-18-kerbal-health-163-2022-12-25/)** – Adds crew health and stress simulation
+* **[Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases)** – Shared resource framework
+* **[Rational Resources](https://forum.kerbalspaceprogram.com/index.php?/topic/184875-rational-resources-142-dec-25-2022/)** – Realistic resource distributions and configs
+* **[Blueshift](https://github.com/Angel-125/Blueshift/releases)** – Enables space anomalies (enable *Space Anomalies* in settings)
+* **[WildBlueTools](https://github.com/Angel-125/WildBlueTools/releases)** – Adds anomaly interaction features
+* **Space Dust Next** – Adds more harvestable resources across planets
+
+#### 🌍 Compatible Planet Mods
+
+* **[Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8)** – Fully compatible as a neighboring system
+* **[Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/tag/1.0.3)** – Compatible; adds additional stars and worlds
+* **KSRSS** – Compatible in scaled mode *(not as homeworld)*
+* **[OPM (Outer Planets Mod)](https://github.com/Poodmund/Outer-Planets-Mod/releases)** – Works alongside KSS2 in most configurations
+
+
 
 ### Not Compatible:
    - Principia
