@@ -67,18 +67,67 @@ For KSS2 to work properly, install:
 * **[PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)** – Planetary glow and ambient lighting
 
 
+ 
+### 4. Settings Overview
 
-### 4. General Settings File:
+KSS2 includes a configuration file: **`KSS2Settings.cfg`**, found in the **KSS2** folder. This lets you customize key features of the mod.
 
-The **KSS2Settings.cfg** file contains several options you may want to configure (located in the **KSS2** folder):
-- **SpaceAnomalies**: Enabled by default with Blueshift mod. Enables exploration of space anomalies.
-- **Exotics**: Enable for rare and challenging celestial phenomena.
-- **Wormholes**: Toggle the wormhole network connecting KSS2 systems.
-- **HabitableWorlds**: Set to **True** to enable the habitable moon Pandor.
-- **Rescale**: Choose between a 2.5x or 10x scale, requires **Sigma Dimensions** mod.
-- **Asteroid Belts**: Enable/disable asteroid belts around Kerbol and other systems.
+#### 🔧 Core Settings
 
----
+* **KerbolRevamp** = `False`
+  *(Upcoming feature)* Replaces the stock Kerbol system with a new layout. Not available yet.
+* **HomeSwitch** = `False`
+  Set to `True` to move your homeworld to **Alva** (Nova Kirbani). Default keeps **Kerbin** as home.
+* **DistanceFactor** = `0.5 / 1 / 10 / 100`
+  Scales distances between star systems.
+* **Rescale** = `1 / 2.5 / 10`
+  Set system scale (requires **Sigma Dimensions**).
+
+#### 🌍 Expansions
+
+* **PandorExpansion** = `True`
+  Adds the habitable moon **Pandor** to Novin.
+* **HabitableProximaB** = `True`
+  Makes **Proxima b** habitable.
+
+#### ✨ Visual Options
+
+* **StarProperties** = `Stock` / `Realistic`
+  Adjusts star sizes for visual accuracy.
+* **DisableSkybox** = `False`
+  Set to `True` to disable KSS2’s custom skybox.
+* **FlareOverride** = `True`
+  Replaces all mod flares with KSS2's custom flares.
+* **StockIcons** = `True`
+  Enables custom map icons.
+
+#### 🛰️ Space Features
+
+* **Anomalies** = `True`
+  Enables exploration of space anomalies *(requires Blueshift)*
+* **Exotics** = `True`
+  Enables rare, high-difficulty celestial features
+* **Wormholes** = `True`
+  Toggles the wormhole network between star systems
+* **KerbolWormhole** = `True`
+  Connects **Kerbol** ↔ **Alpha Centauri**
+
+#### 📡 Communication
+
+* **InterstellarCommNet** = `True`
+  Adds deep space relays for long-range communication
+
+#### ☄️ Asteroids
+
+* **SunAsteroids** = `True`
+  Enables asteroid belts around **Kerbol**
+* **ExtraSolarAsteroids** = `True`
+  Enables asteroid belts in other KSS2 systems
+
+Edit these values directly in `KSS2Settings.cfg` to customize your gameplay experience.
+
+
+ 
 
 ## Compatibility
 
