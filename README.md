@@ -65,11 +65,11 @@ GameData/
 
 * ☁️ [Volumetric EVE](https://www.patreon.com/c/blackrack/posts) – Clouds, auroras, geysers *(paid mod)*
 * 🌅 [Scatterer](https://github.com/LGhassen/Scatterer/releases) – Atmospheric scattering and ocean shaders
-* 🪨 [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1) – High-detail terrain, tessellation, and surface objects
+* 🪨 [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1) – High-detail terrain and tessellation
 * 🌌 [Singularity](https://github.com/LGhassen/Singularity) – Visuals for black holes and wormholes
-* 🌠 [INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR) – Deep space effects (e.g. pulsars)
+* 🌠 [INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR) – Deep space effects like pulsars
 * 🔭 [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) – Long-range object visibility *(not needed with Scatterer)*
-* ✨ [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) – Realistic planetary glow and ambient lighting
+* ✨ [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) – Planetary glow and ambient lighting
 
 ---
 
@@ -82,7 +82,7 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 * `KerbolRevamp = False` – *(upcoming)* revamp of stock system
 * `HomeSwitch = True` – set **Alva** as homeworld instead of Kerbin
 * `DistanceFactor = 1` – adjust system spacing (0.5, 1, 10, 100)
-* `Rescale = 1` – scales all systems *(requires Sigma Dimensions)*
+* `Rescale = 1` – scale all systems *(requires Sigma Dimensions)*
 
 #### 🌍 Expansions
 
@@ -91,15 +91,15 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 
 #### 🛰️ Features
 
-* `Wormholes = True` – wormhole travel system
-* `KerbolWormhole = True` – direct wormhole to Alpha Centauri
-* `Anomalies = True` – unlock hidden space features *(requires Blueshift)*
+* `Wormholes = True` – enable interstellar travel
+* `KerbolWormhole = True` – connects Kerbol ↔ Alpha Centauri
+* `Anomalies = True` – unlock hidden deep space features *(requires Blueshift)*
 * `Exotics = True` – enables rare, high-difficulty challenges
 * `SunAsteroids / ExtraSolarAsteroids = True` – asteroid belts
 
 #### 📡 CommNet
 
-* `InterstellarCommNet = True` – adds deep-space relay points
+* `InterstellarCommNet = True` – adds long-range relay coverage
 
 ---
 
@@ -115,7 +115,7 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 * [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)
 * [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies in settings)*
 * [WildBlueTools](https://github.com/Angel-125/WildBlueTools)
-* **Space Dust Next** *(expanded resource harvesting)*
+* **Space Dust Next** *(expanded resource support)*
 
 ### 🌍 Planet Pack Compatibility
 
@@ -141,36 +141,52 @@ Mods not listed are untested — install at your own risk.
 
 ## ⚠️ Known Issues
 
-* **Legacy EVE is not supported.** Use **Volumetric EVE** only.
-* **Maneuver Tool Bug** – the stock planner may cause scene/timewarp issues in KSP 1.12.
+* **Legacy EVE is not supported**. Use **Volumetric EVE** only.
+* **Maneuver Tool Bug** – KSP 1.12’s stock planner can cause scene/timewarp issues.
   → Use [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)
   ![screenshot](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
-* **Visual Bug Tip** – Set *Texture Quality* to **Full** in the main menu to avoid black planets.
+* **Visual Tip** – Set *Texture Quality* to **Full** to avoid black planet bugs.
 
 ---
 
 ## 🎯 Career Integration
 
-KSS2 features a **custom contract system** tailored to career progression. Once your space center is upgraded, mid- and late-game contracts will guide you across systems and toward hidden anomalies.
+KSS2 features a **custom contract system** designed for Career Mode.
+Unlock mid-to-late game contracts as your space program evolves — guiding you toward new systems, mysteries, and anomalies.
 
 ---
 
 ## 💬 Community & Support
 
-* [🌐 Discord Server](https://discord.com/invite/8mKywDaujE) – ask questions, share crafts, get updates
-* [📺 YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA) – development logs & previews
+* [🌐 Discord Server](https://discord.com/invite/8mKywDaujE) – Ask questions, get updates, share ideas
+* [📺 YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA) – Previews, dev logs, and showcases
 
-> ❗ *KSP Forum support has been discontinued due to community concerns and evolving modding policies.*
+> 🛑 *KSP Forum support has been discontinued due to community conflicts and shifting moderation policies.*
 
 ---
 
-## ❤️ Support Development
+## ❤️ Support KSS2 on Patreon
 
-If you enjoy KSS2 and want to help it grow:
+If you love the project and want to help it grow, consider becoming a supporter:
+Your contributions help cover time, tools, and continued development.
 
-[**💸 Donate via PayPal**](https://www.paypal.com/donate/?hosted_button_id=7VBTXAZWDDQ4S)
+[**🎁 Become a Patron**](https://www.patreon.com/c/StarCrusher96)
 
-Every contribution helps us keep exploring further.
+> 🔒 **Note:** KSS2 is **not being sold**. All support is voluntary. The mod remains free and public — Patreon simply helps keep the project alive.
+
+---
+
+## 🙏 Credits & Thanks
+
+This project wouldn’t be what it is without the dedication of contributors and the support of the community. Special thanks to:
+
+* **TheSpacePotato**
+* **OoglakKerman**
+* **JadeOfMaar**
+* **Caden**
+* **Chaotic Protocol**
+* **CiaraRayneCloud**
+* ...and **everyone who has supported KSS2 over the years** — whether by testing, feedback, encouragement, or just exploring the stars with us. 🖤
 
 ---
 
@@ -178,6 +194,12 @@ Every contribution helps us keep exploring further.
 
 **Kerbal Star Systems 2** © 2025 by **StarCrusher96** is licensed under
 [**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-This allows **non-commercial sharing with credit**, but prohibits **modification or asset reuse**.
 
-> ⚠️ All textures (unless stated otherwise) are **All Rights Reserved** and may not be reused or redistributed without explicit permission.
+This allows:
+
+* ✅ Non-commercial redistribution
+* ✅ Sharing with proper credit
+* ❌ No modifications
+* ❌ No asset reuse or redistribution
+
+> ⚠️ **All textures** (unless stated otherwise) are **All Rights Reserved**. Reuse or redistribution is not allowed without written permission.
