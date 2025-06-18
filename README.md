@@ -218,6 +218,7 @@ This project wouldn’t be what it is without the dedication of contributors and
 * **TheSpacePotato**
 * **OoglakKerman**
 * **JadeOfMaar**
+* **Spaceman**
 * **Caden**
 * **Chaotic Protocol**
 * **CiaraRayneCloud**
