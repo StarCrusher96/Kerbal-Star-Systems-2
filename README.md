@@ -211,7 +211,7 @@ This allows:
 > ⚠️ Following concerns from *Techo*, the creator of [**Techo’s Stock Planet Revamp**](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), **every planet texture in KSS2 has been carefully reviewed and either fully remade or substantially adjusted** to ensure full originality.
 > While the situation was escalated with hostility, I acknowledge the oversight and sincerely regret the confusion it caused. The issue has been fully addressed and resolved.
 
-> 🔹 Similarly, the use of comet tails from *Kcalbeloh System* was resolved immediately after it was brought to my attention, even though it continues to be mentioned. These assets have been removed or replaced in accordance with the original mod’s licensing.
+> 🔹 Similarly, the use of comet tails from *Kcalbeloh System* was resolved immediately after it was brought to my attention, even though it continues to be mentioned. These assets have been replaced in accordance with the original mod’s licensing.
 
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
