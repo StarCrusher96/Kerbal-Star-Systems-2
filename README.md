@@ -1,8 +1,37 @@
+Here’s the updated **README** with a new section added under the introduction, titled **"🪐 What’s Included in v3.0.1"**, followed by a **"🔭 In Development"** preview list:
+
+---
+
 # 🌌 Kerbal Star Systems 2 \[v3.0.1]
 
 **Kerbal Star Systems 2** (KSS2) is a massive interstellar expansion for *Kerbal Space Program*, pushing exploration far beyond Kerbol with rich, handcrafted star systems, some grounded in real astronomy, others purely fantastical.
 
 As the spiritual successor to **KSS1** and **Galaxies Unbound**, KSS2 blends scientific plausibility with creative worldbuilding to deliver one of the most ambitious experiences ever made for KSP. It continues a journey that began in 2015, building on a legacy of past projects that have inspired a whole new generation of planet modders.
+
+---
+
+## 🪐 What’s Included in v3.0.1
+
+KSS2 currently includes a growing collection of custom star systems:
+
+* **Aethera System** – A nearby **M5.5 red dwarf**, closest to Kerbol, with a compact planetary system
+* **Alpha Centauri** – A full system for **A, B, and Proxima**, including a whole roster of planet and moons
+* **Kerr** – A massive **black hole** surrounded by bizarre, exotic, and dangerous celestial objects
+* **Luhman 16** – A dual brown dwarf system, featuring **Tide**, a fan-favorite planet
+* **Sirius** – Included in **supportive capacity**; further planets are planned
+* **Kerbol** – Minor improvements to the stock sun to support interstellar visuals
+
+---
+
+## 🔭 In Development
+
+What’s coming next for KSS2:
+
+* **KSS2 Outer Worlds** – Adds gas giants, ice giants, and moons beyond Eeloo
+* **KSS2 Stock Revamp** – A remake of the **Kerbol system**
+* **Epsilon Eridani** – A realistic nearby star system with new challenges
+* **Helion** – A completely **fictional** star system focused around a close binary.
+* **Expanded Sirius & Luhman 16** – More planets and moons to flesh out these star systems
 
 ---
 
