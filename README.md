@@ -111,6 +111,7 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 * [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) *(v2.1.3+)*
 * [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)
 * [Kerbal Health](https://forum.kerbalspaceprogram.com/topic/155313)
+* [TiltEm Continued](https://spacedock.info/mod/3909/TiltEm%20Continued)
 * [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
 * [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)
 * [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies in settings)*
