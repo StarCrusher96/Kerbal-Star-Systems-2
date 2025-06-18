@@ -132,9 +132,8 @@ Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
 * Galaxies Unbound
 * Older versions of KSS2
 * KSRSS (*in full replacement mode*)
-* Parallax 1
+* Parallax 1 & 2
 * Komplexity
-* Galaxy Mode / HomeSwitch (in unsupported configs)
 
 Mods not listed are untested — install at your own risk.
 
