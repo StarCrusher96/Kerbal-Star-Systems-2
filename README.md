@@ -208,7 +208,7 @@ This allows:
 
 ---
 
-> ⚠️ Following concerns from *Techo*, the creator of [**Techo’s Stock Planet Revamp**](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), **every planet texture in KSS2 has been carefully reviewed and either fully remade or substantially adjusted** to ensure full originality.
+> ⚠️ Following concerns from *Techo*, the creator of [**Techo’s Stock Planet Revamp**](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), **every planet texture in KSS2 has been carefully reviewed.
 > While the situation was escalated with hostility, I acknowledge the oversight and also recognize that I made mistakes in how I initially responded. I sincerely regret the confusion this caused. The issue has since been fully addressed and resolved.
 > In response, and as a way to reaffirm my dedication and capabilities as a planet modder, I chose to remake or redesign over 90% of all planets in KSS2. What followed was not just a fix, but a complete creative overhaul that strengthened the mod and its artistic identity.
 
