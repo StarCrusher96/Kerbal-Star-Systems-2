@@ -1,4 +1,4 @@
-![KSS2 Banner](https://previews.dropbox.com/p/thumb/ACoBJkLcqoIstVor4xrXTQQml-NXnsxUdXSvi03Y2-eq2pVNTlSDpHJ7MWhp0SMqZQP9COekCU9YRCobK1O_YrtJjM3SqLaUhNRLp-WAt5cPM7fJ-OFSkveX2Y8zrV6ye-gv_TKsgXX2Vfrw0Ju-Hj6ZrR7ok69g7MC-AOJLkLJSXNdk8akVLhLdS-U-b19k8zdfKCxS93SD_U_MdMnjr25m2dFgVGF6rXkEnTU5ZA-zkMMIrU-8RW4UQiXW2zqI_-68vlSo1SB_XlD0Or5XUiqBIHZA9b8Z-psTPB843UrBeFRieMU_3wHjXgPYcqg9ia4/p.png)
+![KSS2 Banner](https://www.dropbox.com/scl/fi/oc3mffivymet1upkriwmo/logoForumNK.png?rlkey=zy5z3dmhgkimn4hkzx8iucqvj&st=k2cnipi0&dl=1)
 
 # 🌌 Kerbal Star Systems 2 \[v3.0.1]
 
