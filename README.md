@@ -1,4 +1,4 @@
-![KSS2Banner](https://github.com/user-attachments/assets/b0696a30-7eba-44be-bb20-3491a3e0380a)
+![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 
 # 🌌 Kerbal Star Systems 2 \[v3.0.1]
 
