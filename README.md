@@ -1,4 +1,4 @@
-![KSS-Banner](https://www.dropbox.com/scl/fi/85bdzltkx1iqkglutzohu/logoForumYT3.png?rlkey=deo5iohk8hnyxa3z3acs47nqv&st=zi0j3xop&dl=1)
+![KSS2Banner](https://github.com/user-attachments/assets/b0696a30-7eba-44be-bb20-3491a3e0380a)
 
 # 🌌 Kerbal Star Systems 2 \[v3.0.1]
 
