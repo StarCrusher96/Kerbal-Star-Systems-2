@@ -7,52 +7,52 @@ As the spiritual successor to **KSS1** and **Galaxies Unbound**, KSS2 blends sci
 
 ---
 
-## 🪐 What’s Included in v3.0.1
+## 🪐 Included in v3.0.1
 
-KSS2 currently includes a growing collection of custom star systems:
+KSS2 features multiple, fully custom star systems:
 
-* **Aethera** – A nearby **M5.5 red dwarf**, closest to Kerbol, with a compact planetary system
-* **Alpha Centauri** – A full system for **A, B, and Proxima**, including a whole roster of planet and moons
-* **Kerr** – A massive **black hole** surrounded by bizarre, exotic, and dangerous celestial objects
-* **Luhman 16** – A dual brown dwarf system, featuring **Tide**, a fan-favorite planet
-* **Sirius** – Included in **supportive capacity**; further planets are planned
-* **Kerbol** – Minor improvements to the stock sun to support interstellar visuals
+- **Aethera** — A nearby red dwarf (M5.5), closest to Kerbol  
+- **Alpha Centauri** — A triple star system with detailed planets around A, B, and Proxima  
+- **Kerr** — A massive black hole with exotic and dangerous objects  
+- **Luhman 16** — Dual brown dwarfs, home of the fan-favorite world *Tide*  
+- **Sirius** — Included in a supporting role; expansion planned  
+- **Kerbol** — Minor updates to the stock system for compatibility
 
 ---
 
 ## 🔭 In Development
 
-What’s coming next for KSS2:
+Coming soon:
 
-* **KSS2 Outer Worlds** – Adds gas giants, ice giants, and moons beyond Eeloo
-* **KSS2 Stock Revamp** – A remake of the **Kerbol system**
-* **Epsilon Eridani** – A realistic nearby star system with new challenges
-* **Helion** – A completely **fictional** star system focused around a close binary.
-* **Expanded Sirius & Luhman 16** – More planets and moons to flesh out these star systems
+- **Outer Worlds Expansion** — Adds distant gas/ice giants and moons  
+- **Stock System Revamp** — Visual and structural overhaul of the Kerbol system  
+- **Epsilon Eridani** — Realistic exoplanet system with new challenges  
+- **Helion** — A fully fictional binary-focused star system  
+- **Expanded Luhman & Sirius** — More content for these systems
 
 ---
 
 ## 🚀 Key Features
 
-* 🪐 **Realistic + Fictional Systems** – Explore exoplanets and imagined alien worlds
-* 🌍 **Expanded Universe** – Discover systems light-years from Kerbol
-* 🔁 **Career Integration** – Contracts and anomalies built for interstellar progression
-* 🌌 **Visual Immersion** – Supports volumetric clouds, terrain shaders, wormhole effects
+- 🪐 **Real + Fictional Systems** — Balanced blend of realism and imagination  
+- 🌌 **Volumetric Visual Support** — Full compatibility with cloud, terrain & wormhole effects  
+- 🔁 **Career Mode Integration** — Contracts and anomalies made for interstellar exploration  
+- 🌍 **High Customization** — Tailor distances, difficulty, and expansion content
 
 ---
 
 ## 🖥️ System Requirements
 
-* **KSP Version**: 1.12.x
-* **RAM**: 16 GB minimum
-* **GPU**: 1–2 GB VRAM recommended
+- **KSP Version**: `1.12.x`  
+- **RAM**: 16 GB minimum  
+- **GPU**: 1–2 GB VRAM recommended
 
 ---
 
 ## 📦 Installation
-📖 [Installation instructions](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-install-KSS2) can be found on the KSS2 Wiki.
 
-Please follow the step-by-step guide there for the latest information on dependencies, system setup, and visual mods.
+📖 See the [Installation Guide](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-install-KSS2) on the KSS2 Wiki.  
+It includes step-by-step setup for dependencies, system packs, and visual mods.
 
 ---
 
@@ -60,107 +60,111 @@ Please follow the step-by-step guide there for the latest information on depende
 
 ### ✅ Supported Mods
 
-* [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609)
-* [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) *(v2.1.3+)*
-* [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)
-* [Kerbal Health](https://forum.kerbalspaceprogram.com/topic/155313)
-* [TiltEm Continued](https://spacedock.info/mod/3909/TiltEm%20Continued)
-* [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
-* [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)
-* [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies in settings)*
-* [WildBlueTools](https://github.com/Angel-125/WildBlueTools)
-* **Space Dust Next** *(expanded resource support)*
+- [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609)  
+- [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) *(v2.1.3+)*  
+- [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)  
+- [Kerbal Health](https://forum.kerbalspaceprogram.com/topic/155313)  
+- [TiltEm Continued](https://spacedock.info/mod/3909/TiltEm%20Continued)  
+- [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)  
+- [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)  
+- [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies)*  
+- [WildBlueTools](https://github.com/Angel-125/WildBlueTools)  
+- **Space Dust Next** *(expanded resources)*
 
 ### 🌍 Planet Pack Compatibility
 
-* [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8)
-* [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)
-* **KSRSS** – only compatible in *scaled mode*
-* [OPM (Outer Planets Mod)](https://github.com/Poodmund/Outer-Planets-Mod)
+- [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8)  
+- [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)  
+- [KSRSS](https://github.com/KSP-RO/KSRSS) *(scaled mode only)*  
+- [Outer Planets Mod (OPM)](https://github.com/Poodmund/Outer-Planets-Mod)
 
 ---
 
-## 🚫 Not Compatible
+## 🚫 Not Compatible With
 
-* Principia
-* Galaxies Unbound
-* Older versions of KSS2
-* KSRSS (*in full replacement mode*)
-* Parallax 1 & 2
-* Komplexity
+- Principia  
+- Galaxies Unbound  
+- Older versions of KSS2  
+- KSRSS *(in full-replacement mode)*  
+- Parallax 1 & 2  
+- Komplexity
 
-Mods not listed are untested, install at your own risk.
+> Mods not listed are untested — install at your own risk.
 
 ---
 
 ## ⚠️ Known Issues
 
-* **Legacy EVE is not supported**. Use **Volumetric EVE** only.
-* **Maneuver Tool Bug** – KSP 1.12’s stock planner can cause scene/timewarp issues.
-
+- ❌ **Legacy EVE is not supported** — Use **Volumetric EVE only**  
+- ⚠️ **Maneuver Tool Bug** — Stock maneuver planner may break timewarp  
   → Use [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)
 
-  ![screenshot](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
+  ![Fix Settings](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
 
-* **Visual Tip** – Set *Texture Quality* to **Full** to avoid the 'dark planet' bug.
+- 🌑 **Visual Tip** — Set *Texture Quality* to **Full** in KSP settings to avoid black planets
 
 ---
 
 ## 🎯 Career Integration
 
-KSS2 features a **custom contract system** designed for Career Mode.
-Unlock mid-to-late game contracts as your space program evolves, guiding you toward new systems, mysteries, and anomalies.
+KSS2 includes a full **contract progression system**, with:
+
+- Mid- to late-game missions  
+- Interstellar discovery contracts  
+- Anomalies and progression goals  
+- Modded tech tree and resources support
 
 ---
 
 ## 💬 Community & Support
 
-* [🌐 Discord Server](https://discord.com/invite/8mKywDaujE) – Ask questions, get updates, share ideas
-* [📺 YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA) – Previews, dev logs, and showcases
+- 🌐 [KSS2 Discord](https://discord.com/invite/8mKywDaujE) — Chat, help, updates  
+- 📺 [YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA) — Dev logs, previews
 
-> 🛑 *KSP Forum support has been discontinued due to community conflicts and shifting moderation policies.*
+> ⚠️ **Note:** KSP Forum support is no longer provided due to moderation policy conflicts.
 
 ---
 
-## ❤️ Support KSS2 on Patreon
+## ❤️ Support the Project
 
-If you love the project and want to help it grow, consider becoming a supporter:
-Your contributions help cover time, tools, and continued development.
+If you enjoy KSS2 and want to contribute:
 
-[**🎁 Become a Patron**](https://www.patreon.com/c/StarCrusher96)
+[🎁 Support via Patreon](https://www.patreon.com/c/StarCrusher96)
 
-> 🔒 **Note:** KSS2 is **not being sold**. All support is voluntary. The mod remains free. Patreon simply helps keep the project alive.
+> 🔒 *KSS2 is and always will remain free.*  
+> Patreon is optional and helps cover tools, time, and ongoing dev work.
 
 ---
 
 ## 🙏 Credits & Thanks
 
-This project wouldn’t be what it is without the dedication of contributors and the support of the community. Special thanks to:
+Huge thanks to all past and present contributors:
 
-* **TheSpacePotato**
-* **OoglakKerman**
-* **JadeOfMaar**
-* **Spaceman**
-* **Caden**
-* **Chaotic Protocol**
-* **CiaraRayneCloud**
-* ...and **everyone who has supported KSS2 over the years** whether by testing, feedback, encouragement, or just exploring the stars with us. 🖤
+- **TheSpacePotato**  
+- **OoglakKerman**  
+- **JadeOfMaar**  
+- **Spaceman**  
+- **Caden**  
+- **Chaotic Protocol**  
+- **CiaraRayneCloud**  
+- ...and everyone who helped shape this journey. 🖤
+
+---
+
+## 📜 License
+
+**Kerbal Star Systems 2** © 2025 by **StarCrusher96**  
+Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+- ✅ Free to share  
+- ✅ Credit required  
+- ❌ No modifications  
+- ❌ No commercial use  
+- ❌ No asset reuse
 
 ---
 
-## 📜 License & Legal Notice
-
-**Kerbal Star Systems 2** © 2025 by **StarCrusher96** is licensed under
-[**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-This allows:
-
-* ✅ Non-commercial redistribution
-* ✅ Sharing with proper credit
-* ❌ No modifications
-* ❌ No asset reuse or redistribution (without written permission)
-
----
+## ⚖️ Transparency & Response to Concerns
 
 > ⚠️ Following the *public* concerns from *Mrpasta44*, the creator of [**Techo’s Stock Planet Revamp**](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), every planet texture in KSS2 has been carefully reviewed.
 > While the situation was escalated with hostility, I acknowledge the oversight and also recognize that I made mistakes in how I initially responded. I sincerely regret the confusion this caused. The issue has since been fully addressed and resolved.
