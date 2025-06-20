@@ -121,7 +121,7 @@ KSS2 includes a full **contract progression system**, with:
 - 🌐 [KSS2 Discord](https://discord.com/invite/8mKywDaujE) — Chat, help, updates  
 - 📺 [YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA) — Dev logs, previews
 
-> ⚠️ **Note:** KSP Forum support is no longer provided due to moderation policy conflicts.
+> ⚠️ **Note:** KSP Forum support is no longer provided due community conflicts and changed moderation policy.
 
 ---
 
