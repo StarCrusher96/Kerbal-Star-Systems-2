@@ -66,13 +66,8 @@ KSS2 supports **Volumetric EVE** for enhanced visuals. *(Legacy EVE is not compa
 Your KSS2 folder should look like this:
 
 ```
-GameData/
-└── KSS2/
-    ├── Core
-    ├── SystemAlphaCentauri
-    ├── ContractPack   ← optional
-    ├── KSS2Settings.cfg
-    └── KSS2_License.md
+![KSS2Folder](https://github.com/user-attachments/assets/d77137f1-c2d1-4b94-ba90-8d5f2068c98a)
+
 ```
 
 ---
