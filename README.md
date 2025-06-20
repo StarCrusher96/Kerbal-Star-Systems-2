@@ -12,10 +12,10 @@ As the spiritual successor to **KSS1** and **Galaxies Unbound**, KSS2 blends sci
 KSS2 includes several fully custom star systems:
 
 - **Aethera**: A nearby M5.5 red dwarf, the closest to Kerbol  
-- **Alpha Centauri**: Complete planets around A, B, and Proxima  
+- **Alpha Centauri**: Complete system with planets around A, B, and Proxima  
 - **Kerr**: A black hole with strange and dangerous celestial bodies  
 - **Luhman 16**: Twin brown dwarfs with the fan-favorite planet *Tide*  
-- **Sirius**: Partial implementation (more coming)  
+- **Sirius**: Included in a supportive capacity. 
 - **Kerbol**: Minor improvements for compatibility and visuals
 
 ---
@@ -26,7 +26,7 @@ Planned and upcoming additions:
 
 - **Outer Worlds Expansion**: Gas giants and icy moons beyond Eeloo  
 - **Stock System Revamp**: Overhaul of the Kerbol planets  
-- **Epsilon Eridani**: A realistic system with fresh challenges  
+- **Epsilon Eridani**: A realistic nearby star system with new gameplay challenges
 - **Helion**: A fictional binary-based system  
 - **Expanded Luhman & Sirius**: More planets and moons
 
@@ -34,10 +34,10 @@ Planned and upcoming additions:
 
 ## 🚀 Key Features
 
-- 🪐 Mix of realism and fiction  
-- 🌌 Visual support for clouds, terrain, and wormholes  
-- 🔁 Career mode contracts and interstellar progression  
-- ⚙️ Flexible configuration and gameplay options
+- 🪐 Realistic + Fictional Systems: Explore exoplanets and alien worlds 
+- 🌍 Expanded Universe: Discover star systems light-years away from Kerbol
+- 🔁 Career Integration: Contracts and anomalies that guide long-term progression
+- 🌌 Visual Immersion: Supports advanced visuals like volumetric clouds, terrain shaders, wormholes, and more
 
 ---
 
@@ -51,7 +51,7 @@ Planned and upcoming additions:
 
 ## 📦 Installation
 
-📖 See the [Installation Guide](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-install-KSS2) on the KSS2 Wiki.  
+📖 See the [Installation Guide](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/%F0%9F%9A%80-How-to-Install-Kerbal-Star-Systems-2) on the KSS2 Wiki.  
 It includes instructions for dependencies, system packs, and visuals.
 
 ---
