@@ -51,6 +51,7 @@ What’s coming next for KSS2:
 
 ## 📦 Installation
 📖 [Installation instructions](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-install-KSS2) can be found on the KSS2 Wiki.
+
 Please follow the step-by-step guide there for the latest information on dependencies, system setup, and visual mods.
 
 ---
