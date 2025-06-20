@@ -56,36 +56,6 @@ Please follow the step-by-step guide there for the latest information on depende
 
 ---
 
-## ⚙️ Configuration Overview
-
-Edit `KSS2Settings.cfg` in the KSS2 folder to customize your gameplay:
-
-#### 🔧 Core Options
-
-* `KerbolRevamp = True/False` – *(upcoming)* revamp of stock system
-* `HomeSwitch = True/False` – *(upcoming)* set **Alva** as homeworld instead of Kerbin
-* `DistanceFactor = 1` – adjust system spacing (0.5, 1, 10, 100)
-* `Rescale = 1` – scale all systems *(requires Sigma Dimensions)*
-
-#### 🌍 Expansions
-
-* `PandorExpansion = True/False` – adds the lush moon **Pandor** to Novin
-* `HabitableProximaB = True/False` – makes **Proxima b** a viable home
-
-#### 🛰️ Features
-
-* `Wormholes = True/False` – enable interstellar travel
-* `KerbolWormhole = True/False` – connects Kerbol ↔ Alpha Centauri
-* `Anomalies = True/False` – unlock hidden deep space features *(requires Blueshift)*
-* `Exotics = True/False` – enables rare, high-difficulty challenges
-* `SunAsteroids / ExtraSolarAsteroids = True/False` – asteroid belts
-
-#### 📡 CommNet
-
-* `InterstellarCommNet = True/False` – adds long-range relay coverage
-
----
-
 ## 🔌 Compatibility
 
 ### ✅ Supported Mods
