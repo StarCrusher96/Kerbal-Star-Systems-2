@@ -49,55 +49,9 @@ What’s coming next for KSS2:
 
 ---
 
-## 📦 Installation Guide
-
-### 1. Download KSS2
-
-Remove any **older versions** of KSS2 or **Galaxies Unbound** before installing.
-
-Install the following into your `GameData` folder:
-
-* `KSS2_Core.2.0.zip`
-* Your selected systems (e.g. `SystemAlphaCentauri`, `SystemLuhman16`, etc.)
-* *(Optional)* `ContractPack.2.0.zip` for career contracts
-
-KSS2 supports **Volumetric EVE** for enhanced visuals. *(Legacy EVE is not compatible.)*
-
-Your KSS2 folder should look like this:
-
-![KSS2Folder](https://github.com/user-attachments/assets/d77137f1-c2d1-4b94-ba90-8d5f2068c98a)
-
----
-
-### 2. Required Dependencies *(Install All)*
-
-* 🔗 [Kopernicus](https://github.com/kopernicus/kopernicus/releases) *(v217+)*
-* 🌌 [Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) *(for wormholes & effects)*
-* 🛠️ [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) *(fixes 1.12 bugs)*
-* 🧩 [NiakoUtils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases) *(bundled)*
-* 🌀 [VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4) *(bundled)*
-
----
-
-### 3. Visual Enhancements *(Optional but Recommended)*
-
-> ⚠️ **Important:** Only **Volumetric EVE** is supported.
-> Do **not** use **Legacy EVE** or **EVE Redux** — these are **incompatible** and will cause visual bugs.
-
-#### 🔱 Core Visual Mods *(Recommended for full KSS2 experience)*
-
-* ☁️ **[Volumetric EVE](https://www.patreon.com/c/blackrack/posts)** – Volumetric clouds, auroras, and geysers *(paid mod)*
-* 🌅 **[Scatterer](https://github.com/LGhassen/Scatterer/releases)** – Atmospheric scattering and ocean shaders
-* 🪨 **[Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1)** – High-detail terrain with tessellation and scatters *(strongly recommended)*
-
-#### ✨ Additional Visual Effects *(Polish & immersion)*
-
-* 🌌 **[Singularity](https://github.com/LGhassen/Singularity)** – Visuals for black holes and wormholes
-* 🔥 **[Firefly](https://spacedock.info/mod/3813/Firefly)** – Realistic re-entry visual effects
-* 🌠 **[INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR)** – Pulsar effects
-* 🔭 **[Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject)** – Visibility of distant planets/moons *(redundant if using Scatterer)*
-* ✨ **[PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138)** – Ambient light and glow from nearby bodies
-* 💡 **[Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0)** – Improves shader performance and lighting *(optional)*
+📦 Installation
+📖 Installation instructions have been moved to the KSS2 Wiki.
+Please follow the step-by-step guide there for the latest information on dependencies, system setup, and visual mods.
 
 ---
 
