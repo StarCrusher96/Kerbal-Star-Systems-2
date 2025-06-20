@@ -120,7 +120,7 @@ KSS2 includes a full **contract progression system**, with:
 - 🌐 [KSS2 Discord](https://discord.com/invite/8mKywDaujE): Support, updates, and ideas  
 - 📺 [YouTube Channel](https://www.youtube.com/channel/UCrEUo4-6hNuVxUPEKNv8EcA): Dev logs and previews
 
-> Forum support has ended due to changed moderation policies and community tension.
+> 🛑 KSP Forum support has been discontinued due to community conflicts and moderation issues.
 
 ---
 
@@ -155,9 +155,10 @@ Special thanks to:
 **Kerbal Star Systems 2** © 2025 by **StarCrusher96**  
 Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-- ✅ Free to share  
-- ✅ Credit required  
-- ❌ No modifications  
+This means:
+- ✅ You can share and redistribute
+- ✅ You must give proper credit 
+- ❌ No modifications or remix
 - ❌ No commercial use  
 - ❌ No asset reuse
 
