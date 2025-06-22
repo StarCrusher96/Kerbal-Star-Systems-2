@@ -172,8 +172,7 @@ This means:
 
 > 🔹 Similarly, the use of a comet tail texture from Kcalbeloh System as a base for KSS2 was addressed immediately once brought to my attention, even though it continues to be mentioned. The assets were promptly replaced in full accordance with the original mod’s licensing.
 
->🤖 On the Use of AI and Tools
-Yes! I use AI tools. Photoshop’s Generative Fill, Grand Designer, and Substance Designer are part of my workflow. Photoshop’s AI, for instance, is trained on licensed Adobe Stock content. These tools allow for faster iteration, mockups, or detailing, but the core work is mine. I want to be transparent here because of past allegations. Not so long ago, I did mess up, I used samples from another mod, which I shouldn't have. That was my mistake. But since then, I’ve worked hard to ensure that what I release is either fully original or uses tools within the scope of their licensing.
+>🤖 Yes, I use AI tools. Photoshop’s Generative Fill, Grand Designer, and Substance Designer are all part of my workflow. Photoshop’s AI, for instance, is trained on licensed Adobe Stock content. These tools help with faster iteration, mockups, or detailing — but the core work remains mine. I want to be transparent because of past allegations. Not so long ago, I did mess up — I used a sample from another mod, which I shouldn’t have. That was my mistake. But since then, I’ve worked hard to ensure that everything I release is either fully original or uses tools and resources within the scope of their licensing.
 
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
