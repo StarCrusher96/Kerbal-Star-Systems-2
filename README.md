@@ -60,12 +60,6 @@ It includes instructions for dependencies, system packs, and visuals.
 
 ### ✅ Supported Mods
 
-Here's the updated and reordered **✅ Supported Mods** list with the visual mods properly integrated under a dedicated visual section for clarity:
-
----
-
-### ✅ Supported Mods
-
 #### 🔧 Core Gameplay & Systems
 
 * [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609)
@@ -91,9 +85,7 @@ Here's the updated and reordered **✅ Supported Mods** list with the visual mod
 * [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) *(planet/moon glow effects)*
 * [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0) *(optional lighting overhaul)*
 
----
-
-### 🌍 Planet Pack Compatibility
+#### 🌍 Planet Pack Compatibility
 
 - [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8)  
 - [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)  
