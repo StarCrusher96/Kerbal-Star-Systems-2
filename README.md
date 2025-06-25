@@ -60,16 +60,38 @@ It includes instructions for dependencies, system packs, and visuals.
 
 ### ✅ Supported Mods
 
-- [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609)  
-- [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) (v2.1.3 or newer)  
-- [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)  
-- [Kerbal Health](https://forum.kerbalspaceprogram.com/topic/155313)  
-- [TiltEm Continued](https://spacedock.info/mod/3909/TiltEm%20Continued)  
-- [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)  
-- [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)  
-- [Blueshift](https://github.com/Angel-125/Blueshift) (enable anomalies in settings)  
-- [WildBlueTools](https://github.com/Angel-125/WildBlueTools)  
-- **Space Dust Next** (resource support included)
+Here's the updated and reordered **✅ Supported Mods** list with the visual mods properly integrated under a dedicated visual section for clarity:
+
+---
+
+### ✅ Supported Mods
+
+#### 🔧 Core Gameplay & Systems
+
+* [Sterling Systems](https://forum.kerbalspaceprogram.com/topic/219609)
+* [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator) *(v2.1.3 or newer)*
+* [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)
+* [Kerbal Health](https://forum.kerbalspaceprogram.com/topic/155313)
+* [TiltEm Continued](https://spacedock.info/mod/3909/TiltEm%20Continued)
+* [Community Resource Pack](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
+* [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)
+* [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies in settings)*
+* [WildBlueTools](https://github.com/Angel-125/WildBlueTools)
+* **Space Dust Next** *(resource support included)*
+
+#### 🎨 Visual Mods
+
+* [Volumetric EVE](https://www.patreon.com/c/blackrack/posts) *(volumetric clouds, auroras, geysers – paid mod)*
+* [Scatterer](https://github.com/LGhassen/Scatterer/releases) *(atmospheric scattering and oceans)*
+* [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases/tag/1.0.1) *(high-detail terrain, tessellation – strongly recommended)*
+* [Singularity](https://github.com/LGhassen/Singularity) *(black hole and wormhole visuals)*
+* [Firefly](https://spacedock.info/mod/3813/Firefly) *(re-entry effects)*
+* [INSTANTIATOR](https://github.com/TheWhiteGuardian/Unofficial_INSTANTIATOR) *(pulsar visuals)*
+* [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) *(long-range visibility – redundant with Scatterer)*
+* [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) *(planet/moon glow effects)*
+* [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0) *(optional lighting overhaul)*
+
+---
 
 ### 🌍 Planet Pack Compatibility
 
