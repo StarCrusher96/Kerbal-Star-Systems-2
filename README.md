@@ -182,9 +182,10 @@ Special thanks to:
 
 This means:
 
-✅ Personal use and sharing of the **unmodified** mod are allowed  
-❌ **Reuploading, redistribution, or mirroring** outside this GitHub repository is **not permitted**  
-❌ **No commercial use, no modifications, and no inclusion in modpacks or installers**
+✅ You can share and redistribute
+✅ You must give proper credit
+❌ You cannot modify or remix 
+❌ You cannot reuse assets without written permission
 
 🚫 Unauthorized redistribution may result in formal takedown requests through GitHub or other platforms.
 
