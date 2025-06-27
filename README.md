@@ -171,7 +171,7 @@ Special thanks to:
 This means:
 
 ✅ Personal use and sharing of the **unmodified** mod are allowed  
-❌ **Reuploading, redistribution, or mirroring** outside this GitHub repository is **not permitted**  (verified)
+❌ **Reuploading, redistribution, or mirroring** outside this GitHub repository is **not permitted**  
 ❌ **No commercial use, no modifications, and no inclusion in modpacks or installers**
 
 🚫 Unauthorized redistribution may result in formal takedown requests through GitHub or other platforms.
