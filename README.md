@@ -54,6 +54,11 @@ Planned and upcoming additions:
 📖 See the [Installation Guide](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/%F0%9F%9A%80-How-to-Install-Kerbal-Star-Systems-2) on the KSS2 Wiki.  
 It includes instructions for dependencies, system packs, and visuals.
 
+> 🛑 **Important:** KSS2 is not distributed via CKAN.  
+> Please do not redistribute or attempt to index this mod without permission. Manual installation ensures correct file handling and system compatibility.
+
+![No CKAN](https://img.shields.io/badge/CKAN-NOT%20SUPPORTED-red)
+
 ---
 
 ## 🔌 Compatibility
