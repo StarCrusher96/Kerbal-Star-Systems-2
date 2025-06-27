@@ -85,11 +85,23 @@ It includes instructions for dependencies, system packs, and visuals.
 * [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) *(planet/moon glow effects)*
 * [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0) *(optional lighting overhaul)*
 
+#### 📦 Bundled with KSS2
+
+These plugins and visual tools are **automatically included** in the download and do not require separate installation:
+
+* `SigmaBinary`
+* `SigmaHeatShifter`
+* `SigmaLoadingScreens`
+* `SigmaReplacementsSkyBox`
+* `MitchellNetravali`
+* `VertexColorMapEmissive`
+* `VertexHeightOblateAdvanced`
+
 #### 🌍 Planet Pack Compatibility
 
 - [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8)  
 - [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)  
-- [KSRSS](https://github.com/KSP-RO/KSRSS) (only works in scaled mode)  
+- [KSRSS](https://github.com/KSP-RO/KSRSS) *(only works in scaled mode)*  
 - [Outer Planets Mod (OPM)](https://github.com/Poodmund/Outer-Planets-Mod)
 
 ---
