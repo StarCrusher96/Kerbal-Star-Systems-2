@@ -13,9 +13,9 @@ KSS2 includes several fully custom star systems:
 
 - **Aethera**: A nearby M5.5 red dwarf, the closest to Kerbol  
 - **Alpha Centauri**: Complete system with planets around A, B, and Proxima  
-- **Kerr**: A black hole with strange and dangerous celestial bodies  
 - **Luhman 16**: Twin brown dwarfs with the fan-favorite planet *Tide*  
-- **Sirius**: Included in a supportive capacity. 
+- **Sirius**: Included in a supportive capacity.
+- **Kerr**: A black hole with strange and dangerous celestial bodies  
 - **Kerbol**: Minor improvements for compatibility and visuals
 
 ---
