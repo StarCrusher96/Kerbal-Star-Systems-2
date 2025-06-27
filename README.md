@@ -166,15 +166,16 @@ Special thanks to:
 
 ## 📜 License
 
-**Kerbal Star Systems 2** © 2025 by **StarCrusher96**  
-Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+**Kerbal Star Systems 2** is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This means:
-- ✅ You can share and redistribute
-- ✅ You must give proper credit 
-- ❌ No modifications or remix
-- ❌ No commercial use  
-- ❌ No asset reuse
+✅ Personal use and sharing of the **unmodified** mod are allowed  
+❌ **No redistribution, reuploading, or mirroring** is permitted outside the official GitHub repository  
+❌ **No commercial use, no modifications, and no bundling** in modpacks or installers  
+🔒 Unauthorized distribution is a license violation and may result in takedowns or revocation of access
+
+📦 **Official source:** [https://github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)  
+🛡️ **Legal code:** [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
