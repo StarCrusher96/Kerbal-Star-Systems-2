@@ -182,10 +182,10 @@ Special thanks to:
 
 This means:
 
-✅ You can share and redistribute
-✅ You must give proper credit
-❌ You cannot modify or remix 
-❌ You cannot reuse assets without written permission
+- ✅ **You may share and redistribute** the mod non-commercially
+- ✅ **You must give proper credit** to the original creator
+- ❌ **You may not modify, remix, or build upon** any part of the mod
+- ❌ **You may not reuse assets** (textures, models, configs) without written permission
 
 🚫 Unauthorized redistribution may result in formal takedown requests through GitHub or other platforms.
 
