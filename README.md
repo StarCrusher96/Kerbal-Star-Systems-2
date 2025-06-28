@@ -125,15 +125,17 @@ Mods not listed above are untested. Use at your own risk.
 
 ---
 
-## ⚠️ Known Issues
+## 🧪 Known Issues
 
-- **Legacy EVE is not supported.** Use **Volumetric EVE** instead  
-- **Maneuver Tool Bug**: Stock maneuver planner may break timewarp  
-  → Install [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)
+- ❌ **Legacy EVE is not supported**  
+- ⚠️ Green Flashes at Luhman 16 A & B – Caused by TUFX HDR. Disabling HDR in TUFX settings will fix it.
+- ⚠️ **Maneuver Tool Bug** – KSP 1.12’s stock maneuver planner may break timewarp
 
-  ![Fix Settings](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
+→ Use [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)
 
-- **Black Planet Bug**: Set *Texture Quality* to **Full** in KSP settings
+![screenshot](https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/Screenshots/settings.gif)
+
+- 🌑 **Dark Planet Bug** – Set *Texture Quality* to **Full** in KSP settings to avoid black planets
 
 ---
 
