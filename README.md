@@ -104,11 +104,11 @@ These plugins and visual tools are **automatically included** in the download an
 
 #### 🌍 Planet Pack Compatibility
 
-- [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8)  
 - [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)  
+- [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8) 
 - [KSRSS](https://github.com/KSP-RO/KSRSS) *(only works in scaled mode)*  
+- [Techo's (Stock) Planet Revamp](https://github.com/TechoTheSequel/Techos-stock-Planet-Revamp)
 - [Outer Planets Mod (OPM)](https://github.com/Poodmund/Outer-Planets-Mod)
-- [Techo's (Stock) Planet Revamp]()
 
 ---
 
