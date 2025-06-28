@@ -108,6 +108,7 @@ These plugins and visual tools are **automatically included** in the download an
 - [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)  
 - [KSRSS](https://github.com/KSP-RO/KSRSS) *(only works in scaled mode)*  
 - [Outer Planets Mod (OPM)](https://github.com/Poodmund/Outer-Planets-Mod)
+- [Techo's (Stock) Planet Revamp]()
 
 ---
 
