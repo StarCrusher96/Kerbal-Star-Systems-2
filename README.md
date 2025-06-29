@@ -3,7 +3,6 @@
 ![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total)
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=latest)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-green)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![CKAN](https://img.shields.io/badge/CKAN-not%20supported-red)
 [![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord)](https://discord.com/invite/8mKywDaujE)
 [![Support on Patreon](https://img.shields.io/badge/Patreon-support-orange)](https://www.patreon.com/c/StarCrusher96)
