@@ -1,11 +1,11 @@
 ![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 # 🌌 Kerbal Star Systems 2
 
+![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total)
+
 **Kerbal Star Systems 2** (KSS2) is a massive interstellar expansion for *Kerbal Space Program*, pushing exploration far beyond Kerbol with rich, *handcrafted* star systems, some grounded in real astronomy, others purely fantastical.
 
 As the spiritual successor to **KSS1** and **Galaxies Unbound**, KSS2 blends scientific plausibility with creative worldbuilding to deliver one of the most ambitious experiences ever made for KSP. It continues a journey that began in 2015, building on a legacy of past projects that have inspired a whole new generation of planet modders.
-
-![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total)
 
 ---
 
