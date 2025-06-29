@@ -84,6 +84,8 @@ It includes instructions for dependencies, system packs, and visuals.
 * [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies in settings)*
 * [WildBlueTools](https://github.com/Angel-125/WildBlueTools)
 * **Space Dust Next** *(resource support included)*
+* [Sigma Binary](https://github.com/Sigma88/Sigma-Binary) *(binary star and barycenter support)*
+* [Sigma HeatShifter](https://github.com/Sigma88/Sigma-HeatShifter) *(atmospheric heating behavior modifier)*
 
 #### 🎨 Visual Mods
 
@@ -96,18 +98,8 @@ It includes instructions for dependencies, system packs, and visuals.
 * [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) *(long-range visibility – redundant with Scatterer)*
 * [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) *(planet/moon glow effects)*
 * [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0) *(optional lighting overhaul)*
-
-#### 📦 Bundled with KSS2
-
-These plugins and visual tools are **automatically included** in the download and do not require separate installation:
-
-* `SigmaBinary`
-* `SigmaHeatShifter`
-* `SigmaLoadingScreens`
-* `SigmaReplacementsSkyBox`
-* `MitchellNetravali`
-* `VertexColorMapEmissive`
-* `VertexHeightOblateAdvanced`
+* [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens) *(custom loading screens)*
+* [Sigma Replacements – SkyBox](https://github.com/Sigma88/Sigma-Replacements) *(skybox customization and visual tweaks)*
 
 #### 🌍 Planet Pack Compatibility
 
