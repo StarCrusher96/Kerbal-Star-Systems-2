@@ -83,7 +83,7 @@ It includes instructions for dependencies, system packs, and visuals.
 * [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)
 * [Blueshift](https://github.com/Angel-125/Blueshift) *(enable anomalies in settings)*
 * [WildBlueTools](https://github.com/Angel-125/WildBlueTools)
-* **Space Dust Next** *(resource support included)*
+* [Space Dust Next](https://github.com/NerdyBoy709/SpaceDustNext) *(resource support included)*
 * [Sigma Binary](https://github.com/Sigma88/Sigma-Binary) *(binary star and barycenter support)*
 * [Sigma HeatShifter](https://github.com/Sigma88/Sigma-HeatShifter) *(atmospheric heating behavior modifier)*
 
