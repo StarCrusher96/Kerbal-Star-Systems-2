@@ -191,19 +191,17 @@ Special thanks to:
 
 ## 📜 License
 
-**Kerbal Star Systems 2** is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Kerbal Star Systems 2 is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This means:
 
-- ✅ **You may share and redistribute** the mod non-commercially
-- ✅ **You must give proper credit** to the original creator
-- ❌ **You may not modify, remix, or build upon** any part of the mod
-- ❌ **You may not reuse assets** (textures, models, configs) without written permission
+- ✅ You may share and redistribute the mod non-commercially  
+- ✅ You must give proper credit to the original creator  
+- ❌ You may not remix, modify, or build upon this work  
+- ❌ You may not reuse assets (textures, models, configs) without explicit permission  
 
-🚫 Unauthorized redistribution may result in formal takedown requests through GitHub or other platforms.
-
-📦 **Official source:** [https://github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)  
-🛡️ **Legal code:** [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+Official source: [https://github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)  
+Legal code: [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -211,15 +209,19 @@ This means:
 
 ## ⚖️ Clarification on Past Issues
 
-> ⚠️ Following the *public* concerns from *Mrpasta44*, the creator of [**Techo’s Stock Planet Revamp**](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), every planet texture in KSS2 has been carefully reviewed.
-> While the situation was escalated with hostility, I acknowledge the oversight and also recognize that I made mistakes in how I initially responded. I sincerely regret the confusion this caused. The issue has since been fully addressed and resolved.
-> In response, and as a way to reaffirm my dedication and capabilities as a planet modder, I chose to remake or redesign over 90% of all planets in KSS2. What followed was not just a fix, but a complete creative overhaul that strengthened the mod and its artistic identity.
+> ⚠️ Following public concerns from *Mrpasta44*, the creator of [Techo’s Stock Planet Revamp](https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v010/), all planet textures in KSS2 were carefully reviewed.  
+> I acknowledge that the situation escalated more than it should have. My initial response was not ideal. That was my mistake. The issue has been addressed and resolved.  
+> Over 90% of planet textures in KSS2 were remade or redesigned. This was not just a fix. It was a full creative overhaul and reaffirmation of the mod’s identity.
 
-> 🔹 Similarly, the use of a comet tail texture from Kcalbeloh System as a base for KSS2 was addressed immediately once brought to my attention, even though it continues to be mentioned. The assets were promptly replaced in full accordance with the original mod’s licensing.
+> 🔹 A comet tail texture originally based on a Kcalbeloh asset was also replaced immediately once identified. The replacement was fully in line with licensing.
 
->🤖 Yes, I use AI tools. Photoshop’s Generative Fill, Grand Designer, and Substance Designer are all part of my workflow. Photoshop’s AI, for instance, is trained on licensed Adobe Stock content. These tools help with faster iteration, mockups, or detailing, but the core work remains mine. I want to be transparent because of past allegations. Not so long ago, I did mess up, I used a sample from another mod, which I shouldn’t have. That was my mistake. But since then, I’ve worked hard to ensure that everything I release is either fully original or uses tools and resources within the scope of their licensing.
+> 🤖 **About AI Tools**: I use Photoshop Generative Fill, Grand Designer, and Substance Designer to speed up detailing and iteration. These tools help generate visual ideas, but the final assets are original or made with properly licensed resources.
+
+> Mistakes were made. I’ve been transparent and have worked hard to ensure that everything I release is fully original or used within the proper scope.
 
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
-> 🛠️ KSS2 is a passion-driven hobby project, built on over a decade of experience in the KSP modding community. I work on it in my free time after my day job, because I enjoy it. Mistakes can happen in any long-term creative effort. But what matters is how we handle them.
-> We welcome respectful feedback and are always open to addressing concerns privately or constructively. However, **public name-calling, witch-hunting, blackmail, or spreading false narratives is unproductive and childish**. But let’s not pretend we’re running a company here. This is a game, a community, and a shared passion. KSP should stay **fun**.
+> 🛠️ KSS2 is a hobby project, built on more than 10 years of KSP modding experience. I work on it in my free time, not for fame or drama, but because I enjoy it.  
+> Mistakes can happen in any long-term creative effort. What matters is how we respond to them. I welcome constructive feedback and remain open to resolving issues privately or respectfully.  
+> This is a game and a community. Let’s keep it fun.
+
