@@ -2,8 +2,11 @@
 # 🌌 Kerbal Star Systems 2 
 ![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total)
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=latest)
-![Stars](https://img.shields.io/github/stars/StarCrusher96/Kerbal-Star-Systems-2?style=social)
-![Issues](https://img.shields.io/github/issues/StarCrusher96/Kerbal-Star-Systems-2)
+![KSP Version](https://img.shields.io/badge/KSP-1.12.x-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![CKAN](https://img.shields.io/badge/CKAN-not%20supported-red)
+[![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord)](https://discord.com/invite/8mKywDaujE)
+[![Support on Patreon](https://img.shields.io/badge/Patreon-support-orange)](https://www.patreon.com/c/StarCrusher96)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Kerbal Star Systems 2** (KSS2) is a massive interstellar expansion for *Kerbal Space Program*, pushing exploration far beyond Kerbol with rich, *handcrafted* star systems, some grounded in real astronomy, others purely fantastical.
