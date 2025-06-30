@@ -99,7 +99,7 @@ It includes instructions for dependencies, system packs, and visuals.
 * [PlanetShine](https://forum.kerbalspaceprogram.com/topic/173138) *(planet/moon glow effects)*
 * [Deferred Rendering](https://github.com/LGhassen/Deferred/releases/tag/1.2.6.0) *(optional lighting overhaul)*
 * [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens) *(custom loading screens)*
-* [Sigma Replacements – SkyBox](https://github.com/Sigma88/Sigma-Replacements) *(skybox customization and visual tweaks)*
+* [Sigma Replacements – SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) *(skybox customization)*
 
 #### 🌍 Planet Pack Compatibility
 
