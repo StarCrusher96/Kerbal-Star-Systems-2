@@ -217,23 +217,29 @@ In response, I went above and beyond what was necessary: over 90% of KSS2’s te
 
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
-> 🛠️ KSS2 is a passion project. I’ve been part of this community for over 10 years, building things I’m proud to share with others. I don’t do it for fame, or attention, or conflict. I do it because I genuinely enjoy creating something ambitious for players to explore.
-Of course, no long-term project is perfect. But when concerns came up, I did what anyone reasonable would do: I reached out, explained, listened, and improved things.
-I’ve personally messaged every creator whose content may have been affected. I took the time to correct mistakes, open dialogue, and act respectfully.
-Meanwhile, many of the people behind the accusations never replied. They ignored my messages, refused to talk, and chose to stir up hate instead.
-
-> The core devs behind KSS2 are adults with day jobs. We’re not hyper-online or monitoring every conversation. Our interaction with the community has naturally decreased over time. But even after all these years, we still genuinely enjoy working on this mod, just like we did 10 years ago. That hasn’t changed.
-
-> Sadly, this mod has been the target of behavior no hobby project deserves: death threats, smear attempts, hate servers, and harassment directed at people who simply use or share it.
-That kind of behavior speaks for itself. It’s easy to pick on KSS2, but there are plenty of other 'famous' mods with similar or worse issues that never get the same level of scrutiny.
-
-> Claims that KSS2 “only exists because of stolen work” are false. Anyone who plays the mod or looks at the scale of what’s been built can see the care and originality behind it.
-And yes, reuploads of my past content were taken down legally, based on copyright violations and license breaches. These were not retaliatory actions, they followed proper frameworks.
-
-> I’m open to feedback. I always have been. But I won’t take part in drama. I won’t reward bad-faith attacks.
-This is supposed to be fun. This is supposed to be a community that builds cool stuff together.
-
-> Let’s remember this is a silly space game launching frogs into the abyss, not a company.
-
-> — StarCrusher96
+> 🛠️ **KSS2 is a passion project.** I’ve been part of this community for over 10 years, building things I’m proud to share with others. I don’t do it for fame, attention, or conflict. I do it because I genuinely enjoy creating something ambitious for players to explore.  
+>  
+> Of course, no long-term project is perfect. But when concerns have come up, I’ve done what any reasonable person would: I reached out, explained, listened, and made improvements. I personally contacted every creator whose content might have been affected. I took the time to correct mistakes, open dialogue, and act respectfully.  
+>  
+> Meanwhile, many of the people behind the accusations never replied. They ignored my messages, refused to talk, and instead chose to stir up hate.  
+>  
+> The core devs behind KSS2 are adults with day jobs. We’re not hyper-online, and we’re not monitoring every single conversation. Our interaction with the community has naturally decreased over time. But even after all these years, we still genuinely enjoy working on this mod, just like we did a decade ago. That hasn’t changed.  
+>  
+> Sadly, this project has become the target of behavior no hobby mod deserves: death threats, smear attempts, hate servers, and harassment of people who simply post about using it. That kind of behavior speaks for itself.  
+>  
+> It’s easy to pick on KSS2, but there are plenty of other "famous" mods with similar or worse issues that never face the same level of scrutiny.  
+>  
+> The claim that KSS2 “only exists because of stolen work” is simply false. Anyone who actually plays the mod, or even just looks at its scale and scope, can see the care, creativity, and originality behind it.  
+>  
+> And if you don’t like the style, or think the ideas are bland or uninspired, then by all means, **make your own mod and do better**. That’s how the best things in this community are made.  
+>  
+> As for the reuploads of my older content: yes, they were taken down ! *legally* ! due to clear license/copyright violations. These weren’t acts of retaliation. They were standard copyright actions, taken through the proper frameworks.  
+>  
+> I’m open to feedback. I always have been. But I won’t take part in drama. I won’t reward bad-faith attacks.  
+>  
+> This is supposed to be fun. This is supposed to be a community where we build cool things together.  
+>  
+> **Let’s remember this is a silly space game about launching frogs into the abyss, not a company.**  
+>  
+> *— StarCrusher96*
 
