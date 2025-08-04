@@ -103,7 +103,8 @@ It includes instructions for dependencies, system packs, and visuals.
 
 #### 🌍 Planet Pack Compatibility
 
-- [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)  
+- [Celestial Harmony](https://github.com/ProximaCentauri-star/Celestial-Harmony)
+- [Cosmic Serenity](https://github.com/ProximaCentauri-star/Cosmic-Serenity/releases)  
 - [Kcalbeloh System](https://github.com/jcyuan06/Kcalbeloh-System/releases/tag/v1.1.8) 
 - [KSRSS](https://github.com/KSP-RO/KSRSS) *(only works in scaled mode)*  
 - [Techo's (Stock) Planet Revamp](https://github.com/TechoTheSequel/Techos-stock-Planet-Revamp)
