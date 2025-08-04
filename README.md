@@ -213,9 +213,9 @@ In response, I went above and beyond what was necessary: over 90% of KSS2’s te
 
 > 🤖 **About AI Tools**: I use Photoshop Generative Fill, Grand Designer, and Substance Designer to speed up detailing and iteration. These tools help generate visual ideas, but the final assets are original or made with properly licensed resources.
 
-## 🤝 A Note from the Creator👑
-
 KSS2 remains committed to transparency, originality, and respect for other creators’ work.
+
+## 🤝 A Note from the Creator👑
 
 > 🛠️ **KSS2 is a passion project.** I’ve been part of this community for over 10 years, building things I’m proud to share with others. I don’t do it for fame, attention, or conflict. I do it because I genuinely enjoy creating something ambitious for players to explore.  
 >  
