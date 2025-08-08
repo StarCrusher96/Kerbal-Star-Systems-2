@@ -204,42 +204,116 @@ Legal code: [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by
 
 ## ⚖️ Clarification on Past Issues
 
-> ⚠️ After public concerns were raised by Mrpasta44, the creator of Techo’s Stock Planet Revamp, all planet textures in KSS2 were carefully reviewed.
-The accusation that KSS2 "stole" textures is misleading. In a few early cases, small, layered snippets from Techo’s assets were unintentionally used. These were quickly removed or remade once I became aware, even though I was never contacted directly.
-Unfortunately, things escalated into drama before any real conversation could happen. I acknowledge that my first public response could have been better, and I’ve taken that to heart.
-In response, I went above and beyond what was necessary: over 90% of KSS2’s textures were remade or redesigned from scratch. Not just to fix things, but to strengthen the mod's creative identity and quality.
+<details>
+<summary> ➜  Click to read: Texture Review & Asset Clarification</summary>
+
+<br>
+
+> ⚠️ After public concerns were raised by Mrpasta44, the creator of Techo’s Stock Planet Revamp, all planet textures in KSS2 were carefully reviewed.  
+> The accusation that KSS2 "stole" textures is misleading. In a few early cases, small, layered snippets from Techo’s assets were unintentionally used. These were quickly removed or remade once I became aware, even though I was never contacted directly.  
+>  
+> Unfortunately, things escalated into drama before any real conversation could happen. I acknowledge that my first public response could have been better, and I’ve taken that to heart.  
+>  
+> In response, I went above and beyond what was necessary: over 90% of KSS2’s textures were remade or redesigned from scratch. Not just to fix things, but to strengthen the mod's creative identity and quality.
 
 > 🔹 A comet tail texture originally based on a Kcalbeloh asset was also replaced immediately once identified. The replacement was fully in line with licensing.
 
-> 🤖 **About AI Tools**: I use Photoshop Generative Fill, Grand Designer, and Substance Designer to speed up detailing and iteration. These tools help generate visual ideas, but the final assets are original or made with properly licensed resources.
+> 🤖 **About AI Tools**: I use Photoshop Generative Fill, Grand Designer, and Substance Designer to speed up detailing and iteration.  
+> These tools help generate visual ideas, but the final assets are original or made with properly licensed resources.
 
-KSS2 remains committed to transparency, originality, and respect for other creators’ work.
+> KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
-## 🤝 A Note from the Creator👑
+</details>
 
-> 🛠️ **KSS2 is a passion project.** I’ve been part of this community for over 10 years, building things I’m proud to share with others. I don’t do it for fame, attention, or conflict. I do it because I genuinely enjoy creating something ambitious for players to explore.  
->  
-> Of course, no long-term project is perfect. But when concerns have come up, I’ve done what any reasonable person would: I reached out, explained, listened, and made improvements. I personally contacted every creator whose content might have been affected. I took the time to correct mistakes, open dialogue, and act respectfully.  
->  
-> Meanwhile, many of the people behind the accusations never replied. They ignored my messages, refused to talk, and instead chose to stir up hate.  
->  
-> The core devs behind KSS2 are adults with day jobs. We’re not hyper-online, and we’re not monitoring every single conversation. Our interaction with the community has naturally decreased over time. But even after all these years, we still genuinely enjoy working on this mod, just like we did a decade ago. That hasn’t changed.  
->  
-> Sadly, this project has become the target of behavior no hobby mod deserves: death threats, smear attempts, hate servers, and harassment of people who simply post about using it. That kind of behavior speaks for itself.  
->  
-> It’s easy to pick on KSS2, but there are plenty of other "famous" mods with similar or worse issues that never face the same level of scrutiny.  
->  
-> The claim that KSS2 “only exists because of stolen work” is simply false. Anyone who actually plays the mod, or even just looks at its scale and scope, can see the care, creativity, and originality behind it.  
->  
-> And if you don’t like the style, or think the ideas are bland or uninspired, then by all means, **make your own mod and do better**. That’s how the best things in this community are made.  
->  
-> As for the reuploads of my older content: yes, they were taken down ! *legally* ! due to clear license/copyright violations. These weren’t acts of retaliation. They were standard copyright actions, taken through the proper frameworks.  
->  
-> I’m open to feedback. I always have been. But I won’t take part in drama. I won’t reward bad-faith attacks.  
->  
-> This is supposed to be fun. This is supposed to be a community where we build cool things together.  
->  
-> **Let’s remember this is a silly space game about launching frogs into the abyss, not a company.**  
->  
-> *— StarCrusher96*
+## 🤝 A Note from the Creator 👑
 
+<details>
+<summary> ➜ Click to read my full statement</summary>
+
+<br>
+
+👋 Hi there, and thanks for reading.  
+Whether you’re a long-time player, a newcomer curious about KSS2, or just passing by, I appreciate you taking the time to hear my side of the story.
+
+> 🛠️ **KSS2 is a passion project.**  
+> I’ve been part of this community for over 10 years, building things I’m proud to share with others.  
+> I don’t do it for fame, attention, or conflict. I do it because I genuinely enjoy creating something ambitious for players to explore.  
+>  
+> Along the way, I’ve also contributed to, tested, and supported some of the more well-known standard mods that many players still use today.  
+> I’ve been around for a long time, and while I don’t enjoy the drama that sometimes comes with modding, I still care deeply about the creative side of this community.  
+>  
+> I’ll be the first to admit I haven’t always reacted the right way. Like anyone, I’ve made mistakes — especially when things got heated.  
+> But my intentions have always been honest. I want to build something meaningful, learn from the past, and grow as a creator.  
+>  
+> There are three incidents that often get brought up. I want to address them openly:  
+>  
+> • **First, about 8 years ago**, I used some assets without fully understanding how licenses worked.  
+>   I didn’t know better at the time, and I’ve made sure to educate myself since.  
+>  
+> • **Second, the Blalo texture case.**  
+>   I used a texture I had permission to include. Later, the creator revoked that permission because they were going to publish it in a book.  
+>   I respected that decision and removed it, but the situation was twisted into a claim that I had stolen the asset.  
+>  
+> • **Third, the "Techo" issue.**  
+>   A few minor texture snippets ended up sampled into KSS2.  
+>   This was never about stealing an entire mod, and that was never my intention.  
+>   What made it worse was how it unfolded: a public Reddit call-out without anyone ever contacting me first.  
+>   No message, no discussion — just immediate outrage.  
+>  
+> I’m not someone who enjoys drama. I believe problems are best solved privately and respectfully.  
+> I understand that public call-outs have become more common in recent years, especially with younger creators, but that’s not how I operate.  
+>  
+> In fact, I’ve contacted other modders privately in the past when I noticed clear violations or issues.  
+> I didn’t post about it or try to ruin anyone’s reputation. I simply reached out and had a conversation.  
+> That’s how I believe conflicts should be handled.  
+>  
+> Of course, no long-term project is perfect.  
+> But when concerns have come up, I’ve done what I think any reasonable person would do.  
+> I explained, listened, corrected things, and personally contacted everyone whose work might have been involved.  
+>  
+> Unfortunately, many of the people behind the accusations never replied.  
+> They ignored my messages and chose instead to stir up hate and misinformation.  
+>  
+> The core KSS2 team consists of adults with full-time jobs.  
+> We’re not constantly online and we don’t follow every thread.  
+> Naturally, our public interaction has decreased over time.  
+> But our passion for this mod has not.  
+> Even after all these years, we still genuinely enjoy working on it.  
+>  
+> Sadly, the project has also become the target of things no hobby modder should have to deal with.  
+> I’m talking about death threats, coordinated smear campaigns, hate servers, and even harassment of players who simply mention using the mod.  
+> That kind of behavior speaks for itself.  
+>  
+> It’s easy to pick on KSS2, but plenty of other large mods have had similar or worse issues without facing this level of scrutiny.  
+>  
+> The claim that KSS2 "only exists because of stolen work" is simply not true.  
+> Anyone who has actually played the mod or looked at its scope can see the creativity and care that went into it.  
+>  
+> And if you don’t like the style or think the ideas are uninspired, that’s fine.  
+> Make your own mod. Do better.  
+> That’s how some of the best things in this community have come to life.  
+>  
+> As for the reuploads of my older content, yes, I had them taken down *legally* because they violated clear license terms.  
+> That wasn’t revenge. That was simply copyright being enforced the right way.  
+>  
+> I’m always open to feedback.  
+> I’ve never shut the door on good-faith discussion.  
+> But I won’t engage with drama or reward bad-faith attacks.  
+>  
+> Despite everything, I still believe in this community.  
+> I’ve seen its creativity, its passion, and the way strange little ideas can evolve into something unforgettable.  
+> That’s why I’m still here.  
+>  
+> I’m not the same modder I was a decade ago, and KSS2 isn’t the same mod either.  
+> We’ve both grown a lot.  
+>  
+> If you’re curious, try the mod.  
+> If you have ideas, share them.  
+> If you’ve got feedback, message me.  
+> Let’s build something awesome, together.  
+>  
+> **And let’s remember, this is a silly space game about launching frogs into the abyss, not a company.**  
+>  
+> *- StarCrusher96*
+
+</details>
