@@ -1,4 +1,3 @@
-![FLareUp](https://github.com/user-attachments/assets/48301b82-9fd8-4c3c-8bf2-222043d4bf05)![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 # 🌌 Kerbal Star Systems 2 
 ![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total)
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=latest)
