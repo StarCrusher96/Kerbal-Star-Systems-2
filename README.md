@@ -17,7 +17,7 @@ As the spiritual successor to **KSS1** and **Galaxies Unbound**, KSS2 blends sci
 ## ✨ Quick Info
 - 📦 Download latest release: [GitHub Releases](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)  
 - 📖 Install guide: [Wiki](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/%F0%9F%9A%80-How-to-Install-Kerbal-Star-Systems-2)  
-- ❌ Not on CKAN — manual install required  
+- ❌ Not on CKAN - manual install required!
 
 
 ## 🪐 Included
