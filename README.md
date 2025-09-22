@@ -212,7 +212,7 @@ Legal code: [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by
 > ⚠️ After public concerns were raised by Mrpasta44 (creator of Techo’s Stock Planet Revamp), all planet textures in KSS2 were carefully reviewed.
 The accusation that KSS2 "stole" textures is misleading. In a few very early cases, small, layered snippets from Techo’s assets were unintentionally used. These were quickly removed or remade once I became aware. This was not some “cover-up,” but simply fixing things the moment I learned of them.
 >  
-> Unfortunately, instead of reaching out for dialogue, the situation was turned into public drama. I did attempt to contact the creator directly at the time, but no response was ever given (he now claims he does not check his DMs). I acknowledge my first public reply could have been better, but I also acted immediately: over 90% of KSS2’s textures were remade or redesigned from scratch, far beyond what was required. This not only resolved the matter, but made the project stronger.
+> Unfortunately, instead of reaching out for dialogue, the situation was turned into public drama. I did attempt to contact the creator directly at the time, but no response other than the Reddit post we all know. I acknowledge my first public reply could have been better, but I also acted immediately: over 90% of KSS2’s textures were remade or redesigned from scratch, far beyond what was required. This not only resolved the matter, but made the project stronger.
 >  
 > Despite that, the same accusations are being repeated months later. At this point, the actual issue has long been resolved. What remains is someone intentionally keeping the conflict alive, and that speaks for itself.
 
