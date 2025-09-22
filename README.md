@@ -74,7 +74,7 @@ From enduring the violent flares of red dwarfs, to exploring lush habitable moon
 - 🎯 Career integration: contracts, anomalies, and late-game missions  
 - 🌌 Visual immersion: volumetric clouds, wormholes, pulsars, terrain shaders, and more  
 
-![Kerr](https://github.com/user-attachments/assets/4eb1da6c-3320-4e36-92e8-54d95aed783e)
+<img src="https://github.com/user-attachments/assets/4eb1da6c-3320-4e36-92e8-54d95aed783e" width="1920" height="1080" />
 
 *View of Kerr as seen from the surface of Grav, rendered with Scatterer and EVE Volumetrics*
 
@@ -115,6 +115,8 @@ From enduring the violent flares of red dwarfs, to exploring lush habitable moon
 |                  | [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod)                          | ✅      | Compatible                          |
 
 🚫 Not Compatible: Principia, Galaxies Unbound, older KSS2 versions, full-replacement KSRSS, Parallax 1/2, Komplexity |
+
+<img width="1920" height="1080" alt="Kaithsurf" src="https://github.com/user-attachments/assets/3d8c3c30-43e2-49c9-8eca-811d7dedfea9" />
 
 ---
 
@@ -160,7 +162,8 @@ Legal code: [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-![Kereksus](https://github.com/user-attachments/assets/6e69161c-1c19-49bd-a3fe-7388c61c5ce6)
+<img width="1920" height="1080" alt="Pandor surface" src="https://github.com/user-attachments/assets/d1631b48-72d2-40b7-9694-5e3b8058d6be" />
+
 
 ---
 
