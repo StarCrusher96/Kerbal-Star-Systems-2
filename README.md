@@ -113,6 +113,7 @@ From enduring the violent flares of red dwarfs, to exploring lush habitable moon
 |                  | [Techo's Stock Planet Revamp](https://github.com/TechoTheSequel/Techos-stock-Planet-Revamp) | ✅      | Compatible                          |
 |                  | [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod)                          | ✅      | Compatible                          |
 |                  | [Promised Worlds](https://github.com/PromisedWorlds/PromisedWorlds)                         | ✅      | Compatible                          |
+|                  | [Sol/RSS](https://github.com/KSP-RO/RealSolarSystem)                         | ✅      | Compatible                          |
 
 🚫 Not Compatible: Principia, Galaxies Unbound, older KSS2 versions, full-replacement KSRSS, Parallax 1/2, Komplexity |
 
