@@ -13,7 +13,7 @@
 
 **Kerbal Star Systems 2** (KSS2) takes *Kerbal Space Program* beyond the edge of Kerbol into a galaxy of handcrafted star systems, each with its own story, dangers, and discoveries.  
 
-As the spiritual successor to **KSS1** and **Galaxies Unbound**, it builds on a decade-long legacy of pushing KSP further than ever imagined. But KSS2 is more than just a planet pack, it’s designed for **late-game progression**: interstellar travel, long-term missions, and unique challenges that test both engineering and imagination.  
+As the spiritual successor to **KSS1** and **Galaxies Unbound**, it builds on a decade-long legacy of pushing KSP further than ever imagined. But KSS2 is more than just a planet pack, it’s designed for **mid- to late-game progression**: interstellar travel, long-term missions, and unique challenges that test both engineering and imagination.  
 
 From enduring the violent flares of red dwarfs, to exploring lush habitable moons, and confronting the extremes around black holes, KSS2 offers new goals, new frontiers, and new reasons to keep playing long after stock KSP is complete.
 
