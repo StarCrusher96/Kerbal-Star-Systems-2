@@ -94,7 +94,7 @@ From enduring the violent flares of red dwarfs, to exploring lush habitable moon
 | Category         | Mod                                                                                         | Status | Notes                               |
 | ---------------- | ------------------------------------------------------------------------------------------- | ------ | ----------------------------------- |
 | **Core**         | [Contract Configurator](https://github.com/KSP-RO/ContractConfigurator)                     | ✅      | v2.1.3+ required                    |
-|                  | [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)                              | ✅      | Full support                        |
+|                  | [Kerbalism](https://forum.kerbalspaceprogram.com/topic/190382)                              | ✅      | Radiation support                   |
 |                  | [Kerbal Health](https://forum.kerbalspaceprogram.com/topic/155313)                          | ✅      | Compatible                          |
 |                  | [Rational Resources](https://forum.kerbalspaceprogram.com/topic/184875)                     | ✅      | Config support included             |
 |                  | [Sigma Binary](https://github.com/Sigma88/Sigma-Binary)                                     | ✅      | Barycenter support                  |
