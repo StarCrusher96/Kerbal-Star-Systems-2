@@ -181,7 +181,11 @@ A few very early snippets of his assets were unintentionally used. These were re
 >Addendum:
 Per persistent request by Mrpasta44, we apologize publicly for any inconvenience. I never intended for this to happen, and I acted immediately to correct it once I became aware. However, given the severity of the threats we received and how we were treated, I believe we (me and the KSS2 team) have already done more than enough to fix things. If cooperation and dialogue had been chosen from the start, this entire situation could have been resolved quickly and respectfully. This will be our final word on the matter.
 
->🤖 About AI Tools: Photoshop Generative Fill, Grand Designer, and Substance Designer are used for detailing and iteration. Final assets are original or licensed.
+> 🤖 **About Tools & Workflow**:  
+> Software like Photoshop Generative Fill, Grand Designer, and Substance Designer are used to speed up iteration and detailing.  
+> These are **support tools only**, all final assets are hand-crafted, remade from scratch, or created with properly licensed resources.  
+> Nothing in KSS2 is “AI-dumped” or unlicensed; everything is original work or explicitly permitted.
+
 
 >KSS2 remains committed to transparency, originality, and respect for other creators’ work.
 
