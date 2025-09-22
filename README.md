@@ -142,7 +142,7 @@ Some common issues and their solutions:
 - This mod remains free, support via Patreon is optional: [Patreon](https://www.patreon.com/c/StarCrusher96)  
 
 Special thanks to:  
-TheSpacePotato, OoglakKerman, JadeOfMaar, Spaceman, Caden, Chaotic Protocol, CiaraRayneCloud, testers & players  
+TheSpacePotato, OoglakKerman, JadeOfMaar, Spaceman, Caden, Chaotic Protocol, CiaraRayneCloud, Bogue, testers & players  
 
 ---
 
