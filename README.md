@@ -179,7 +179,7 @@ A few very early snippets of his assets were unintentionally used. These were re
 >Despite this, accusations are being repeated months later. The issue has long been resolved. What remains is people intentionally keeping the conflict alive, that speaks for itself.
 
 >Addendum:
-Per persistent request by Mrpasta44, we apologize publicly for any inconvenience. I never intended for this to happen, and I acted immediately to correct it once I became aware. However, given the severity of the threats we received and how we were treated, I believe we (me and the KSS2 team) have already done more than enough to fix things. If cooperation and dialogue had been chosen from the start, this entire situation could have been resolved quickly and respectfully. This will be our final word on the matter.
+Per persistent request by Mrpasta44, we apologize publicly for any inconvenience. I never intended for this to happen, and I acted immediately to correct it once I became aware. However, given the severity of the threats we received and how we were treated, I believe we (me and the KSS2 team) have already done more than enough to fix things. If true cooperation and dialogue had been chosen from the start, this entire situation could have been resolved quickly and respectfully. This will be our final word on the matter.
 
 > 🤖 **About Tools & Workflow**:  
 > Software like Photoshop Generative Fill, Grand Designer, and Substance Designer are used to speed up iteration and detailing.  
