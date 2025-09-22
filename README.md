@@ -1,13 +1,12 @@
 ![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 # 🌌 Kerbal Star Systems 2 
-![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total)
-![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=latest)
-![KSP Version](https://img.shields.io/badge/KSP-1.12.x-green)
-![CKAN](https://img.shields.io/badge/CKAN-not%20supported-red)
-[![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord)](https://discord.com/invite/8mKywDaujE)
-[![Support on Patreon](https://img.shields.io/badge/Patreon-support-orange)](https://www.patreon.com/c/StarCrusher96)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
+![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?format=raw&label=Downloads&logo=github&color=blue&style=for-the-badge)
+![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest&style=for-the-badge&color=brightgreen)
+![KSP Version](https://img.shields.io/badge/KSP-1.12.x-green?style=for-the-badge)
+![CKAN](https://img.shields.io/badge/CKAN-Not%20Supported-red?style=for-the-badge)
+[![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/8mKywDaujE)
+[![Support on Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/StarCrusher96)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## ✨ What is KSS2?
 
