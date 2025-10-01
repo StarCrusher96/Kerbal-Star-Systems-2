@@ -1,6 +1,6 @@
 ![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 # 🌌 Kerbal Star Systems 2 
-![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?format=raw&label=Downloads&logo=github&color=blue&style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?label=Downloads&logo=github&color=blue&style=for-the-badge)
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest&style=for-the-badge&color=brightgreen)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-green?style=for-the-badge)
 ![CKAN](https://img.shields.io/badge/CKAN-Not%20Supported-red?style=for-the-badge)
