@@ -172,15 +172,19 @@ Legal code: [CC BY-NC-ND 4.0 Legal Text](https://creativecommons.org/licenses/by
 
 <details> <summary> ➜ Click to read: Texture Review & Asset Clarification</summary> <br>
 
->⚠️ After public concerns via Reddit were raised by Mrpasta44 (creator of Techo’s Stock Planet Revamp), all planet textures in KSS2 were carefully reviewed.
-A few very early snippets of his assets were unintentionally used. These were removed or remade immediately once identified. This was not a “cover-up”, it was resolution.
+>⚠️ After public concerns via Reddit were raised by Mrpasta44 (creator of Techo’s Stock Planet Revamp), all planet textures in KSS2 were thoroughly reviewed.
+A few very early snippets of his assets had been unintentionally used during testing and got into the mod. These were immediately removed or remade once identified.
+This was not a “cover-up”, it was a responsible correction.
 >
->I attempted direct contact at the time, but received no reply. My first public response could have been better, but I acted immediately: over 90% of KSS2’s textures were remade from scratch, far beyond what was required.
+>I reached out privately at the time in good faith, but received no reply. While my first public response could have been phrased better, my actions were immediate and transparent: over 90% of KSS2’s textures were remade from scratch, far beyond what was required.
 >
->Despite this, accusations are being repeated months later. The issue has long been resolved. What remains is people intentionally keeping the conflict alive, that speaks for itself.
+>Despite that, the same accusations continue to resurface months later. The matter was resolved long ago. Continuing to repeat it publicly does not change the facts, it only keeps unnecessary conflict alive.
 
 >Addendum:
-Per persistent request by Mrpasta44, I apologize publicly again for any inconvenience. I never intended for this to happen, and I acted immediately to correct it once I became aware. However, given the severity of the threats we received and how we were treated, I believe we (me and the KSS2 team) have already done more than enough to fix things. If true cooperation and dialogue had been chosen from the start, this entire situation could have been resolved quickly and respectfully. This will be our final word on the matter.
+At the request of Mrpasta44, I again express regret for any inconvenience caused. It was never intentional, and I took full responsibility the moment I became aware.
+However, given the scale of the threats and hostility my team received afterward, I believe we have already done more than enough to address the issue.
+If genuine dialogue had been possible from the start, this could have been resolved quietly and respectfully, which was always my intention.
+This will therefore be our final word on the matter.
 
 > 🤖 **About Tools & Workflow**:  
 > Software like Photoshop Generative Fill, Grand Designer, and Substance Designer are used to speed up iteration and detailing.  
