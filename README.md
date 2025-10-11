@@ -184,6 +184,8 @@ This was not a “cover-up”, it was a responsible correction.
 At the request of Mrpasta44, I again express regret for any inconvenience caused. It was never intentional, and I took full responsibility the moment I became aware.
 However, given the scale of the threats and hostility my team received afterward, I believe we have already done more than enough to address the issue.
 If genuine dialogue had been possible from the start, this could have been resolved quietly and respectfully, which was always my intention.
+Matters like these are best handled through direct communication, not through Reddit threads or public speculation.
+We believe that strength lies in dialogue and resolution, not in public attacks.
 This will therefore be our final word on the matter.
 
 > 🤖 **About Tools & Workflow**:  
