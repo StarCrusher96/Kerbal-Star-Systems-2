@@ -10,11 +10,16 @@
 
 ## ✨ What is KSS2?
 
-**Kerbal Star Systems 2** (KSS2) takes *Kerbal Space Program* beyond the edge of Kerbol into a galaxy of handcrafted star systems, each with its own story, dangers, and discoveries.  
+**Kerbal Star Systems 2 (KSS2)** is an evolving interstellar journey beyond Kerbol. It is a world-class mod that brings *Kerbal Space Program* into the realm of true cosmic exploration.  
 
-As the spiritual successor to **KSS1** and **Galaxies Unbound**, it builds on a decade-long legacy of pushing KSP further than ever imagined. But KSS2 is more than just a planet pack, it’s designed for **mid- to late-game progression**: interstellar travel, long-term missions, and unique challenges that test both engineering and imagination.  
+Begin your adventure across a handful of **handcrafted star systems**, each built with scientific depth, visual artistry, and unique environmental challenges. More systems will arrive over time, each designed with the same care and focus on **quality, realism, and immersion** that define the KSS legacy.  
 
-From enduring the violent flares of red dwarfs, to exploring lush habitable moons, and confronting the extremes around black holes, KSS2 offers new goals, new frontiers, and new reasons to keep playing long after stock KSP is complete.
+Developed by **StarCrusher96**, KSS2 builds on more than a decade of interstellar modding experience and community passion. It is crafted for **mid- to late-game progression**, encouraging ambitious missions, long-term exploration, and new frontiers beyond the Kerbol system.  
+
+While other projects continue to emerge, **KSS2 sets the benchmark** for immersive world design, cohesive artistic vision, and scientific authenticity. It is the result of ten years of refinement, creativity, and dedication.  
+
+> ✹ *KSS2: Explore the Infinite Beyond*  
+> *A living interstellar project built with care and imagination.*
 
 ### 🎯 Why Play KSS2?
 
