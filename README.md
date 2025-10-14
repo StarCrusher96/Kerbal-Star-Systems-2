@@ -36,7 +36,7 @@
 1. Get the latest release: **[GitHub Releases](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases)**
 2. Follow the **[Installation Guide](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2)**
 3. Install all required dependencies
-4. ⚠️ **Manual install only** — CKAN is not supported
+4. ⚠️ **Manual install only** - CKAN is not supported !
 
 ---
 
