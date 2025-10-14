@@ -10,16 +10,16 @@
 
 ## ✨ What is KSS2?
 
-**Kerbal Star Systems 2 (KSS2)** is an evolving interstellar journey beyond Kerbol. It is a world-class mod that brings *Kerbal Space Program* into the realm of true cosmic exploration.  
+Kerbal Star Systems 2 (KSS2) expands Kerbal Space Program into a vast, handcrafted universe beyond Kerbol. Designed for explorers and builders alike, it transforms the familiar solar neighborhood into a living interstellar frontier.
 
-Begin your adventure across a handful of **handcrafted star systems**, each built with scientific depth, visual artistry, and unique environmental challenges. More systems will arrive over time, each designed with the same care and focus on **quality, realism, and immersion** that define the KSS legacy.  
+Each star system in KSS2 is crafted with scientific realism, artistic coherence, and distinct gameplay identity, from volcanic infernos and frozen wastelands to lush worlds where life endures in unlikely places. More systems will be added over time, continuing the tradition of quality and attention to detail that define the KSS legacy.
 
-Developed by **StarCrusher96**, KSS2 builds on more than a decade of interstellar modding experience and community passion. It is crafted for **mid- to late-game progression**, encouraging ambitious missions, long-term exploration, and new frontiers beyond the Kerbol system.  
+Created and maintained by StarCrusher96, KSS2 builds on over a decade of interstellar modding and community collaboration. It’s designed for mid- to late-game progression, rewarding deep space missions, colonization, and the pursuit of discovery.
 
-While other projects continue to emerge, **KSS2 sets the benchmark** for immersive world design, cohesive artistic vision, and scientific authenticity. It is the result of ten years of refinement, creativity, and dedication.  
+KSS2 stands as a benchmark in interstellar world-building, uniting realism, imagination, and craftsmanship to deliver one of the most ambitious experiences ever brought to Kerbal Space Program.
 
 > ✹ *KSS2: Explore the Infinite Beyond*  
-> *A living interstellar project built with care and imagination.*
+> *A living interstellar project shaped by curiosity, science, and art.*
 
 ### 🎯 Why Play KSS2?
 
