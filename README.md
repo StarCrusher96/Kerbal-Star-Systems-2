@@ -154,4 +154,4 @@ Official source: https://github.com/StarCrusher96/Kerbal-Star-Systems-2
 ## 🔎 Transparency & Asset Policy
 KSS2 prioritizes originality, proper licensing, and respectful collaboration. Process tools (e.g., Photoshop Generative Fill, Grand Designer, Substance Designer) are used to accelerate iteration; final assets are hand-crafted or created with licensed resources.
 
-Read the full policy & audit notes here: **[Wiki → Transparency](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency)**
+Read the full policy & audit notes here: **[Wiki → Transparency](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy)**
