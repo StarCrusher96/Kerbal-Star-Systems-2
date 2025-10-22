@@ -116,7 +116,7 @@
 |  | Sol/RSS | ✅ | Compatible |
 |  | Better Kerbol | ❌ | Incompatible: KSS2 already includes its own custom Kerbol configuration and visuals. |
 
-**Not compatible:** Principia, Galaxies Unbound, older KSS2 versions, full-replacement KSRSS, Parallax 1/2, Komplexity
+**Not compatible:** Principia, Galaxies Unbound, older KSS2 versions, full-replacement KSRSS, Parallax 1/2, Komplexity, Better Kerbol
 
 <img width="1920" height="1080" alt="Kaithsurf" src="https://github.com/user-attachments/assets/3d8c3c30-43e2-49c9-8eca-811d7dedfea9" />
 
