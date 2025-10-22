@@ -114,6 +114,7 @@
 |  | Outer Planets Mod | ✅ | Compatible |
 |  | Promised Worlds | ✅ | Compatible |
 |  | Sol/RSS | ✅ | Compatible |
+|  | Better Kerbol | ❌ | Incompatible: KSS2 already includes its own custom Kerbol configuration and visuals. |
 
 **Not compatible:** Principia, Galaxies Unbound, older KSS2 versions, full-replacement KSRSS, Parallax 1/2, Komplexity
 
