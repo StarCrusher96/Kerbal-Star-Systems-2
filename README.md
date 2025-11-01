@@ -1,6 +1,5 @@
 ![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 
-# 🌌 Kerbal Star Systems 2 (KSS2)
 ![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?label=Downloads&logo=github&color=blue&style=for-the-badge)
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest&style=for-the-badge&color=brightgreen)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-green?style=for-the-badge)
@@ -9,7 +8,7 @@
 [![Support on Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/StarCrusher96)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-## ✨ What is KSS2?
+# 🌌 Kerbal Star Systems 2 (KSS2)
 **KSS2** expands *Kerbal Space Program* into an interstellar adventure beyond Kerbol. It introduces a handcrafted universe of star systems built with scientific realism, coherent art direction, and distinct gameplay roles. Designed for **mid- to late-game** progression, KSS2 rewards deep-space missions, colonization, and discovery.
 
 > ✹ *KSS2 – Explore the Infinite Beyond*  
