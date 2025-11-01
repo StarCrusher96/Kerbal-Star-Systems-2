@@ -9,7 +9,13 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # 🌌 Kerbal Star Systems 2 (KSS2)
-**KSS2** expands *Kerbal Space Program* into an interstellar adventure beyond Kerbol. It introduces a handcrafted universe of star systems built with scientific realism, coherent art direction, and distinct gameplay roles. Designed for **mid- to late-game** progression, KSS2 rewards deep-space missions, colonization, and discovery.
+**Kerbal Star Systems 2 (KSS2)** is a decade-long journey of creation. A handcrafted interstellar environment that pushes *Kerbal Space Program* beyond the edge of Kerbol and into the stars.  
+Want to stand beneath the twin suns of Nova Kirbani, descend through the burning skies of Vespin, or land among the asparagus-tree forests of Blalo?  
+Each world in KSS2 is built from the ground up with **scientific realism, artistic cohesion, and gameplay depth**, where every orbit tells a story.  
+
+Crafted by one of KSP’s longest-standing creators, **KSS2** delivers an interstellar experience shaped by over ten years of world-building passion and technical mastery.  
+A project whose worlds have inspired countless others, **KSS2** continues the legacy of exploration that has defined a generation of modders.  
+Born from a decade of creation, refined into a universe that feels alive, timeless, vast, and unmistakably **Kerbal**.
 
 ---
 
