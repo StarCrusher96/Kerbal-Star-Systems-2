@@ -8,7 +8,7 @@
 [![Support on Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/StarCrusher96)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# 🌌 Kerbal Star Systems 2 (KSS2)
+# 🌌 Kerbal Star Systems 2
 **Kerbal Star Systems 2 (KSS2)** is a handcrafted interstellar expansion that takes *Kerbal Space Program* beyond Kerbol and into the stars.  
 Explore the twin suns of Nova Kirbani, descend through the burning skies of Vespin, or walk beneath the asparagus-tree forests of Blalo.  
 
