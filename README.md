@@ -11,9 +11,6 @@
 # 🌌 Kerbal Star Systems 2 (KSS2)
 **KSS2** expands *Kerbal Space Program* into an interstellar adventure beyond Kerbol. It introduces a handcrafted universe of star systems built with scientific realism, coherent art direction, and distinct gameplay roles. Designed for **mid- to late-game** progression, KSS2 rewards deep-space missions, colonization, and discovery.
 
-> ✹ *KSS2 – Explore the Infinite Beyond*  
-> *A living interstellar project shaped by curiosity, science, and art.*
-
 ---
 
 ## 🎯 Why Play KSS2?
