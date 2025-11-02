@@ -17,10 +17,23 @@ Original in concept, uncompromising in quality, and unmistakably **Kerbal**.
 ---
 
 ## 🎯 Why Play KSS2?
-- **Explore beyond Kerbol**: new handcrafted stars, planets, and phenomena  
-- **Deep progression**: late-game contracts, anomalies, interstellar missions  
-- **Immersive visuals**: volumetric clouds, auroras, wormholes, pulsars  
-- **Performance-minded**: balanced configs for playability and looks
+
+- **Venture beyond Kerbol**, travel to entirely new star systems, each handcrafted with care, science, and imagination.  
+- **Experience true progression**, uncover late-game missions, ancient anomalies, and interstellar challenges that reward curiosity and persistence.  
+- **Lose yourself in the atmosphere**, dynamic clouds, auroras, wormholes, and stars bring each world to life.  
+- **Built for players, refined by experience**, optimized for both beauty and performance, shaped by over a decade of worldbuilding and community passion.  
+
+---
+
+## 🌠 Included Star Systems
+| System | In-game name | Description |
+|--------|---------------|--------------|
+| **Aethera** | Aethera | Nearby red dwarf, small but intense |
+| **Alpha Centauri** | Nova Kirbani | Triple system: A, B & Proxima - diverse and historic |
+| **Luhman 16** | Korman 16 | Twin brown dwarfs with complex orbital dynamics |
+| **Sirius** | Seirios | Added in a supportive capacity |
+| **Kerr** | Kerr | Black-hole system filled with cosmic hazards |
+| **Kerbol** | Kerbol | Enhanced visuals and minor gameplay tweaks |
 
 ---
 
@@ -36,18 +49,6 @@ Original in concept, uncompromising in quality, and unmistakably **Kerbal**.
 2. Follow the **[Installation Guide](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2)**
 3. Install all required dependencies
 4. ⚠️ **Manual install only** - CKAN is not supported !
-
----
-
-## 🌠 Included Star Systems
-| System | In-game name | Description |
-|--------|---------------|--------------|
-| **Aethera** | Aethera | Nearby red dwarf, small but intense |
-| **Alpha Centauri** | Nova Kirbani | Triple system: A, B & Proxima - diverse and historic |
-| **Luhman 16** | Korman 16 | Twin brown dwarfs with complex orbital dynamics |
-| **Sirius** | Seirios | Added in a supportive capacity |
-| **Kerr** | Kerr | Black-hole system filled with cosmic hazards |
-| **Kerbol** | Kerbol | Enhanced visuals and minor gameplay tweaks |
 
 ---
 
