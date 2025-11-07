@@ -138,6 +138,8 @@ Original in concept, uncompromising in quality, and unmistakably **Kerbal**.
 **Special thanks**  
 TheSpacePotato • OoglakKerman • JadeOfMaar • Spaceman • Caden • Chaotic Protocol • Ciara Rayne Cloud • Bogue • Community testers and players
 
+And a big extra thank you to TheSpacePotato, you’ve been in this with me since 2016. True co-pilot energy. 🜂
+
 ---
 
 ## 📜 License
