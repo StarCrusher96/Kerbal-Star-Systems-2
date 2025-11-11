@@ -1,6 +1,6 @@
 ![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
 
-![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?label=Downloads&logo=github&color=blue&style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?label=Downloads&logo=github&color=4DC820&style=for-the-badge)
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest&style=for-the-badge&color=brightgreen)
 [![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/8mKywDaujE)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
