@@ -25,15 +25,22 @@ Original in concept, uncompromising in quality, and unmistakably **Kerbal**.
 
 ---
 
-## 🌠 Included Star Systems
-| System | In-game name | Description |
-|--------|---------------|--------------|
-| **Aethera** | Aethera | Nearby red dwarf, small but intense |
-| **Alpha Centauri** | Nova Kirbani | Triple system: A, B & Proxima - diverse and historic |
-| **Luhman 16** | Korman 16 | Twin brown dwarfs with complex orbital dynamics |
-| **Sirius** | Seirios | Added in a supportive capacity |
-| **Kerr** | Kerr | Black-hole system filled with cosmic hazards |
-| **Kerbol** | Kerbol | Enhanced visuals and minor gameplay tweaks |
+## 🌠 Included Star Systems  
+_All systems are original creations that take scientific cues from real astrophysical objects, without being direct analogues._
+
+## 🌠 Included Star Systems  
+_All systems are original creations. They take cues from real space, then the Kerbals made them… stranger._
+
+| In-game System | Inspiration | Short Description |
+|----------------|-------------|------------------|
+| **Aethera** | TRAPPIST-1 | A tiny red dwarf with planets packed so close you could almost wave at the neighbors. Expect tides, heat traps, and tight orbits. |
+| **Nova Kirbani** | Alpha Centauri (A+B) + Proxima | A three-star family: one bright, one steady, one grumpy and flaring. Plenty of worlds caught in their long, complicated dance. |
+| **Kormin** | Luhman 16A | A glowing brown dwarf that refuses to behave like a proper star. Warm light, weird seasons, and planets that never quite cool off. |
+| **Seereon** | Sirius | A very bright star with a very dense companion. Great for navigation, less great for anything that melts easily. |
+| **Orbel** | Pollux | A puffed-up giant star past its prime, slowly cooking its planets into new and exciting shapes. |
+| **Kerr** | Galactic Center / Sag A* | A black-hole system where physics cries a little. Extreme gravity, strange lights, and hazards Kerbals definitely weren’t meant to visit. |
+| **Kerbol** _soon_ | — | The familiar home system—polished up, tuned a bit, but still the same old warm ball Kerbals yell at during launch. |
+
 
 ---
 
