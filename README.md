@@ -26,9 +26,6 @@ Original in concept, uncompromising in quality, and unmistakably **Kerbal**.
 ---
 
 ## 🌠 Included Star Systems  
-_All systems are original creations that take scientific cues from real astrophysical objects, without being direct analogues._
-
-## 🌠 Included Star Systems  
 _All systems are original creations. They take cues from real space, then the Kerbals made them… stranger._
 
 | In-game System | Inspiration | Short Description |
