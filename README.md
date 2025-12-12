@@ -39,7 +39,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 | **Seereon** | Sirius | A very bright star with a very dense companion. Great for navigation, less great for anything that melts easily. |
 | **Orbel** | Pollux | A puffed-up giant star past its prime, slowly cooking its planets into new and exciting shapes. |
 | **Kerr** | Galactic Center / Sag A* | A black-hole system where physics cries a little. Extreme gravity, strange lights, and hazards Kerbals definitely weren’t meant to visit. |
-| **Kerbol** _soon_ | — | The familiar home system—polished up, tuned a bit, but still the same old warm ball Kerbals yell at during launch. |
+| **Kerbol** _soon_ | Sol | The familiar home system polished up, tuned a bit, but still the same old warm ball Kerbals yell at during launch. |
 
 
 ---
