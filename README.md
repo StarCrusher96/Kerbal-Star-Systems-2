@@ -54,7 +54,10 @@ _All systems are original creations. They take cues from real space, then the Ke
 3. Install all required dependencies
 4. ⚠️ **Manual install only** - CKAN is not supported !
 
+<img width="1536" height="1024" alt="KerbalTeshyr" src="https://github.com/user-attachments/assets/6c5efdb5-e635-4587-9fa8-b8abe61d6fba" />
+
 ---
+
 
 ## 🖼️ Showcase
 | <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450"/> | <img src="https://github.com/user-attachments/assets/59497161-07e2-4388-bf38-77064e6bb988" width="450"/> |
