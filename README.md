@@ -136,7 +136,6 @@ _All systems are original creations. They take cues from real space, then the Ke
 
 ## 🧩 Common Fixes
 - ❌ **Legacy EVE** is not supported  
-- ⚠️ **Green flashes (Luhman 16)** - disable HDR in TUFX  
 - ⚠️ **Maneuver Tool bug** - use **[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)**  
 - 🌑 **Dark planet** - set *Texture Quality* to **Full** in KSP settings
 
