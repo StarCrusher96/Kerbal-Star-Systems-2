@@ -63,7 +63,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 ## 🖼️ Showcase
 | <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450"/> | <img src="https://github.com/user-attachments/assets/59497161-07e2-4388-bf38-77064e6bb988" width="450"/> |
 |:--:|:--:|
-| *Luhman 16 A and its moon system* | *A pulsar blazing in the void* |
+| *Kormin and its moon system* | *A pulsar blazing in the void* |
 
 | <img src="https://github.com/user-attachments/assets/2e66c999-f8c6-463b-868d-30315b8fb2b7" width="450"/> | <img src="https://github.com/user-attachments/assets/d47d24ad-649f-428d-810a-9f0cb9fbcfe5" width="450"/> |
 |:--:|:--:|
@@ -78,7 +78,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 ## 🚀 Features
 - Scientifically-inspired systems and planetary design  
 - Dynamic atmospheres and **EVE Volumetrics** cloud layers  
-- Wormholes, pulsars, and other exotic phenomena  
+- Wormholes, (pulsars in the future), and other exotic phenomena  
 - Late-game contracts and discoveries  
 - Optimized visuals with **Scatterer** and performance-tuned configs
 
@@ -88,11 +88,15 @@ _All systems are original creations. They take cues from real space, then the Ke
 ---
 
 ## 🔭 Roadmap (In Development)
-- **Outer Worlds Expansion** - gas giants & icy moons beyond Eeloo  
-- **Kerbol Revamp** - visual and gameplay overhauls  
-- **Epsilon Eridani** - realistic nearby system  
-- **Helion** - fictional binary system  
-- **Expanded Luhman 16 & Sirius** - more planets + moons
+
+- **Orbel & Seereon Completion**  
+  Finalizing the Orbel giant system and the Seereon binary, expanding existing worlds with additional planets, moons, and late-stage stellar evolution effects. *(In active development)*
+
+- **Pulsar System**  
+  A high-risk, high-reward system built around an active pulsar, featuring extreme radiation, relativistic visuals, and environments Kerbals were never meant to survive.
+
+- **Outer Planets & Kerbol Revamp**  
+  Adds new gas giants and icy moons beyond Eeloo while modernizing the Kerbol system with updated visuals, balance tweaks, and improved exploration gameplay.
 
 ---
 
