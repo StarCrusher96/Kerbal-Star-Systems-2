@@ -37,9 +37,8 @@ _All systems are original creations. They take cues from real space, then the Ke
 | **Orbel** | Pollux | A puffed-up giant star past its prime, slowly cooking its planets into new and exciting shapes. |
 | **Kerr** | Galactic Center / Sag A* | A black-hole system where physics cries a little. Extreme gravity, strange lights, and hazards Kerbals definitely weren’t meant to visit. |
 | **Kerbol** _(soon)_ | Sol | The familiar home system polished up, tuned a bit, but still the same old warm ball Kerbals yell at during launch. |
-| **Pandor Expansion** | Pandora (Avatar (2009 film) | Adds a lush, bioluminescent Pandora-analogue moon orbiting the gas giant around Nova Kirbani A. Beautiful, hostile, and rich in scientific rewards. |
+| **Pandor Expansion** | Pandora (Avatar (franchise) | Adds a lush, bioluminescent Pandora-analogue moon orbiting the gas giant around Nova Kirbani A. Beautiful, hostile, and rich in scientific rewards. |
 | **Red Blalo Expansion** | None | Reimagines Blalo (Nova Kirbani B System) as its heavily debated red variant, with more oxidized terrain and altered red oceans. |
-
 
 
 ---
