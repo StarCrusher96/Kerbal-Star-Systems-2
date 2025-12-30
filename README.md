@@ -60,17 +60,18 @@ _All systems are original creations. They take cues from real space, then the Ke
 
 
 ## 🖼️ Showcase
-| <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450"/> | <img src="https://github.com/user-attachments/assets/59497161-07e2-4388-bf38-77064e6bb988" width="450"/> |
+| <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450"/> | <img src="https://github.com/user-attachments/assets/89b76992-11e8-4c27-840e-411c56d46093" width="450"/> |
 |:--:|:--:|
-| *Kormin and its moon system* | *A pulsar blazing in the void* |
+| *Kormin and its moon system* | *Kerr* |
 
 | <img src="https://github.com/user-attachments/assets/2e66c999-f8c6-463b-868d-30315b8fb2b7" width="450"/> | <img src="https://github.com/user-attachments/assets/d47d24ad-649f-428d-810a-9f0cb9fbcfe5" width="450"/> |
 |:--:|:--:|
 | *Aethera erupting in a stellar flare* | *Polynovin and its satellites* |
 
-| <img src="https://github.com/user-attachments/assets/7bc6d7a8-16c8-4310-8c1f-d0327a61309a" width="450"/> | <img src="https://github.com/user-attachments/assets/bcd6827d-7e92-4760-b465-b29b6c4c1196" width="450"/> |
+| <img src="https://github.com/user-attachments/assets/f7d4b14f-b193-4c4b-b172-19cecee8312a" width="450"/> | <img src="https://github.com/user-attachments/assets/bcd6827d-7e92-4760-b465-b29b6c4c1196" width="450"/> |
 |:--:|:--:|
-| *The horizon of Hydron (Helion System)* | *Surface of Blalo under dim skies* |
+| *Surface of Xolem* | *Surface of Blalo under dim skies* |
+
 
 ---
 
@@ -108,6 +109,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 |  | Kerbalism | ✅ | Radiation support |
 |  | Kerbal Health | ✅ | Compatible |
 |  | Rational Resources | ✅ | Config support included |
+|  | Scaled Decorator | ✅ | Unity Effects |
 |  | Sigma Binary | ✅ | Barycenters |
 |  | Sigma HeatShifter | ✅ | Heating behavior |
 | **Visuals** | Volumetric EVE | ✅ | Clouds, auroras, geysers |
