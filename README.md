@@ -23,7 +23,7 @@ Developed by one of the longest-active modmakers in the Kerbal Space Program com
 - Go beyond Kerbol and explore entirely new star systems, each handcrafted with real science, deliberate design, and a healthy disregard for how far Kerbals probably should travel.
 - Experience true late-game progression, with interstellar missions, strange anomalies, and long-term challenges that reward planning, curiosity, and stubborn persistence.
 - Discover worlds that feel alive, from hostile atmospheres and dynamic clouds to auroras, exotic stellar environments, and phenomena that don’t always behave as expected.
-- Built for players who like things to last—refined through years of iteration, optimized for both beauty and performance, and shaped by over a decade of worldbuilding and community feedback.
+- Built for players who like things to last, refined through years of iteration, optimized for both beauty and performance, and shaped by over a decade of worldbuilding and community feedback.
 
 ---
 
