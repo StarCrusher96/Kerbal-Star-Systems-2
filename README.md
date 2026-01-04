@@ -20,10 +20,10 @@ Developed by one of the longest-active modmakers in the Kerbal Space Program com
 
 ## 🎯 Why Play KSS2?
 
-- Go beyond Kerbol and explore entirely new star systems, each handcrafted with real science, deliberate design, and a healthy disregard for how far Kerbals probably should travel.
-- Experience true late-game progression, with interstellar missions, strange anomalies, and long-term challenges that reward planning, curiosity, and stubborn persistence.
-- Discover worlds that feel alive, from hostile atmospheres and dynamic clouds to auroras, exotic stellar environments, and phenomena that don’t always behave as expected.
-- Built for players who like things to last, refined through years of iteration, optimized for both beauty and performance, and shaped by over a decade of worldbuilding and community feedback.
+- Go beyond Kerbol into fully original star systems, handcrafted with real science and unmistakable Kerbal weirdness.
+- Explore where others haven’t, with interstellar mechanics, late-game progression, and systems that pioneered features now common in large KSP mods.
+- Discover worlds that feel alive, with dynamic atmospheres, clouds, auroras, and stellar phenomena that keep surprising you.
+- Built to last, refined over years of iteration, optimized for performance, and still pushing new ideas forward.
 
 ---
 
