@@ -6,13 +6,15 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # 🌌 Kerbal Star Systems 2
-**Kerbal Star Systems 2 (KSS2)** is an interstellar expansion that takes *Kerbal Space Program* beyond Kerbol and into the stars.  
-Explore the twin suns of Nova Kirbani, descend through the burning skies of Vespin, or walk beneath the asparagus-tree forests of Blalo.  
+Kerbal Star Systems 2 (KSS2) expands Kerbal Space Program beyond Kerbol, opening the door to interstellar travel and a set of fully original star systems shaped by real astrophysics and Kerbal curiosity.
 
-Every system in KSS2 is built with **scientific precision, artistic direction, and gameplay depth**, creating a universe where exploration feels meaningful and discovery truly rewarding.  
+Expect unfamiliar suns, unpredictable environments, and planets that don’t always behave the way you hoped they would. Orbits can be tight, atmospheres can be hostile, and long-distance missions have a habit of revealing design flaws at the worst possible moment.
 
-Developed by one of KSP’s most experienced world-builders, **KSS2** draws on over a decade of creativity and refinement, a defining project in interstellar design that continues to inspire while remaining true to its own vision.  
-Original in concept, uncompromising in quality, and unmistakably **Kerbal**.
+KSS2 focuses on star systems that feel intentional rather than oversized. Planetary behavior, visual character, and gameplay challenges are designed together, so exploration rewards careful planning, creative problem-solving, and the occasional rapid unscheduled disassembly.
+
+The mod is actively developed, with multiple systems and expansions already playable and more added over time. Stability and refinement are a priority, ensuring that when things go wrong, it’s part of the experience, not a technical surprise.
+
+Developed by one of the longest-active modmakers in the Kerbal Space Program community, KSS2 builds on many years of experimentation, iteration, and learning what works (and what definitely doesn’t). That experience shows in a universe designed to be ambitious, resilient, and very hard to accidentally break—at least not without trying.
 
 ---
 
