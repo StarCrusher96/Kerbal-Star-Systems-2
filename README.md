@@ -15,6 +15,7 @@ KSS2 focuses on star systems that feel intentional rather than oversized. Planet
 The mod is actively developed, with multiple systems and expansions already playable and more added over time. Stability and refinement are a priority, ensuring that when things go wrong, it’s part of the experience—not a technical surprise.
 
 Developed by one of the longest-active modmakers in the Kerbal Space Program community, KSS2 builds on many years of experimentation, iteration, and learning what works (and what definitely doesn’t). That experience shows in a universe designed to be ambitious, resilient, and very hard to accidentally break—at least not without trying. Along the way, its approach to large-scale interstellar worldbuilding has become a reference point for how many other KSP mods shape their universes, balance ambition with sanity, and keep things fun when physics gets angry.
+
 ---
 
 ## 🎯 Why Play KSS2?
