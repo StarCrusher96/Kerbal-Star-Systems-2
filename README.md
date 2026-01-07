@@ -162,6 +162,16 @@ Licensed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd
 - ❌ No remixing or derivative works  
 - ❌ No asset reuse (textures, models, configs) without explicit permission
 
+**Allowed**
+- Share **unchanged** for non-commercial use (with credit)
+- Personal / private modifications
+
+**Not allowed**
+- Redistribute **modified versions**
+- Public patches or ModuleManager configs that change behavior or visuals
+- Reuse or reupload assets (textures, models, configs)
+- Modpacks, forks, or commercial use
+
 Official source: https://github.com/StarCrusher96/Kerbal-Star-Systems-2  
 ![LicenseBadge](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
 
