@@ -16,6 +16,8 @@ The mod is actively developed, with multiple systems and expansions already play
 
 Developed by one of the longest-active modmakers in the Kerbal Space Program community, KSS2 builds on many years of experimentation, iteration, and learning what works (and what definitely doesn’t). That experience shows in a universe designed to be ambitious, resilient, and very hard to accidentally break, at least not without trying. Along the way, its approach to large-scale interstellar worldbuilding has become a reference point for how many other KSP mods shape their universes, balance ambition with sanity, and keep things fun when physics gets angry.
 
+_For players looking to leave Kerbol behind and truly go interstellar, KSS2 aims to be the only universe you need._
+
 ---
 
 ## 🎯 Why Play KSS2?
