@@ -6,17 +6,17 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # 🌌 Kerbal Star Systems 2
-Kerbal Star Systems 2 (KSS2) expands Kerbal Space Program beyond Kerbol, opening the door to interstellar travel and a set of fully original star systems shaped by real astrophysics and Kerbal curiosity.
+Kerbal Star Systems 2 (KSS2) is a massive interstellar planet pack for Kerbal Space Program, designed for players who looked at Kerbol and thought, “_Yes, but what if we went much, much farther?_”
 
-Expect unfamiliar suns, unpredictable environments, and planets that don’t always behave the way you hoped they would. Orbits can be tight, atmospheres can be hostile, and long-distance missions have a habit of revealing design flaws at the worst possible moment.
+KSS2 sends your space program beyond familiar space into fully original star systems inspired by real astrophysics, bad ideas, and the Kerbal method of learning by catastrophic failure. Expect unfamiliar suns, hostile atmospheres, tight orbits, and planets that absolutely refuse to cooperate.
 
-KSS2 focuses on star systems that feel intentional rather than oversized. Planetary behavior, visual character, and gameplay challenges are built together, so exploration rewards careful planning, creative problem-solving, and the occasional rapid unscheduled disassembly.
+Interstellar distances turn small mistakes into expensive lessons, and long missions have a talent for revealing design flaws only after you’re already committed. Planning helps. Overengineering helps more.
 
-The mod is actively developed, with multiple systems and expansions already playable and more added over time. Stability and refinement are a priority, ensuring that when things go wrong, it’s part of the experience, not a technical surprise.
+Rather than going big for the sake of it or making false promises, KSS2 focuses on star systems that feel intentional. Visuals, planetary behavior, and gameplay challenge are designed together, rewarding bold exploration, creative problem-solving, and the occasional rapid unscheduled disassembly.
 
-Developed by one of the longest-active modmakers in the Kerbal Space Program community, KSS2 builds on many years of experimentation, iteration, and learning what works (and what definitely doesn’t). That experience shows in a universe designed to be ambitious, resilient, and very hard to accidentally break, at least not without trying. Along the way, its approach to large-scale interstellar worldbuilding has become a reference point for how many other KSP mods shape their universes, balance ambition with sanity, and keep things fun when physics gets angry.
+Actively developed and built by one of the longest-active KSP modders, KSS2 aims to be stable, ambitious, and very difficult to break—unless you’re really trying.
 
-_For players looking to leave Kerbol behind and truly go interstellar, KSS2 aims to be the only universe you need._
+_Leave Kerbol behind and enjoy breaking new star systems._
 
 ---
 
