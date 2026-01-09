@@ -6,7 +6,7 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # 🌌 Kerbal Star Systems 2
-Kerbal Star Systems 2 (KSS2) is a massive interstellar planet pack for Kerbal Space Program, designed for players who looked at Kerbol and thought, “_Yes, but what if we went much, much farther?_”
+Kerbal Star Systems 2 (KSS2) is a massive interstellar planet pack for Kerbal Space Program, made for players who explored the stock system, pushed past the Outer Planets, and started wondering what _comes after_ that.
 
 KSS2 sends your space program beyond familiar space into fully original star systems inspired by real astrophysics, bad ideas, and the Kerbal method of learning by catastrophic failure. Expect unfamiliar suns, hostile atmospheres, tight orbits, and planets that absolutely refuse to cooperate.
 
