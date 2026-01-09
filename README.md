@@ -14,7 +14,7 @@ Interstellar distances turn small mistakes into expensive lessons, and long miss
 
 Rather than going big for the sake of it or making false promises, KSS2 focuses on star systems that feel intentional. Visuals, planetary behavior, and gameplay challenge are designed together, rewarding bold exploration, creative problem-solving, and the occasional rapid unscheduled disassembly.
 
-Actively developed and built by one of the longest-active KSP modders, KSS2 aims to be stable, ambitious, and very difficult to break—unless you’re really trying.
+Actively developed and built by one of the longest-active KSP modders, KSS2 aims to be stable, ambitious, and very difficult to break; unless you’re really trying.
 
 _Leave Kerbol behind and enjoy breaking new star systems._
 
