@@ -45,7 +45,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 
 ### 🗺️ System Overview Maps
 
-_System map artwork by Chronic_Meow 🖤_
+_System map artwork by Meow_Chronic 🖤_
 
 <details>
 <summary><strong>Aethera System</strong></summary>
