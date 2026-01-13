@@ -43,6 +43,16 @@ _All systems are original creations. They take cues from real space, then the Ke
 | **Pandor Expansion** | Pandora (Avatar (franchise) | Adds a lush, bioluminescent Pandora-analogue moon orbiting the gas giant around Nova Kirbani A. Beautiful, hostile, and rich in scientific rewards. |
 | **Red Blalo Expansion** | Crimsica (Helldivers 2) | Reimagines Blalo (Nova Kirbani B System) as its heavily debated red variant, with more oxidized terrain and altered red oceans. |
 
+### 🗺️ System Overview Maps
+
+_System map artwork by Chronic_Meow 🖤_
+
+<details>
+<summary><strong>Aethera System</strong></summary>
+  
+<img width="12001" height="4000" alt="KSS2- Aethera (Horizontal)" src="https://github.com/user-attachments/assets/01f06ca2-ea6c-4bb4-98c4-9c346d551259" />
+
+</details>
 
 ---
 
