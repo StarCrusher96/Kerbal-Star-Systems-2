@@ -125,6 +125,7 @@ _System map artwork by Meow_Chronic 🖤_
 |  | Scaled Decorator | ✅ | Unity Effects |
 |  | Sigma Binary | ✅ | Barycenters |
 |  | Sigma HeatShifter | ✅ | Heating behavior |
+|  | Space Dust | ✅ | Resources |
 | **Visuals** | Volumetric EVE | ✅ | Clouds, auroras, geysers |
 |  | Scatterer | ✅ | Atmospheres, oceans |
 |  | Parallax Continued | ✅ | Terrain tessellation |
