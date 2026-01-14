@@ -21,17 +21,11 @@ _Leave Kerbol behind and enjoy breaking new star systems._
 
 ---
 
-## 🎯 Why Play KSS2?
-
-- Go beyond Kerbol into fully original star systems, handcrafted with real science and unmistakable Kerbal weirdness.
-- Explore where others haven’t, with interstellar mechanics, late-game progression, and systems that pioneered features now common in large KSP mods.
-- Discover worlds that feel alive, with dynamic atmospheres, clouds, auroras, and stellar phenomena that keep surprising you.
-- Built to last, refined over years of iteration, optimized for performance, and still pushing new ideas forward.
-
----
-
 ## 🌠 Included Star Systems  
 _All systems are original creations. They take cues from real space, then the Kerbals made them… stranger._
+
+<details>
+<summary><strong>Overview</strong></summary>
 
 | In-game System | Inspiration | Short Description |
 |----------------|-------------|------------------|
@@ -43,6 +37,8 @@ _All systems are original creations. They take cues from real space, then the Ke
 | **Kerr** | Galactic Center / Sag A* | A black-hole system where physics cries a little. Extreme gravity, strange lights, and hazards Kerbals definitely weren’t meant to visit. |
 | **Pandor Expansion** | Pandora (Avatar (franchise) | Adds a lush, bioluminescent Pandora-analogue moon orbiting the gas giant around Nova Kirbani A. Beautiful, hostile, and rich in scientific rewards. |
 | **Red Blalo Expansion** | Crimsica (Helldivers 2) | Reimagines Blalo (Nova Kirbani B System) as its heavily debated red variant, with more oxidized terrain and altered red oceans. |
+
+</details>
 
 ### 🗺️ System Overview Maps
 
