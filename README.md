@@ -111,6 +111,7 @@ KSS2 is designed to coexist with other major planet packs and visual mods.
 
 ## ❤️ Community
   ![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord&style=for-the-badge)
+  
 - **[Discord](https://discord.com/invite/8mKywDaujE)**: updates & support
 - **[YouTube](https://www.youtube.com/@starcrusher96)**: dev logs & previews  
 - **[Patreon](https://www.patreon.com/c/StarCrusher96)**: optional support  
