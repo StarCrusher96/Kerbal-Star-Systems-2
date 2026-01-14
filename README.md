@@ -108,13 +108,6 @@ KSS2 is designed to coexist with other major planet packs and visual mods.
 
 ---
 
-## 🧩 Common Fixes
-- ❌ **Legacy EVE** is not supported  
-- ⚠️ **Maneuver Tool bug** - use **[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes)**  
-- 🌑 **Dark planet** - set *Texture Quality* to **Full** in KSP settings
-
----
-
 ## ❤️ Community
 - **[Discord](https://discord.com/invite/8mKywDaujE)**: updates & support  
 - **[YouTube](https://www.youtube.com/@starcrusher96)**: dev logs & previews  
