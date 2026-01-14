@@ -1,4 +1,4 @@
-<img width="1902" height="951" alt="Banner3" src="https://github.com/user-attachments/assets/62f46162-7373-404e-a4ef-171524b64f5a" />
+Banner Under Construction
 
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&color=4DC820)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue?style=for-the-badge)
