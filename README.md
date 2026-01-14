@@ -1,4 +1,5 @@
-![KSS2Banner](https://github.com/user-attachments/assets/b3b2adaf-f4bc-4d4f-abfc-13baac337d79)
+
+<img width="1536" height="1024" alt="Banner2" src="https://github.com/user-attachments/assets/313d9c1b-c2d6-4439-8820-780b04b59a35" />
 
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&color=4DC820)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue?style=for-the-badge)
