@@ -3,7 +3,6 @@
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&color=4DC820)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?label=Downloads&logo=github&color=4DC820&style=for-the-badge)
-![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord&style=for-the-badge)
 ![Visitors](https://komarev.com/ghpvc/?username=StarCrusher96&repo=Kerbal-Star-Systems-2&label=Visitors&style=for-the-badge&color=4DC820)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -111,7 +110,8 @@ KSS2 is designed to coexist with other major planet packs and visual mods.
 ---
 
 ## ❤️ Community
-- **[Discord](https://discord.com/invite/8mKywDaujE)**: updates & support  
+  ![Discord](https://img.shields.io/discord/609404909464453120?label=Discord&logo=discord&style=for-the-badge)
+- **[Discord](https://discord.com/invite/8mKywDaujE)**: updates & support
 - **[YouTube](https://www.youtube.com/@starcrusher96)**: dev logs & previews  
 - **[Patreon](https://www.patreon.com/c/StarCrusher96)**: optional support  
 
