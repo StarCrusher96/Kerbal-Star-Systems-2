@@ -1,5 +1,4 @@
-
-<img width="1536" height="1024" alt="Banner2" src="https://github.com/user-attachments/assets/313d9c1b-c2d6-4439-8820-780b04b59a35" />
+<img width="1902" height="951" alt="Banner3" src="https://github.com/user-attachments/assets/62f46162-7373-404e-a4ef-171524b64f5a" />
 
 ![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&color=4DC820)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue?style=for-the-badge)
@@ -27,7 +26,8 @@ _All systems are original creations. They take cues from real space, then the Ke
 
 | In-game System | Inspiration | Short Description |
 |----------------|-------------|------------------|
-| **Aethera** | TRAPPIST-1 | A compact red dwarf with tightly packed worlds, extreme tides, and unforgiving environments. |
+| **Aethera** | TRAPPIST-1 | A compact red dwarf with tightly packed worlds, extreme tides, and unforgiving enviro<img width="1902" height="951" alt="Banner3" src="https://github.com/user-attachments/assets/879d40e4-7ec1-4834-96d5-0e2b9fc5449b" />
+nments. |
 | **Nova Kirbani** | Alpha Centauri (A+B) + Proxima |A three-star family with complex dynamics, and worlds caught in a slow gravitational dance. |
 | **Kormin** | Luhman 16A | A glowing brown dwarf that refuses to behave like a proper star. Warm faint light, weird worlds, and planets that never quite cool off. |
 | **Seereon** | Sirius | A very bright star with a very dense companion. Great for navigation, less great for anything that melts easily. |
