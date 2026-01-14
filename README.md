@@ -26,8 +26,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 
 | In-game System | Inspiration | Short Description |
 |----------------|-------------|------------------|
-| **Aethera** | TRAPPIST-1 | A compact red dwarf with tightly packed worlds, extreme tides, and unforgiving enviro<img width="1902" height="951" alt="Banner3" src="https://github.com/user-attachments/assets/879d40e4-7ec1-4834-96d5-0e2b9fc5449b" />
-nments. |
+| **Aethera** | TRAPPIST-1 | A compact red dwarf with tightly packed worlds, extreme tides, and unforgiving environments. |
 | **Nova Kirbani** | Alpha Centauri (A+B) + Proxima |A three-star family with complex dynamics, and worlds caught in a slow gravitational dance. |
 | **Kormin** | Luhman 16A | A glowing brown dwarf that refuses to behave like a proper star. Warm faint light, weird worlds, and planets that never quite cool off. |
 | **Seereon** | Sirius | A very bright star with a very dense companion. Great for navigation, less great for anything that melts easily. |
