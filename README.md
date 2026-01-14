@@ -13,7 +13,7 @@ KSS2 sends your space program far beyond familiar space into fully original star
 
 Rather than chasing spectacle alone or making false promises, KSS2 focuses on systems that feel intentional. Visuals, planetary behavior, and gameplay challenge are designed together to reward careful planning, creative engineering, and the occasional rapid unscheduled disassembly.
 
-Actively developed and built by one of the longest-active KSP modders (over a decade), KSS2 aims to be stable, ambitious, and very difficult to break; unless you’re really trying.
+Actively developed and maintained by one of the longest-active KSP modders, with over a decade of experience. KSS2 aims to be stable, ambitious, and very difficult to break; unless you’re really trying.
 
 _Leave Kerbol behind and enjoy breaking new star systems._
 
@@ -32,7 +32,7 @@ _All systems are original creations. They take cues from real space, then the Ke
 | **Seereon** | Sirius | A very bright star with a very dense companion. Great for navigation, less great for anything that melts easily. |
 | **Orbel** | Pollux | A puffed-up giant star past its prime, slowly cooking its planets into new and exciting shapes. |
 | **Kerr** | Galactic Center / Sag A* | A black-hole system where physics cries a little. Extreme gravity, strange lights, and hazards Kerbals definitely weren’t meant to visit. |
-| **Pandor Expansion** | Pandora (Avatar (franchise) | Adds a lush, bioluminescent Pandora-analogue moon orbiting the gas giant around Nova Kirbani A. Beautiful, hostile, and rich in scientific rewards. |
+| **Pandor Expansion** | Pandora (Avatar franchise) | Adds a lush, bioluminescent Pandora-analogue moon orbiting the gas giant around Nova Kirbani A. Beautiful, hostile, and rich in scientific rewards. |
 | **Red Blalo Expansion** | Crimsica (Helldivers 2) | Reimagines Blalo (Nova Kirbani B System) as its heavily debated red variant, with more oxidized terrain and altered red oceans. |
 
 </details>
@@ -116,9 +116,9 @@ KSS2 is designed to coexist with other major planet packs and visual mods.
 ---
 
 ## ❤️ Community
-- **Discord** - updates & support: https://discord.com/invite/8mKywDaujE  
-- **YouTube** - dev logs & previews: https://www.youtube.com/@starcrusher96  
-- **Patreon** - optional support: https://www.patreon.com/c/StarCrusher96
+- **[Discord](https://discord.com/invite/8mKywDaujE)**: updates & support  
+- **[YouTube](https://www.youtube.com/@starcrusher96)**: dev logs & previews  
+- **[Patreon](https://www.patreon.com/c/StarCrusher96)**: optional support  
 
 **Credits**  
 TheSpacePotato • OoglakKerman • JadeOfMaar • Spaceman • Caden • Chaotic Protocol • Ciara Rayne Cloud • Bogue • Community testers and players
@@ -141,4 +141,4 @@ Official source: https://github.com/StarCrusher96/Kerbal-Star-Systems-2
 
 ## 🔎 Transparency
 KSS2 prioritizes originality, proper licensing, and respectful collaboration.
-> Read the full policy & audit notes here: **[Wiki → Transparency](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy)**
+> ➡️ Full policy available on the Wiki: **[Wiki → Transparency](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy)**
