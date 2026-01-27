@@ -16,6 +16,7 @@ Rather than chasing spectacle alone or making false promises, KSS2 focuses on sy
 Actively developed and maintained by one of the longest-active KSP modders, KSS2 aims to be stable, ambitious, and very difficult to break, unless you’re really trying.
 
 _Leave Kerbol behind and enjoy breaking new star systems._
+
 ---
 
 ## 🌠 Included Star Systems
