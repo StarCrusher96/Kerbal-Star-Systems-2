@@ -140,6 +140,10 @@ Licensed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd
 Official source: https://github.com/StarCrusher96/Kerbal-Star-Systems-2  
 ![LicenseBadge](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
 
+Third-party configs & gameplay-altering patches
+Any patches that change starting bodies, progression, or balance are third-party experiments and are not supported or endorsed.
+Bug reports, balance feedback, or issues caused by such patches will not be addressed.
+
 ---
 
 ## 🔎 Transparency
