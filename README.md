@@ -123,7 +123,7 @@ KSS2 is designed to coexist with other major planet packs and visual mods.
 - **[Patreon](https://www.patreon.com/c/StarCrusher96)**: optional support  
 
 **Credits**  
-TheSpacePotato • OoglakKerman • JadeOfMaar • Spaceman • Caden • Chaotic Protocol • Ciara Rayne Cloud • Bogue • Community testers and players
+TheSpacePotato • OoglakKerman • JadeOfMaar • Spaceman • Emu • Caden • Chaotic Protocol • Ciara Rayne Cloud • Bogue • Community testers and players
 
 Extra thanks to TheSpacePotato, co-pilot since 2016.
 
