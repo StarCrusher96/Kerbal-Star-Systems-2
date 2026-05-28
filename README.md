@@ -66,8 +66,6 @@ _All systems are original creations. They take cues from real space, then the Ke
 4. ⚠️ **Manual install only**, CKAN is not supported
 
 ---
----
-
 
 ## 🖼️ In-Game
 | <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450"/> | <img src="https://github.com/user-attachments/assets/89b76992-11e8-4c27-840e-411c56d46093" width="450"/> |
