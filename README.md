@@ -18,7 +18,6 @@ Actively developed and maintained by one of the longest-active KSP modders, KSS2
 _Leave Kerbol behind and enjoy breaking new star systems._
 
 ---
----
 
 ## ❤️ Support KSS2
 
@@ -28,8 +27,6 @@ If you enjoy the mod and want to support its continued development, Patreon help
 You are not buying access to KSS2. You are helping keep the project sustainable.
 
 [![Support on Patreon](https://img.shields.io/badge/Support%20KSS2-Patreon-F96854?style=for-the-badge\&logo=patreon)](https://www.patreon.com/c/StarCrusher96)
-
----
 
 ---
 
