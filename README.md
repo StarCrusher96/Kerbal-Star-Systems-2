@@ -26,7 +26,7 @@ KSS2 is free and will remain free.
 If you enjoy the mod and want to support its continued development, Patreon helps cover the tools, software, assets, testing time, and long-term maintenance behind the project.
 You are not buying access to KSS2. You are helping keep the project sustainable.
 
-[![Support on Patreon](https://img.shields.io/badge/Support%20KSS2-Patreon-F96854?style=for-the-badge\&logo=patreon)](https://www.patreon.com/c/StarCrusher96)
+[![Support on Patreon](https://img.shields.io/badge/Support%20KSS2-Patreon-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/StarCrusher96)
 
 ---
 
