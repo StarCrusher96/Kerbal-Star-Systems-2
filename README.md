@@ -1,6 +1,6 @@
 <img width="1902" height="951" alt="BannerNEW" src="https://github.com/user-attachments/assets/ee694bc1-c4c1-4a48-8644-b082d771e7d1" />
 
-![Latest Release](https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&color=4DC820)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-4.0.2-4DC820?style=for-the-badge&logo=github)](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/tag/4.0.2)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?label=Downloads&logo=github&color=4DC820&style=for-the-badge)
 ![Visitors since jan 2026](https://komarev.com/ghpvc/?username=StarCrusher96&repo=Kerbal-Star-Systems-2&label=Visitors&style=for-the-badge&color=4DC820)
