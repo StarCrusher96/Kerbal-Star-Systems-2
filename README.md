@@ -140,6 +140,15 @@ Extra thanks to TheSpacePotato, co-pilot since 2016.
 
 ---
 
+## 💸 Monetization & Support
+
+KSS2 is not paid content. Downloads, gameplay content, and releases are not locked behind Patreon.
+
+Patreon exists purely for voluntary support. Contributions help cover software, development tools, visual assets, testing time, and the long-term maintenance of a large interstellar planet pack.
+Supporters may receive behind-the-scenes posts, previews, development notes, Discord recognition, or similar community perks, but not exclusive planets, private builds, or paid access to the mod.
+
+---
+
 ## 📜 License
 
 Licensed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
