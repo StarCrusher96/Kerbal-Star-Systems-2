@@ -56,7 +56,7 @@
 
 In **Kerbal Star Systems 2**, take charge of an interstellar space program for the Kerbals.
 
-Use the technology, infrastructure and hard-earned engineering lessons of Kerbol to assemble spacecraft capable of crossing the space between stars—some of which may even arrive with all the important pieces still attached.
+Use the technology, infrastructure and hard-earned engineering lessons of Kerbol to assemble spacecraft capable of crossing the space between stars, some of which may even arrive with all the important pieces still attached.
 
 Launch probes and crews toward **six original star systems**. Establish communications networks across interstellar distances. Construct stations, colonies and surface bases around unfamiliar worlds, and expand the reach of Kerbalkind far beyond its home sun.
 
@@ -93,10 +93,10 @@ KSS2 is the latest generation of an interstellar KSP project that began in **201
 
 | **2015–2019**                                                                          | **2019–2024**                                                                                              | **TODAY**                                                                                                                  |
 | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
-| ### Kerbal Star Systems                                                                | ### Galaxies Unbound                                                                                       | ### Kerbal Star Systems 2                                                                                                  |
+| `KERBAL STAR SYSTEMS (KSS)`                                                                | `GALAXIES UNBOUND (GU)`                                                                                       | `KERBAL STAR SYSTEMS (KSS2)`                                                                                                  |
 | The original connected KSS galaxy and the beginning of its interstellar worldbuilding. | A modular generation of nearby stellar systems, new worlds and increasingly advanced planetary techniques. | A rebuilt universe combining that experience with modern visual systems, deeper environments and more focused progression. |
 
-Returning players may recognize familiar names, destinations and ideas from previous generations. New players require no prior knowledge—only a functioning spacecraft and a generous interpretation of the word “functioning.”
+Returning players may recognize familiar names, destinations and ideas from previous generations. New players require no prior knowledge, only a functioning spacecraft and a generous interpretation of the word “functioning.”
 
 KSS2 is not a remaster of the earlier projects. It is the next generation of the same long-running idea, shaped by more than a decade of designing systems, releasing them, rebuilding them and discovering which experiments were best returned to Research and Development.
 
@@ -327,7 +327,7 @@ Plans may change following scientific review, technical testing or an unexpected
 
 | **COMMUNITY**                                                                      | **DEVELOPMENT**                                                              | **SUPPORT**                                            |
 | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------- |
-| ### [Discord](https://discord.com/invite/8mKywDaujE)                               | ### [YouTube](https://www.youtube.com/@starcrusher96)                        | ### [Patreon](https://www.patreon.com/c/StarCrusher96) |
+| [Discord](https://discord.com/invite/8mKywDaujE)                               | [YouTube](https://www.youtube.com/@starcrusher96)                        | [Patreon](https://www.patreon.com/c/StarCrusher96) |
 | Installation help, discussion and mission reports                                  | Trailers, previews and development videos                                    | Voluntary support for tools, assets and maintenance    |
 | **[GitHub Issues](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/issues)** | **[KSS2 Wiki](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki)** | **KSS2 remains free**                                  |
 | Reproducible bugs and technical reports                                            | Installation, compatibility and system information                           | No planets or releases are locked behind payment       |
