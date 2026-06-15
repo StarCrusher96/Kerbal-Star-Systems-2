@@ -11,7 +11,12 @@
   />
 </p>
 
-<div align="center"> <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><img src="https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4DC820" alt="Latest KSS2 Release"></a> <img src="https://img.shields.io/badge/KSP-1.12.x-2F80ED?style=for-the-badge&labelColor=181717" alt="KSP Version 1.12.x"> <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases"><img src="https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?style=for-the-badge&label=Downloads&logo=github&logoColor=white&labelColor=181717&color=4DC820" alt="Total KSS2 release-asset downloads"></a> <img src="https://img.shields.io/badge/Interstellar%20KSP-Since%202015-0B9E9A?style=for-the-badge&labelColor=181717" alt="Interstellar KSP Development Since 2015"> </div>
+<div align="center">
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><img src="https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4DC820" alt="Latest KSS2 Release"></a>
+  <img src="https://img.shields.io/badge/KSP-1.12.x-2F80ED?style=for-the-badge&labelColor=181717" alt="KSP Version 1.12.x">
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases"><img src="https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?style=for-the-badge&label=Downloads&logo=github&logoColor=white&labelColor=181717&color=4DC820" alt="Total KSS2 release-asset downloads"></a>
+  <img src="https://img.shields.io/badge/Interstellar%20KSP-Since%202015-0B9E9A?style=for-the-badge&labelColor=181717" alt="Interstellar KSP Development Since 2015">
+</div>
 
 <h1 align="center">KERBAL STAR SYSTEMS 2</h1>
 
@@ -23,34 +28,29 @@
   <i>Kerbol was only the beginning.</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest">
-    <img
-      src="https://img.shields.io/badge/DOWNLOAD-KSS2-4DC820?style=for-the-badge&logo=github&logoColor=white"
-      alt="Download KSS2"
-    />
-  </a>
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2">
-    <img
-      src="https://img.shields.io/badge/READ-INSTALLATION%20GUIDE-2F80ED?style=for-the-badge"
-      alt="Read the KSS2 Installation Guide"
-    />
-  </a>
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki">
-    <img
-      src="https://img.shields.io/badge/EXPLORE-THE%20WIKI-6E5494?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore the KSS2 Wiki"
-    />
-  </a>
-  <a href="https://discord.com/invite/8mKywDaujE">
-    <img
-      src="https://img.shields.io/badge/JOIN-THE%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Join the KSS2 Discord"
-    />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-KSS2-4DC820?style=for-the-badge&logo=github&logoColor=white" alt="Download KSS2"></a>
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2"><img src="https://img.shields.io/badge/READ-INSTALLATION%20GUIDE-2F80ED?style=for-the-badge" alt="Read the KSS2 Installation Guide"></a>
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki"><img src="https://img.shields.io/badge/EXPLORE-THE%20WIKI-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="Explore the KSS2 Wiki"></a>
+  <a href="https://discord.com/invite/8mKywDaujE"><img src="https://img.shields.io/badge/JOIN-THE%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the KSS2 Discord"></a>
+</div>
 
 ---
+
+<h2 align="center">Support KSS2</h2>
+
+<p align="center">
+  KSS2 is developed independently and released for free.<br>
+  Patreon support helps cover recurring software subscriptions, development tools, licensed assets and long-term maintenance.
+</p>
+
+<div align="center">
+  <a href="https://www.patreon.com/c/StarCrusher96"><img src="https://img.shields.io/badge/SUPPORT%20KSS2-ON%20PATREON-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support KSS2 on Patreon"></a>
+</div>
+
+<p align="center">
+  <sub>No planets, systems or public releases are locked behind payment.</sub>
+</p>
 
 ## About KSS2
 
