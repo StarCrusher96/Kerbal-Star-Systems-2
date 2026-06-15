@@ -12,10 +12,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><img src="https://img.shields.io/github/v/release/StarCrusher96/Kerbal-Star-Systems-2?label=Latest%20Release&style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4DC820" alt="Latest KSS2 Release"></a>
-  <img src="https://img.shields.io/badge/KSP-1.12.x-2F80ED?style=for-the-badge&labelColor=181717" alt="KSP Version 1.12.x">
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases"><img src="https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?style=for-the-badge&label=Downloads&logo=github&logoColor=white&labelColor=181717&color=4DC820" alt="Total KSS2 release-asset downloads"></a>
-  <img src="https://img.shields.io/badge/Interstellar%20KSP-Since%202015-0B9E9A?style=for-the-badge&labelColor=181717" alt="Interstellar KSP Development Since 2015">
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/tag/4.0.2"><img src="https://img.shields.io/badge/Latest%20Release-4.0.2-4DC820.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=181717" alt="Latest KSS2 Release 4.0.2"></a>
+  <img src="https://img.shields.io/badge/KSP-1.12.x-2F80ED.svg?style=for-the-badge&amp;labelColor=181717" alt="KSP Version 1.12.x">
+  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases"><img src="https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total.svg?style=for-the-badge&amp;label=Downloads&amp;logo=github&amp;logoColor=white&amp;labelColor=181717&amp;color=4DC820&amp;cacheSeconds=3600" alt="Total KSS2 release-asset downloads"></a>
+  <img src="https://img.shields.io/badge/Interstellar%20KSP-Since%202015-0B9E9A.svg?style=for-the-badge&amp;labelColor=181717" alt="Interstellar KSP Development Since 2015">
 </div>
 
 <h1 align="center">KERBAL STAR SYSTEMS 2</h1>
