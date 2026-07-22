@@ -201,7 +201,7 @@ Do not attempt to run KSS2 alongside the following modifications:
 * Better Kerbol
 * Legacy Parallax configurations
 
-Compatibility parameters shift with updates. Check the matrix before assembly—or at least before filing a bug report blaming the nearest gas giant.
+Compatibility parameters shift with updates. Check the matrix before assembly or at least before filing a bug report blaming the nearest gas giant.
 
 </details>
 
@@ -251,25 +251,35 @@ TheSpacePotato · OoglakKerman · JadeOfMaar · Spaceman · Emu · Caden · Chao
 
 **Special commendation to TheSpacePotato: Co-pilot, designer, and structural engineer since 2016.**
 
-<details>
-<summary><strong>Licensing, Transparency, & Fleet Regulations (Click to expand)</strong></summary>
-
 <br>
 
-### Licensing
+<details>
+<summary><strong>Licensing, Transparency, & Regulations (Click to expand)</strong></summary>
 
-KSS2 is distributed under the terms of **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
+### Licensing & Asset Boundaries
 
-* ✅ **PERMITTED:** Non-commercial sharing with explicit, proper attribution.
-* ❌ **PROHIBITED:** Redistributing modified versions of core files or planetary packs.
-* ❌ **PROHIBITED:** Creating unauthorized derivative packages or extracting assets for separate projects.
+KSS2 uses a granular, component-level multi-licensing structure. Under international copyright law and **[Creative Commons Official Licensor Guidelines](https://creativecommons.org/share-your-work/licensing-considerations/)**, a creator who holds exclusive copyright to all project materials maintains the legal right to apply distinct terms to different components of a work. As explicitly outlined in Creative Commons documentation: *"Any given work has multiple elements; e.g., text, images, music. Make sure to clearly mark or indicate in a notice which of those are covered by the license."*
+
+Starting with the **next update moving forward**, KSS2 officially features and enforces this structured split across two strict legal tiers:
+
+* 🎨 **PLANET & CLOUD TEXTURES (ALL RIGHTS RESERVED):** All custom planet color maps, heightmaps, normal maps, and volumetric cloud textures created **by my hand (StarCrusher96)** are protected under **StarCrusher96 - All Rights Reserved**. Ripping, extracting, converting, or reusing these specific visual assets for any other mod, compilation pack, or external project is strictly prohibited.
+* ⚙️ **CORE FILES & CONFIGS (CC BY-NC-ND 4.0):** All remaining system frameworks, layout structures, and configuration files are distributed under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
+
+To eliminate ambiguity, the following operational boundaries are absolute:
+
+* ✅ **PERMITTED:** Non-commercial sharing, media coverage, and community showcasing of the official package, *strictly conditioned on explicit, proper attribution to the original author.*
+* ❌ **STRICTLY PROHIBITED:** Redistributing modified, "tweaked," "optimized," or unofficial alternative versions of core files, system files, or planetary packs. 
+* ❌ **STRICTLY PROHIBITED:** Creating unauthorized derivative works of any kind. A derivative is explicitly defined as **anything based on, adapted from, or created from KSS2's pre-existing source code, planetary design, layout, mechanics, ideas, or asset library** (including unauthorized or custom system-altering configs), whether published publicly.
+* ❌ **STRICTLY PROHIBITED:** Extracting, ripping, converting, or reusing KSS2 code and system assets (including config nodes, system architectures, and models) for separate mods, third-party compilation packs, or external game projects, *regardless of whether credit is given or financial profit is involved*.
 
 The official, verified repository source for KSS2 is exclusively:
 **[github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)**
 
-### Third-Party Patches
+### Unofficial Patches & Support Policy
 
-Independent community patches may exist as experimental side-projects, but configurations that alter core progression, starting parameters, or orbital hierarchies fall completely outside official KSS2 Command support. Address compatibility issues directly to those third-party authors.
+Independent community side-projects, compatibility patches, or alternative setups (such as custom homeworld configurations) fall **completely outside official KSS2 Command support**. 
+* If you run modified configs or unofficial system alterations, you are on your own. Do not submit bug reports to our GitHub or Discord. Address all troubleshooting directly to the third-party authors.
+* **Spotted a violation?** If you encounter unauthorized mirrors, stolen assets, or illicit derivative packages hosted elsewhere, please inform the Devs immediately via our official Discord server.
 
 ### Transparency Policy
 
