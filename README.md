@@ -44,7 +44,7 @@ Kerbal Star Systems 2 (KSS2) expands Kerbal Space Program into a sprawling, mult
 
 Keep your reactors shielded, your life-support margins positive, and your relative velocity well below "vaporizing on impact."
 
-Preferably all three—though if you only manage two, mission control will happily settle for a clean screenshot before the telemetry cuts out entirely.
+Preferably all three. Though if you only manage two, mission control will happily settle for a clean screenshot before the telemetry cuts out entirely.
 
 ---
 
