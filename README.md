@@ -247,9 +247,9 @@ Development continues as long as there are stars left to map.
 
 ### Commendations & Crew Credits
 
-TheSpacePotato · OoglakKerman · JadeOfMaar · Spaceman · Emu · Caden · Chaotic Protocol · Ciara Rayne Cloud · Bogue · The invaluable community testers and exploratory pioneers.
+TheSpacePotato · Spaceman · OoglakKerman · JadeOfMaar · Emu · Caden · Chaotic Protocol · Ciara Rayne Cloud · Bogue · The invaluable community testers and exploratory pioneers.
 
-**Special commendation to TheSpacePotato: Co-pilot, designer, and structural engineer since 2016.**
+**Special commendation to TheSpacePotato: Co-pilot since 2016.**
 
 <br>
 
