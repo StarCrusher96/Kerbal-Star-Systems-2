@@ -19,10 +19,12 @@
 </div>
 
 <p align="center">
-  <strong>THE DEFINITIVE INTERSTELLAR EXPANSION FOR KERBAL SPACE PROGRAM.</strong>
+  <strong>THE INTERSTELLAR ENDGAME FOR KERBAL SPACE PROGRAM.<strong>
+<p align="center">
+  <strong>BUILT BEYOND KERBOL SINCE 2015.</strong>
 </p>
 <p align="center">
-  <i>Time to find out if your staging works at light-year scale.</i>
+  <i>Because apparently Jool wasn’t far enough.</i>
 </p>
 
 <div align="center">
