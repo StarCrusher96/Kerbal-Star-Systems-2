@@ -188,7 +188,7 @@ An alternate interpretation of Blalo with heavily oxidized terrain, deep crimson
 
 | <img src="https://github.com/user-attachments/assets/bcd6827d-7e92-4760-b465-b29b6c4c1196" width="450" alt="Surface of Blalo"/> | <img src="https://github.com/user-attachments/assets/f7d4b14f-b193-4c4b-b172-19cecee8312a" width="450" alt="Surface of Xolem"/> |
 | :---: | :---: |
-| *Sunrise on Blalo beneath the Nova Kirbani binary glare.* | *The swampy surface of Xolem.* |
+| *The iconic landscapes of Blalo.* | *The swampy surface of Xolem.* |
 
 <p align="center">
   <i>Different stars. Different worlds. Different reasons to rebuild the lander.</i>
