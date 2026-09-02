@@ -404,7 +404,7 @@ Without explicit permission, these assets may **not** be:
 
 ### ⚙️ CC BY-NC-ND 4.0 Files
 
-Files explicitly marked **CC BY-NC-ND 4.0** remain governed by that license.
+All other files are automatically licensed under CC BY-NC-ND 4.0 unless explicitly stated otherwise.
 In practical terms, those files may be **shared unchanged**, provided that:
 
 * proper attribution is retained;
