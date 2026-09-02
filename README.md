@@ -122,7 +122,7 @@ It is a ground-up reconstruction shaped by ten years of designing worlds, rebuil
 
 | <img src="https://github.com/user-attachments/assets/2e66c999-f8c6-463b-868d-30315b8fb2b7" width="450" alt="Aethera erupting in a stellar flare"/> | <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450" alt="Kormin and its moon system"/> |
 | :---: | :---: |
-| *Aethera beneath an active stellar flare.* | *Kormin and its frozen satellites.* |
+| *Aethera erupting in a stellar flare.* | *Kormin and its frozen satellites.* |
 
 ---
 
