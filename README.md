@@ -369,33 +369,109 @@ More than a contributor, he has been one of the project’s longest-running crea
 
 <br>
 
-<details>
-<summary><strong>Licensing, asset boundaries & transparency</strong></summary>
+<details> <summary><strong>⚖️ Licensing, Asset Boundaries & Transparency</strong></summary>
 
-<br>
+KSS2 uses **component-specific licensing**.
 
-### Licensing & Asset Boundaries
+> [!IMPORTANT]
+> **There is no single license covering every part of KSS2.**
+> The license attached to a specific file or asset always takes precedence.
 
-KSS2 uses **component-specific licensing**. Do not assume that a single license applies to every file or asset in the project.
+| Component                                      | License                  | Reuse                                                        |
+| :--------------------------------------------- | :----------------------- | :----------------------------------------------------------- |
+| 🎨 **Planet textures**                         | **All Rights Reserved**  | ❌ Permission required                                        |
+| 🗺️ **Heightmaps & normal maps**               | **All Rights Reserved**  | ❌ Permission required                                        |
+| ☁️ **Cloud & volumetric textures**             | **All Rights Reserved**  | ❌ Permission required                                        |
+| 🧊 **Original models & visual assets**         | **All Rights Reserved**  | ❌ Permission required                                        |
+| ⚙️ **Other files** | **CC BY-NC-ND 4.0**      | ✅ Unmodified, non-commercial redistribution with attribution |
+| 🧩 **Third-party material**                    | **Its original license** | Follow the original author's terms                           |
 
-- **Original visual assets:** planet textures, heightmaps, normal maps, cloud textures, models, and other visual assets explicitly marked **All Rights Reserved** may not be extracted, repackaged, redistributed, or reused in another project without permission from StarCrusher96.
-- **CC-licensed files:** files explicitly released under **CC BY-NC-ND 4.0** remain subject to that license and its conditions.
+### 🎨 Original KSS2 Visual Assets - All Rights Reserved
 
-Always follow the license notice attached to the specific material you intend to use.
+Original visual assets created for KSS2 - including planet textures, color maps, heightmaps, normal maps, cloud textures, models, and other assets explicitly marked **All Rights Reserved** - remain the property of **StarCrusher96**.
 
-### Unofficial Patches
+Without explicit permission, these assets may **not** be:
 
-Independent compatibility patches, homeworld configurations, and other third-party modifications are not official KSS2 releases and fall outside official support.
+* extracted or ripped from KSS2;
+* repackaged or redistributed separately;
+* converted for use in another mod, game, or project;
+* modified and released as derivative visual assets;
+* incorporated into compilation packs or asset libraries.
 
-If an issue only occurs after modifying KSS2 or installing an unofficial patch, direct troubleshooting to the relevant third-party author.
+> [!NOTE]
+> **Credit does not replace permission.**
+> If an asset is marked All Rights Reserved, attribution alone does not grant reuse rights.
 
-### Transparency
+### ⚙️ CC BY-NC-ND 4.0 Files
 
-KSS2 maintains a dedicated policy covering asset boundaries, attribution, licensing, and project provenance.
+Files explicitly marked **CC BY-NC-ND 4.0** remain governed by that license.
+In practical terms, those files may be **shared unchanged**, provided that:
+
+* proper attribution is retained;
+* the use is non-commercial;
+* the licensed material is not distributed in modified or adapted form;
+* all applicable license notices remain intact.
+
+**[Read the CC BY-NC-ND 4.0 license →](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
+
+### ✅ Quick Reference
+
+**You may:**
+
+* ✅ create screenshots, videos, streams, reviews, and other media featuring KSS2;
+* ✅ link directly to the official KSS2 repository and releases;
+* ✅ redistribute files where their specific license explicitly permits it;
+* ✅ create private modifications for personal use;
+* ✅ ask for permission when you want to reuse an original KSS2 asset elsewhere.
+
+**You may not:**
+
+* ❌ take KSS2 visual assets and use them in another project without permission;
+* ❌ redistribute modified versions of material licensed under CC BY-NC-ND;
+* ❌ present KSS2 assets or official files as your own work;
+* ❌ remove attribution, copyright, or license notices;
+* ❌ assume that permission applying to one part of KSS2 automatically applies to the rest.
+
+---
+
+## Unofficial Patches & Modifications
+
+Community-made compatibility patches, homeworld configurations, alternate setups, and other third-party modifications are welcome to exist **where their implementation respects the licenses of the files and assets involved**.
+
+They are, however:
+
+> [!WARNING]
+> **UNOFFICIAL & UNSUPPORTED BY KSS2**
+
+If you use an unofficial patch or modify KSS2 yourself:
+
+* support for those changes belongs with the third-party author;
+* bugs caused by altered files or unsupported configurations should not be reported as KSS2 bugs;
+* official KSS2 support may ask you to reproduce the issue on an unmodified installation.
+
+This distinction protects both community experimentation and the integrity of the official release.
+
+---
+
+## Transparency & Attribution
+
+KSS2 maintains a dedicated policy covering:
+
+* asset provenance;
+* attribution;
+* licensing boundaries;
+* third-party material;
+* project transparency.
 
 **[Read the Transparency & Asset Policy →](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy)**
 
-Official repository:
+> [!TIP]
+> **Unsure whether you can use something?**
+> Contact StarCrusher96 before using it.
+
+### Official Source
+
+The only official KSS2 repository is:
 
 **[github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)**
 
