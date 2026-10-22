@@ -1,9 +1,3 @@
-<!-- =========================================================
-     KERBAL STAR SYSTEMS 2
-     Proposed GitHub README
-     Tone: KSP-native / flagship expansion / interstellar sandbox
-========================================================= -->
-
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/ee694bc1-c4c1-4a48-8644-b082d771e7d1"
@@ -20,26 +14,19 @@
   <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases">
     <img src="https://img.shields.io/github/downloads/StarCrusher96/Kerbal-Star-Systems-2/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads">
   </a>
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy">
-    <img src="https://img.shields.io/badge/License-SEE%20ASSET%20POLICY-E24329?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=181717" alt="KSS2 Asset and Licensing Policy">
+  <a href="#licensing">
+    <img src="https://img.shields.io/badge/License-Component%20Based-E24329?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=181717" alt="KSS2 Licensing">
   </a>
 </div>
 
 <br>
 
-<p align="center">
-  <strong>THE INTERSTELLAR ENDGAME FOR KERBAL SPACE PROGRAM.</strong>
-</p>
+<h3 align="center">The interstellar endgame for Kerbal Space Program.</h3>
 
 <p align="center">
-  <strong>BUILT BEYOND KERBOL SINCE 2015.</strong>
-</p>
-
-<p align="center">
+  Six star systems. Dozens of new worlds. One very long transfer burn.<br>
   <i>Because apparently Jool wasn't far enough.</i>
 </p>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><img src="https://img.shields.io/badge/DOWNLOAD-KSS2-4DC820?style=for-the-badge&logo=github&logoColor=white" alt="Download KSS2"></a>
@@ -49,28 +36,32 @@
 </div>
 
 <p align="center">
-  <sub>INTERSTELLAR PLANET PACK · MODULAR SYSTEMS · MODERN VISUALS · ACTIVE DEVELOPMENT</sub>
+  <sub>
+    <a href="#the-program">The Program</a> ·
+    <a href="#the-systems">The Systems</a> ·
+    <a href="#installation">Installation</a> ·
+    <a href="#compatibility">Compatibility</a> ·
+    <a href="#roadmap">Roadmap</a> ·
+    <a href="#mission-control">Mission Control</a> ·
+    <a href="#licensing">Licensing</a>
+  </sub>
 </p>
 
 ---
 
 ## The Program
 
-Kerbal Space Program is built around a simple question:
+Kerbal Space Program asks one question: **can you build something that will actually get there?**
 
-**Can you build something that will actually get there?**
+KSS2 keeps the question. It just moves *there* several light-years away.
 
-KSS2 keeps that question intact. It just moves *there* several light-years away.
+**Kerbal Star Systems 2** takes the KSP sandbox beyond Kerbol with six hand-crafted stellar environments: red dwarfs, a triple-star frontier, a failed star, a black hole, and more. Nothing about how you play changes. You still design the craft, plan the transfers, string the relays, and land where you probably shouldn't. You just find out whether the vehicle that worked perfectly around Duna still seems like a good idea under three suns.
 
-**Kerbal Star Systems 2** expands the KSP exploration sandbox beyond Kerbol with six hand-crafted stellar environments and a growing collection of planets, moons, dwarf worlds, and stranger destinations. Build the spacecraft, leave the familiar system behind, cross interstellar space, and discover whether the vehicle that worked perfectly around Duna still seems like a good idea under three suns.
-
-KSS2 does not replace the core KSP experience. It extends it.
-
-Design spacecraft. Execute transfers. Establish relays. Build stations and surface outposts. Explore unfamiliar terrain. Learn the local system the same way you learned Kerbol: one successful mission, questionable staging decision, and unplanned lithobraking event at a time.
-
-<p align="center">
-  <strong>NEW STARS · NEW WORLDS · NEW ORBITS · SAME QUESTIONABLE ENGINEERING</strong>
-</p>
+- **Explore farther.** Travel between distinct star systems instead of one planetary neighborhood.
+- **Learn each system from scratch.** Every star has its own orbital layout, visual language, and mission rhythm.
+- **Build for the destination.** Compact moon-hoppers, heavy interplanetary landers, and interstellar motherships all have a place.
+- **See unfamiliar skies.** Multiple suns, brown dwarfs, an evolved giant, and a black hole reshape the view from orbit and the surface.
+- **Choose your scale.** Install only the systems and visual tiers your campaign and hardware can handle.
 
 <br>
 
@@ -83,62 +74,8 @@ Design spacecraft. Execute transfers. Establish relays. Build stations and surfa
 </p>
 
 <p align="center">
-  <i>Kerr, observed from orbit around Grav. Scatterer + EVE Volumetrics.</i>
+  <i>Kerr, seen from orbit around Grav. Scatterer + EVE Volumetrics.</i>
 </p>
-
-<p align="center">
-  <i>One destination down. Several light-years to go.</i>
-</p>
-
----
-
-
-## A Decade in the Black
-
-KSS2 is the third generation of an interstellar worldbuilding project that began in **2015**.
-
-Across **Kerbal Star Systems**, **Galaxies Unbound**, and now **Kerbal Star Systems 2**, the project has spent more than a decade exploring how far KSP's planetary framework can be pushed while still feeling like KSP.
-
-| Era | Project | Legacy |
-| :--- | :--- | :--- |
-| **2015–2019** | `Kerbal Star Systems (KSS1)` | **The foundation.** The first generation of StarCrusher96's large-scale multi-star worldbuilding and the origin of the KSS design language. |
-| **2019–2024** | `Galaxies Unbound (GU)` | **The expansion.** A modular generation of independent stellar systems with broader environmental, visual, and gameplay identities. |
-| **2025–Present** | `Kerbal Star Systems 2 (KSS2)` | **The culmination.** A clean-sheet rebuild focused on stronger planetary identities, modern visual integration, modularity, and a more coherent interstellar sandbox. |
-
-KSS2 is not a remaster of KSS1, and it is not GU with new textures.
-
-It is a ground-up reconstruction shaped by ten years of designing worlds, rebuilding systems, breaking configs, learning what KSP tolerates, and quietly returning the rest to the R&D recycling bin.
-
-<p align="center">
-  <a href="https://github.com/StarCrusher96/StarCrusher-Archive">
-    <img
-      src="https://img.shields.io/badge/EXPLORE-THE%20KSS%20ARCHIVE-0B9E9A?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore the KSS and Galaxies Unbound Archive"
-    />
-  </a>
-</p>
-
-<br>
-
-| <img src="https://github.com/user-attachments/assets/2e66c999-f8c6-463b-868d-30315b8fb2b7" width="450" alt="Aethera erupting in a stellar flare"/> | <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450" alt="Kormin and its moon system"/> |
-| :---: | :---: |
-| *Aethera erupting in a stellar flare.* | *Kormin and its frozen satellites.* |
-
----
-
-
-## What Changes Beyond Kerbol?
-
-KSS2 is built to extend the things KSP already does best rather than turn them into a different game.
-
-| | |
-| :--- | :--- |
-| **Explore farther** | Leave the stock system behind and travel between distinct stellar environments rather than a single planetary neighborhood. |
-| **Learn new systems** | Each star system has its own orbital layout, planetary hierarchy, visual language, and exploration rhythm. |
-| **Build for the destination** | Different worlds reward different mission architectures, from compact moon-hoppers to large interplanetary and interstellar vehicles. |
-| **See genuinely unfamiliar skies** | Multiple stars, brown dwarfs, evolved giants, violent stellar environments, and a black-hole system reshape the view from orbit and the surface. |
-| **Choose your scale** | KSS2 is modular. Install the systems and visual packages that fit the campaign and hardware you actually want to run. |
-| **Keep the KSP sandbox intact** | KSS2 adds destinations. Your spacecraft, mission architecture, progression setup, and inevitable engineering decisions remain yours. |
 
 ---
 
@@ -146,49 +83,33 @@ KSS2 is built to extend the things KSP already does best rather than turn them i
 
 Set navigation coordinates beyond Eeloo.
 
-KSS2 currently spans six major stellar environments. They are inspired by real astronomical classes and nearby systems, but each is designed first as a **KSP destination** rather than a 1:1 scientific reconstruction.
+Each system takes a real astronomical class as its starting point, then is designed first as a **KSP destination**, not a 1:1 scientific reconstruction.
 
-| Star System | Classification | What You Find There | Status |
-| :--- | :--- | :--- | :--- |
-| **Aethera** | `Compact Red Dwarf System` | A tightly packed family of close-in worlds beneath an active red star. Compact distances and varied planetary environments make it a natural first destination beyond Kerbol. | **RELEASED** |
-| **Nova Kirbani** | `Multiple-Star System` | A broad multi-star frontier inspired by our nearest stellar neighbors, with contrasting worlds spread beneath the light of three suns. | **RELEASED** |
-| **Kormin** | `Brown Dwarf System` | A dim sub-stellar system of frozen satellites, exotic chemistry, dark skies, and worlds lit by little more than a failed star and the distant galaxy. | **RELEASED** |
-| **Kerr** | `Black Hole System` | The far end of the map: a system built around a galactic-center black hole, its accretion environment, and some of KSS2's most extreme orbital scenery. | **RELEASED** |
-| **Seereon** | `Blue Star + Dead Companion System` | A luminous stellar environment with worlds shaped around a hot, high-energy primary and its companion. | **EXPANDING** |
-| **Orbel** | `Evolved Giant Star System` | Ancient planets and fractured moons beneath an evolved giant star entering the later stages of stellar life. | **EXPANDING** |
+| Star System | Type | What You'll Find | Inspired By | Status |
+| :--- | :--- | :--- | :--- | :---: |
+| **Aethera** | Compact red dwarf | A tightly packed family of close-in worlds under an active red star. Short distances make it the natural first stop beyond Kerbol. | TRAPPIST-1 | ✅ Released |
+| **Nova Kirbani** | Triple star | A broad frontier of contrasting worlds spread beneath three suns. | Alpha Centauri A, B & Proxima | ✅ Released |
+| **Kormin** | Brown dwarf | Frozen satellites, exotic chemistry, and dark skies lit by a failed star and the distant galaxy. | Luhman 16 | ✅ Released |
+| **Kerr** | Black hole | The far end of the map: an accretion environment and KSS2's most extreme orbital scenery. | Sagittarius A* | ✅ Released |
+| **Seereon** | Blue star + dead companion | High-energy worlds shaped by a hot, luminous primary and its stellar remnant. | Sirius | 🚧 Expanding |
+| **Orbel** | Evolved giant | Ancient planets and fractured moons around a star in the late stages of its life. | Pollux | 🚧 Expanding |
 
-### System Expansions
+### Optional Expansions
 
-**Pandor Expansion**  
-A lush, bioluminescent moon within Nova Kirbani. Built as a dense exploration destination for atmospheric flight, surface missions, science, and permanent outposts.
-
-**Red Blalo Expansion**  
-An alternate interpretation of Blalo with heavily oxidized terrain, deep crimson oceans, and a radically different planetary character.
-
-<details>
-<summary><strong>View astronomical inspirations</strong></summary>
-
-<br>
-
-| KSS2 System | Real-World Inspiration |
+| Expansion | Description |
 | :--- | :--- |
-| **Aethera** | TRAPPIST-1 |
-| **Nova Kirbani** | Alpha Centauri A, Alpha Centauri B & Proxima Centauri |
-| **Kormin** | Luhman 16 |
-| **Seereon** | Sirius |
-| **Orbel** | Pollux |
-| **Kerr** | The Galactic Center & Sagittarius A* |
-
-> KSS2 uses real astronomy as a starting point, not a cage.  
-> These systems are original gameplay interpretations designed around KSP's scale, mechanics, and visual language.
-
-</details>
+| **Pandor** | A lush, bioluminescent moon in Nova Kirbani, built for atmospheric flight, surface science, and permanent outposts. |
+| **Red Blalo** | An alternate Blalo with heavily oxidized terrain, deep crimson oceans, and a radically different character. |
 
 <br>
 
-| <img src="https://github.com/user-attachments/assets/bcd6827d-7e92-4760-b465-b29b6c4c1196" width="450" alt="Surface of Blalo"/> | <img src="https://github.com/user-attachments/assets/f7d4b14f-b193-4c4b-b172-19cecee8312a" width="450" alt="Surface of Xolem"/> |
+| <img src="https://github.com/user-attachments/assets/2e66c999-f8c6-463b-868d-30315b8fb2b7" width="450" alt="Aethera erupting in a stellar flare"/> | <img src="https://github.com/user-attachments/assets/3a7afcc6-406c-47c3-ab89-18bc99d784d9" width="450" alt="Kormin and its moon system"/> |
 | :---: | :---: |
-| *The iconic landscapes of Blalo.* | *The swampy surface of Xolem.* |
+| *Aethera erupting in a stellar flare.* | *Kormin and its frozen satellites.* |
+| <img src="https://github.com/user-attachments/assets/bcd6827d-7e92-4760-b465-b29b6c4c1196" width="450" alt="Surface of Blalo"/> | <img src="https://github.com/user-attachments/assets/f7d4b14f-b193-4c4b-b172-19cecee8312a" width="450" alt="Surface of Xolem"/> |
+| *The landscapes of Blalo.* | *The swamps of Xolem.* |
+| <img src="https://github.com/user-attachments/assets/d47d24ad-649f-428d-810a-9f0cb9fbcfe5" width="450" alt="Polynovin and its satellites"/> | <img src="https://github.com/user-attachments/assets/89b76992-11e8-4c27-840e-411c56d46093" width="450" alt="Kerr"/> |
+| *Polynovin and its moons.* | *Kerr. There are easier places to plan an orbital insertion.* |
 
 <p align="center">
   <i>Different stars. Different worlds. Different reasons to rebuild the lander.</i>
@@ -196,115 +117,71 @@ An alternate interpretation of Blalo with heavily oxidized terrain, deep crimson
 
 ---
 
+## A Decade in the Black
 
+KSS2 is the third generation of an interstellar worldbuilding project that began in **2015**.
 
-## Built for Modern KSP
+| Era | Project | Role |
+| :--- | :--- | :--- |
+| **2015–2019** | Kerbal Star Systems (KSS1) | **The foundation.** The first large-scale multi-star pack and the origin of the KSS design language. |
+| **2019–2024** | Galaxies Unbound (GU) | **The expansion.** Independent, modular stellar systems with broader visual and gameplay identities. |
+| **2025–present** | Kerbal Star Systems 2 (KSS2) | **The culmination.** A clean-sheet rebuild with stronger planetary identities, modern visuals, and a coherent interstellar sandbox. |
 
-KSS2 is designed as a destination layer for a heavily modded KSP 1.12.x installation.
-
-Its systems are built to take advantage of the modern planetary and visual ecosystem while remaining modular enough that players can decide how large their interstellar game should become.
-
-### Designed around
-
-- **Kopernicus-based multi-system architecture**
-- **Scatterer atmospheric and lighting integration**
-- **EVE Volumetrics visual environments**
-- **Modern surface and planetary visual workflows**
-- **Modular stellar-system installation**
-- **Large interstellar mission profiles**
-- **Compatibility with broader KSP gameplay stacks where supported**
-
-KSS2 provides the worlds.
-
-How impractical the spacecraft becomes before reaching them remains entirely up to you.
-
-<br>
-
-| <img src="https://github.com/user-attachments/assets/d47d24ad-649f-428d-810a-9f0cb9fbcfe5" width="450" alt="Polynovin and its satellites"/> | <img src="https://github.com/user-attachments/assets/89b76992-11e8-4c27-840e-411c56d46093" width="450" alt="Kerr"/> |
-| :---: | :---: |
-| *Polynovin and its surrounding orbital hierarchy.* | *Kerr. There are easier places to plan an orbital insertion.* |
+KSS2 is not a remaster of KSS1, and it is not GU with new textures. It is a ground-up rebuild shaped by ten years of designing worlds, breaking configs, and learning exactly what KSP will tolerate.
 
 <p align="center">
-  <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki"><strong>Explore the Wiki</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://discord.com/invite/8mKywDaujE"><strong>Join Mission Control</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/@starcrusher96"><strong>Watch Visual Archives</strong></a>
+  <a href="https://github.com/StarCrusher96/StarCrusher-Archive">
+    <img src="https://img.shields.io/badge/EXPLORE-THE%20KSS%20ARCHIVE-0B9E9A?style=for-the-badge&logo=github&logoColor=white" alt="Explore the KSS and Galaxies Unbound Archive"/>
+  </a>
 </p>
 
 ---
 
-
 ## Installation
 
-KSS2 is large, modular, and installed manually.
-
-Start from a **clean KSP 1.12.x installation**, follow the installation guide, and only deploy the systems and visual packages you intend to use.
+KSS2 is large, modular, and installed manually. It is built for **KSP 1.12.x** on top of **Kopernicus**, with **Scatterer** and **EVE Volumetrics** integration for the full visual experience.
 
 <table>
   <tr>
-    <th width="55%" align="left">DEPLOYMENT SEQUENCE</th>
-    <th width="45%" align="left">SYSTEM REQUIREMENTS</th>
+    <th width="55%" align="left">Deployment Sequence</th>
+    <th width="45%" align="left">System Requirements</th>
   </tr>
   <tr>
     <td valign="top">
       <ol>
-        <li>Download the latest core package from <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><strong>GitHub Releases</strong></a>.</li>
-        <li>Follow the <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2"><strong>Installation Guide</strong></a>.</li>
-        <li>Install all required dependencies.</li>
-        <li>Select the stellar systems and visual tiers you want to use.</li>
-        <li><strong>Use a clean KSP 1.12.x installation.</strong></li>
-        <li>Verify the final directory structure before launch.</li>
+        <li>Start from a <strong>clean KSP 1.12.x install</strong>.</li>
+        <li>Download the core package from <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/releases/latest"><strong>Releases</strong></a>.</li>
+        <li>Install every required dependency listed in the <a href="https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2"><strong>Installation Guide</strong></a>.</li>
+        <li>Add only the star systems and visual tiers you want.</li>
+        <li>Check your <code>GameData</code> structure against the guide before launch.</li>
       </ol>
     </td>
     <td valign="top">
-      <strong>KSP Version</strong><br>
-      <code>1.12.x</code>
-      <br><br>
-      <strong>Memory</strong><br>
-      16 GB minimum.<br>
-      32 GB recommended for larger system combinations and full visual suites.
-      <br><br>
-      <strong>Graphics</strong><br>
-      1–2 GB VRAM minimum.<br>
-      Volumetric clouds and high-resolution visual packages require considerably more.
-      <br><br>
-      <strong>Installation</strong><br>
-      Manual installation required.
+      <strong>KSP</strong> · <code>1.12.x</code><br><br>
+      <strong>RAM</strong> · 16 GB minimum, 32 GB recommended for multiple systems or full visuals<br><br>
+      <strong>VRAM</strong> · 1–2 GB minimum; volumetric clouds and high-res tiers need considerably more<br><br>
+      <strong>Install</strong> · Manual only
     </td>
   </tr>
 </table>
 
 > [!IMPORTANT]
-> ### Why is KSS2 not on CKAN?
->
-> KSS2 is distributed as a modular interstellar framework with optional systems and visual packages. Manual installation gives players direct control over that structure and helps prevent unsupported combinations, conflicting dependencies, and incorrect file layouts.
->
-> **[Read the installation guide before launch →](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2)**
->
+> **Why isn't KSS2 on CKAN?**
+> KSS2 ships as a modular framework with optional systems and visual tiers. Manual installation gives you direct control over that structure and avoids unsupported combinations, conflicting dependencies, and broken file layouts.
 > Your GameData folder will appreciate the rare display of restraint.
+>
+> **[Read the Installation Guide →](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/How-to-Install-Kerbal-Star-Systems-2)**
 
 ### Compatibility
 
-Some modifications conflict with KSS2's fixed multi-star architecture or legacy file structure.
+> [!CAUTION]
+> **Do not run KSS2 alongside:**
+> - **Principia**: its N-body physics conflicts with KSS2's fixed multi-star architecture.
+> - **Galaxies Unbound**: legacy system and file conflicts.
+> - **Better Kerbol**
+> - **Legacy Parallax configurations**
 
-**[Consult the full Compatibility Matrix before launch →](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Compatibility)**
-
-<details>
-<summary><strong>Known major incompatibilities</strong></summary>
-
-<br>
-
-Do not attempt to run KSS2 alongside:
-
-- **Principia** : N-body orbital mechanics conflict with KSS2's fixed multi-star coordinate architecture.
-- **Galaxies Unbound** : Legacy system and file conflicts.
-- **Better Kerbol**
-- **Legacy Parallax configurations**
-
-Compatibility can change between releases. Check the matrix before troubleshooting.
-
-</details>
+Compatibility changes between releases. **[Check the full Compatibility Matrix →](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Compatibility)**
 
 <p align="center">
   <img
@@ -320,171 +197,109 @@ Compatibility can change between releases. Check the matrix before troubleshooti
 
 ---
 
-## Future Trajectories
+## Roadmap
 
-There is no predetermined final system count.
+There is no fixed final system count. KSS2 continues for as long as there are worlds worth building and time to build them properly.
 
-KSS2 continues for as long as there are worthwhile worlds to build, technical ideas worth testing, and enough time to build them properly.
-
-| **ACTIVE DEVELOPMENT** | **EXPERIMENTAL DIRECTIONS** |
+| In Development | Experimental Directions |
 | :--- | :--- |
-| Expanding Orbel and Seereon | A system centered around an active pulsar |
-| Refining planetary topography and atmospheric presentation | Distant anomalies beyond the familiar edge of Kerbol |
-| Developing new stellar and environmental visual states | Stronger links between local Kerbol missions and interstellar exploration |
-| Optimization, memory management, and compatibility work | New planetary concepts and survival-oriented destinations |
+| Expanding Seereon and Orbel | A system built around an active pulsar |
+| Refined terrain and atmospheres | Distant anomalies at the edge of Kerbol |
+| New stellar and environmental visual states | Stronger links between Kerbol missions and interstellar travel |
+| Optimization, memory use, and compatibility | New planetary concepts and survival-focused destinations |
 
-> Experimental means experimental.  
-> These are directions, not promises, deadlines, or a quota of star systems KSS2 is required to reach.
-
-Development continues while making KSS2 remains worth doing.
+> Experimental means experimental. These are directions, not promises or deadlines.
 
 ---
 
 ## Mission Control
 
-| **COMMUNITY** | **DEVELOPMENT & MEDIA** | **SUPPORT** |
+| Community | Development & Media | Support |
 | :--- | :--- | :--- |
-| [Discord](https://discord.com/invite/8mKywDaujE) | [YouTube](https://www.youtube.com/@starcrusher96) | [Patreon](https://www.patreon.com/c/StarCrusher96) |
-| Installation help, mission reports, screenshots, and discussion. | Trailers, system previews, development footage, and visual showcases. | Optional support for development tools, assets, and maintenance. |
-| **[Report Issues](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/issues)** | **[Operations Wiki](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki)** | **KSS2 remains free to download.** |
+| **[Discord](https://discord.com/invite/8mKywDaujE)**<br>Install help, mission reports, screenshots. | **[YouTube](https://www.youtube.com/@starcrusher96)**<br>Trailers, system previews, dev footage. | **[Patreon](https://www.patreon.com/c/StarCrusher96)**<br>Optional support for tools, assets, and upkeep. |
+| **[Report an Issue](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/issues)** | **[Wiki](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki)** | **KSS2 is and stays free.** Released content is never locked behind a paywall. |
 
-> Patreon support helps sustain development, but released KSS2 content is not sold or locked behind a gameplay paywall.
+> [!TIP]
+> **Reporting a bug?** Include your `KSP.log`, a `GameData` screenshot, and clear reproduction steps.
+> *"It exploded somewhere near Kerr"* is an excellent mission report, but limited diagnostic information.
 
-> Bug reports should include logs and clear reproduction steps.
-> *"It exploded somewhere near Kerr"* is an excellent mission report, but regrettably limited diagnostic information.
+### Crew Credits
 
-### Commendations & Crew Credits
+Spaceman · OoglakKerman · JadeOfMaar · Emu · Caden · Chaotic Protocol · Ciara Rayne Cloud · Bogue, and every tester, contributor, and explorer who has helped shape the project across its generations.
 
-Spaceman · OoglakKerman · JadeOfMaar · Emu · Caden · Chaotic Protocol · Ciara Rayne Cloud · Bogue · the testers, contributors, and explorers who have helped shape the project across its many iterations.
+### Special Commendation: TheSpacePotato
 
-### Special Commendation - TheSpacePotato
+Few people have been part of KSS as long as **TheSpacePotato**. Across KSS1, Galaxies Unbound, and KSS2, he has been a constant: from writing the original KSS1 wiki and an unreasonable number of scienceDefs, to becoming KSS2's Volumetric EVE specialist and building his own visual project, **[SpacePotato's Volumetric Enhancements (SPVE)](https://github.com/TheSpacePotato/SpacePotato-s-Volumetric-Enhancements)**.
 
-Few people have been part of KSS for as long as **TheSpacePotato**. Across **Kerbal Star Systems**, **Galaxies Unbound**, and now **KSS2**, he has remained a constant presence beside the project through all three generations of its development.
+One of the project's longest-running creative and technical constants. **Thank you ❤️**
 
-His role has evolved with it: from writing the original **KSS1 Wiki** and an almost unreasonable number of scienceDefs, to becoming KSS2’s specialist in Volumetric EVE and developing his own visual project, **[SpacePotato’s Volumetric Enhancements (SPVE)](https://github.com/TheSpacePotato/SpacePotato-s-Volumetric-Enhancements)**.
+---
 
-More than a contributor, he has been one of the project’s longest-running creative and technical constants.
+## Licensing
 
-> **Thank you ❤️.**
+KSS2 uses **component-specific licensing**. There is no single license covering everything; the license attached to a specific file or asset always takes precedence.
+
+| Component | License | Reuse |
+| :--- | :--- | :--- |
+| 🎨 Planet textures, heightmaps & normal maps | **All Rights Reserved** | ❌ Permission required |
+| ☁️ Cloud & volumetric textures | **All Rights Reserved** | ❌ Permission required |
+| 🧊 Original models & visual assets | **All Rights Reserved** | ❌ Permission required |
+| ⚙️ All other files (configs, etc.) | **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)** | ✅ Unmodified, non-commercial, with attribution |
+| 🧩 Third-party material | Original license | Follow the original author's terms |
+
+> [!NOTE]
+> **Credit does not replace permission.** Attribution alone does not grant reuse rights for All Rights Reserved assets.
+
+<details>
+<summary><strong>Full licensing details, unofficial patches & transparency</strong></summary>
 
 <br>
 
-<details> <summary><strong>⚖️ Licensing, Asset Boundaries & Transparency</strong></summary>
+**Original visual assets (All Rights Reserved)**
 
-KSS2 uses **component-specific licensing**.
+Planet textures, color maps, heightmaps, normal maps, cloud textures, models, and other assets marked All Rights Reserved remain the property of **StarCrusher96**. Without explicit permission, they may not be:
 
-> [!IMPORTANT]
-> **There is no single license covering every part of KSS2.**
-> The license attached to a specific file or asset always takes precedence.
+- extracted or ripped from KSS2;
+- repackaged or redistributed separately;
+- converted for use in another mod, game, or project;
+- modified and released as derivative assets;
+- included in compilation packs or asset libraries.
 
-| Component                                      | License                  | Reuse                                                        |
-| :--------------------------------------------- | :----------------------- | :----------------------------------------------------------- |
-| 🎨 **Planet textures**                         | **All Rights Reserved**  | ❌ Permission required                                        |
-| 🗺️ **Heightmaps & normal maps**               | **All Rights Reserved**  | ❌ Permission required                                        |
-| ☁️ **Cloud & volumetric textures**             | **All Rights Reserved**  | ❌ Permission required                                        |
-| 🧊 **Original models & visual assets**         | **All Rights Reserved**  | ❌ Permission required                                        |
-| ⚙️ **Other files** | **CC BY-NC-ND 4.0**      | ✅ Unmodified, non-commercial redistribution with attribution |
-| 🧩 **Third-party material**                    | **Its original license** | Follow the original author's terms                           |
+**CC BY-NC-ND 4.0 files**
 
-### 🎨 Original KSS2 Visual Assets - All Rights Reserved
+All other files are licensed under CC BY-NC-ND 4.0 unless stated otherwise. They may be shared **unchanged**, provided attribution is kept, use is non-commercial, and all license notices remain intact.
 
-Original visual assets created for KSS2 - including planet textures, color maps, heightmaps, normal maps, cloud textures, models, and other assets explicitly marked **All Rights Reserved** - remain the property of **StarCrusher96**.
+**Quick reference**
 
-Without explicit permission, these assets may **not** be:
+| ✅ You may | ❌ You may not |
+| :--- | :--- |
+| Make screenshots, videos, streams, and reviews featuring KSS2 | Use KSS2 visual assets in another project without permission |
+| Link to the official repository and releases | Redistribute modified versions of CC BY-NC-ND files |
+| Redistribute files where their license explicitly allows it | Present KSS2 assets or files as your own work |
+| Make private modifications for personal use | Remove attribution, copyright, or license notices |
+| Ask permission to reuse an original asset | Assume permission for one part covers the rest |
 
-* extracted or ripped from KSS2;
-* repackaged or redistributed separately;
-* converted for use in another mod, game, or project;
-* modified and released as derivative visual assets;
-* incorporated into compilation packs or asset libraries.
+**Unofficial patches & modifications**
 
-> [!NOTE]
-> **Credit does not replace permission.**
-> If an asset is marked All Rights Reserved, attribution alone does not grant reuse rights.
+Community compatibility patches, homeworld configs, and alternate setups are welcome where they respect the licenses involved. They are **unofficial and unsupported**:
 
-### ⚙️ CC BY-NC-ND 4.0 Files
+- support for those changes belongs with their author;
+- bugs caused by altered files should not be reported as KSS2 bugs;
+- official support may ask you to reproduce issues on an unmodified install.
 
-All other files are automatically licensed under CC BY-NC-ND 4.0 unless explicitly stated otherwise.
-In practical terms, those files may be **shared unchanged**, provided that:
+**Transparency**
 
-* proper attribution is retained;
-* the use is non-commercial;
-* the licensed material is not distributed in modified or adapted form;
-* all applicable license notices remain intact.
-
-**[Read the CC BY-NC-ND 4.0 license →](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
-
-### ✅ Quick Reference
-
-**You may:**
-
-* ✅ create screenshots, videos, streams, reviews, and other media featuring KSS2;
-* ✅ link directly to the official KSS2 repository and releases;
-* ✅ redistribute files where their specific license explicitly permits it;
-* ✅ create private modifications for personal use;
-* ✅ ask for permission when you want to reuse an original KSS2 asset elsewhere.
-
-**You may not:**
-
-* ❌ take KSS2 visual assets and use them in another project without permission;
-* ❌ redistribute modified versions of material licensed under CC BY-NC-ND;
-* ❌ present KSS2 assets or official files as your own work;
-* ❌ remove attribution, copyright, or license notices;
-* ❌ assume that permission applying to one part of KSS2 automatically applies to the rest.
-
----
-
-## Unofficial Patches & Modifications
-
-Community-made compatibility patches, homeworld configurations, alternate setups, and other third-party modifications are welcome to exist **where their implementation respects the licenses of the files and assets involved**.
-
-They are, however:
-
-> [!WARNING]
-> **UNOFFICIAL & UNSUPPORTED BY KSS2**
-
-If you use an unofficial patch or modify KSS2 yourself:
-
-* support for those changes belongs with the third-party author;
-* bugs caused by altered files or unsupported configurations should not be reported as KSS2 bugs;
-* official KSS2 support may ask you to reproduce the issue on an unmodified installation.
-
-This distinction protects both community experimentation and the integrity of the official release.
-
----
-
-## Transparency & Attribution
-
-KSS2 maintains a dedicated policy covering:
-
-* asset provenance;
-* attribution;
-* licensing boundaries;
-* third-party material;
-* project transparency.
-
-**[Read the Transparency & Asset Policy →](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy)**
-
-> [!TIP]
-> **Unsure whether you can use something?**
-> Contact StarCrusher96 before using it.
-
-### Official Source
-
-The only official KSS2 repository is:
-
-**[github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)**
+Asset provenance, attribution, and third-party material are documented in the **[Transparency & Asset Policy](https://github.com/StarCrusher96/Kerbal-Star-Systems-2/wiki/Transparency-&-Asset-Policy)**. Unsure whether you can use something? Contact StarCrusher96 first.
 
 </details>
 
+**Official source:** the only official KSS2 repository is [github.com/StarCrusher96/Kerbal-Star-Systems-2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2).
+
 ---
 
 <p align="center">
-  <strong>FROM A WOBBLY ROCKET TO ANOTHER STAR.</strong>
-</p>
-
-<p align="center">
-  <strong>2015 - PRESENT</strong>
+  <strong>From a wobbly rocket to another star.</strong><br>
+  <sub>2015 to present</sub>
 </p>
 
 <p align="center">
